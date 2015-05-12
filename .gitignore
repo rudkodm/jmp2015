@@ -1,5 +1,6 @@
 *.log
 *.class
+*.bin
 build/
 .metadata/
 .gradle/
