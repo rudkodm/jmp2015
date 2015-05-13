@@ -1,0 +1,15 @@
+subprojects {
+    apply plugin: 'java'
+    
+    group = 'by.rudko.classloading'
+    version = '1.0'
+    jar.archiveName = project.name
+
+    repositories {
+        mavenCentral()
+    }
+
+    dependencies {
+        testCompile "junit:junit:4.12"
+    }
+}
