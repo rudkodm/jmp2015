@@ -9,7 +9,9 @@ public class Application {
 
     public static void main(String[] args) throws Exception{
         while(true){
+
             String command = in.readLine();
+
             if("default".equals(command)) {
                 Module module = new DefaultModule();
 
@@ -18,8 +20,9 @@ public class Application {
                 module.unload();
             }
 
-            if(true){
+            if("custom".equals(command)){
                 Module module = ModuleFactory.getInstance();
+
                 module.load();
                 module.run();
                 module.unload();

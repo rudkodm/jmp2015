@@ -1,6 +1,6 @@
 package by.rudko.classloading;
 
-interface Module {
+public interface Module {
 
     void load();
 
