@@ -1,19 +1,25 @@
 package by.rudko.classloading;
 
-public class CustomModule implements Module{
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
+import by.rudko.classloading.beans.SomeLogic;
+
+public class CustomModule implements Module{
+	private static final Logger LOG = LogManager.getLogger(CustomModule.class.getName());
+	
     @Override
     public void load() {
-        System.out.println(">> Load CustomModule");
+    	LOG.info(">> Load Custom CustomModule");
     }
 
     @Override
     public void run(){
-        System.out.println(">> Run CustomModule");
+    	LOG.info(">> Run Custom CustomModule: " + new SomeLogic());
     }
 
     @Override
     public void unload() {
-        System.out.println(">> Unload CustomModule");
+    	LOG.info(">> Unload Custom CustomModule");
     }
 }

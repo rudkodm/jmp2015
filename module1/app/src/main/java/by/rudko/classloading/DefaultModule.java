@@ -1,18 +1,23 @@
 package by.rudko.classloading;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 public class DefaultModule implements Module{
+	private static final Logger LOG = LogManager.getLogger(DefaultModule.class.getName());
+	
     @Override
     public void load() {
-        System.out.println(">> Load DefaultModule");
+    	LOG.info(">> Load DefaultModule");
     }
 
     @Override
     public void run() {
-        System.out.println(">> Run DefaultModule");
+    	LOG.info(">> Run DefaultModule");
     }
 
     @Override
     public void unload() {
-        System.out.println(">> Unload DefaultModule");
+    	LOG.info(">> Unload DefaultModule");
     }
 }

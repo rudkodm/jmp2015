@@ -6,13 +6,14 @@ subprojects {
 
     group = 'by.rudko.classloading'
     version = '1.0'
-    jar.archiveName = project.name
+    jar.archiveName = "${project.name}.jar"
 
     repositories {
         mavenCentral()
     }
 
     dependencies {
-        testCompile "junit:junit:4.12"
+    	compile "org.apache.logging.log4j:log4j-core:2.1"
+    	testCompile "junit:junit:4.12"
     }
 }
