@@ -1,0 +1,19 @@
+subprojects {
+    apply plugin: 'java'
+
+    sourceCompatibility = '1.8'
+    targetCompatibility = '1.8'
+
+    group = 'by.rudko.classloading'
+    version = '1.0'
+    jar.archiveName = "${project.name}.jar"
+
+    repositories {
+        mavenCentral()
+    }
+
+    dependencies {
+    	compile 'log4j:log4j:1.2.17'
+    	testCompile "junit:junit:4.12"
+    }
+}
