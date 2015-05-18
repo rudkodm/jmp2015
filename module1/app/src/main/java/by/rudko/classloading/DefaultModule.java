@@ -1,7 +1,7 @@
 package by.rudko.classloading;
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
+import org.apache.log4j.LogManager;
+import org.apache.log4j.Logger;
 
 public class DefaultModule implements Module{
 	private static final Logger LOG = LogManager.getLogger(DefaultModule.class.getName());

@@ -2,13 +2,11 @@ package by.rudko.classloading;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.net.URLClassLoader;
 import java.nio.file.NoSuchFileException;
-import java.util.Arrays;
 import java.util.NoSuchElementException;
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
+import org.apache.log4j.LogManager;
+import org.apache.log4j.Logger;
 
 public class Application {
     private static final Logger LOG = LogManager.getLogger(Application.class.getName());
