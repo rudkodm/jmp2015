@@ -1,34 +1,60 @@
-// Apply the java plugin to add support for Java
 apply plugin: 'java'
+
+sourceCompatibility = '1.8'
+targetCompatibility = '1.8'
+group = 'by.rudko.gc'
+version = '1.0'
 
 repositories {
     mavenCentral()
 }
 
 jar {
-	manifest {
-		attributes 'Main-Class': 'by.rudko.gc.Application'
-	}
+    manifest {
+        attributes 'Main-Class': 'by.rudko.gc.Application'
+    }
 }
-// In this section you declare the dependencies for your production and test code
+
 dependencies {
-    compile 'org.slf4j:slf4j-api:1.7.5'
-    testCompile "junit:junit:4.11"
 }
 
-task run(dependsOn: build) << {
-	def proc =  "java -jar ${jar.archivePath}".execute()
-	
-	proc.in.eachLine {line ->
-		println line
-	}
-	
-	println proc.err.text
-	
-	proc.exitValue()
+/*
+ Java.MP.C4.M3.GC Default Task 5
+
+ Write a Command Line that starts a JavaApp using the Concurrent Mark Sweep (CMS) Collector
+ - with 2 Parallel CMS Threads
+ with the following parameters:
+ - the 2m initial heap size for when the JVM starts
+ - the 18m maximum heap size
+ - the 1m size of the Young Generation
+ - the 24m starting size of the Permanent Generation
+ - the 36 maximum size of the Permanent Generation
+ */
+//-XX:PermSize=24m -XX:MaxPermSize=24m
+task removeLog << {
+    "rm ${projectDir}/gc.log".execute()
 }
 
-task print << {
-	println jar.archivePath
+task run(dependsOn: ['build', 'removeLog']) << {
+    def command =
+    """
+    java
+    -Dtest=old
+    -XX:+HeapDumpOnOutOfMemoryError
+    -XX:+UseConcMarkSweepGC
+    -Xms5m -Xmx5m
+    -XX:+PrintGCTimeStamps -XX:+PrintGCDetails -Xloggc:${projectDir}/gc.log
+    -jar ${jar.archivePath}
+    """
+    execute command
 }
 
+def execute(str) {
+    def proc =  str.execute()
+
+    proc.in.eachLine {line ->
+        println line
+    }
+    println proc.err.text
+    proc.exitValue()
+}
