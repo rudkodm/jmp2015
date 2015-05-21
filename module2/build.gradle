@@ -18,6 +18,11 @@ jar {
 dependencies {
 }
 
+
+task removeLog << {
+    "rm ${projectDir}/gc.log".execute()
+}
+
 /*
  Java.MP.C4.M3.GC Default Task 5
 
@@ -30,10 +35,7 @@ dependencies {
  - the 24m starting size of the Permanent Generation
  - the 36 maximum size of the Permanent Generation
  */
-//-XX:PermSize=24m -XX:MaxPermSize=24m
-task removeLog << {
-    "rm ${projectDir}/gc.log".execute()
-}
+
 
 task run(dependsOn: ['build', 'removeLog']) << {
     def command =
@@ -42,7 +44,10 @@ task run(dependsOn: ['build', 'removeLog']) << {
     -Dtest=old
     -XX:+HeapDumpOnOutOfMemoryError
     -XX:+UseConcMarkSweepGC
-    -Xms5m -Xmx5m
+    -XX:+CMSConcurrentMTEnabled
+    -Xms10m -Xmx100m -XX:NewSize=3m -XX:MaxNewSize=3m
+    ‑XX:+ConcGCThreads=2
+    -XX:PermSize=24m -XX:MaxPermSize=24m
     -XX:+PrintGCTimeStamps -XX:+PrintGCDetails -Xloggc:${projectDir}/gc.log
     -jar ${jar.archivePath}
     """

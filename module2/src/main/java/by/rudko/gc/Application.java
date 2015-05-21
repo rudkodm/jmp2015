@@ -1,12 +1,12 @@
 package by.rudko.gc;
 
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
+import java.lang.ref.SoftReference;
+import java.util.HashSet;
 
-import static java.lang.System.*;
+import static java.lang.System.err;
+import static java.lang.System.out;
 
 public class Application {
-    private static final BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
 
     public static void main(String[] args) throws Exception {
         final String key = "test";
@@ -18,7 +18,7 @@ public class Application {
                 break;
             }
             case TEST_OLD_GET: {
-//                testOld();
+                testOld();
                 break;
             }
             default: {
@@ -36,47 +36,14 @@ public class Application {
     }
 
     private static void testOld() {
+        final HashSet set = new HashSet();
+
         while (true) {
-            out.println(new Bean().getId());
+
+            Bean o = new Bean();
+            out.println(o.getId());
+
+            set.add(new SoftReference<Bean>(o));
         }
-    }
-}
-
-
-class Bean {
-    private static int counter = 0;
-
-    @SuppressWarnings("unused")
-    private int[] size = new int[1000];
-
-    private int id = 0;
-
-    public int getId() {
-        return id;
-    }
-
-    public Bean() {
-        this.id = counter++;
-    }
-
-}
-
-enum Command {
-    TEST_YONG_GEN("young"),
-    TEST_OLD_GET("old");
-
-    private final String value;
-
-    Command(String value) {
-        this.value = value;
-    }
-
-    static Command toEnum(String value) {
-        for (Command command : values()) {
-            if (command.value.equals(value)) {
-                return command;
-            }
-        }
-        return null;
     }
 }
