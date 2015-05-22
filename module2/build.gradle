@@ -36,17 +36,26 @@ task removeLog << {
  - the 36 maximum size of the Permanent Generation
  */
 
-
+/*
+	-XX:+UseSerialGC
+	
+	-XX:+UseParNewGC
+	
+	-XX:+UseParallelOldGC
+	
+	-XX:+UseConcMarkSweepGC -XX:+CMSConcurrentMTEnabled -XX:ConcGCThreads=2
+	
+	-XX:+UseG1GC
+    
+ */
 task run(dependsOn: ['build', 'removeLog']) << {
     def command =
     """
     java
     -Dtest=old
     -XX:+HeapDumpOnOutOfMemoryError
-    -XX:+UseConcMarkSweepGC
-    -XX:+CMSConcurrentMTEnabled
-    -Xms10m -Xmx100m -XX:NewSize=3m -XX:MaxNewSize=3m
-    ‑XX:+ConcGCThreads=2
+	-XX:+UseConcMarkSweepGC -XX:+CMSConcurrentMTEnabled -XX:ConcGCThreads=2
+    -Xms10m -Xmx10m -XX:NewSize=3m -XX:MaxNewSize=3m
     -XX:PermSize=24m -XX:MaxPermSize=24m
     -XX:+PrintGCTimeStamps -XX:+PrintGCDetails -Xloggc:${projectDir}/gc.log
     -jar ${jar.archivePath}

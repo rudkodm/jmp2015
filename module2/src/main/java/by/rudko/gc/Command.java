@@ -1,7 +1,7 @@
 package by.rudko.gc;
 
 public enum Command {
-    TEST_YONG_GEN("young"),
+    TEST_YONG_GEN("new"),
     TEST_OLD_GET("old");
 
     private final String value;

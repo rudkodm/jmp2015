@@ -1,10 +1,10 @@
 package by.rudko.gc;
 
-import java.lang.ref.SoftReference;
-import java.util.HashSet;
-
 import static java.lang.System.err;
 import static java.lang.System.out;
+
+import java.lang.ref.SoftReference;
+import java.util.ArrayList;
 
 public class Application {
 
@@ -36,14 +36,16 @@ public class Application {
     }
 
     private static void testOld() {
-        final HashSet set = new HashSet();
-
+    	SoftReference<ArrayList<Bean>> ref = new SoftReference<ArrayList<Bean>>(new ArrayList<Bean>());
+    	
         while (true) {
 
             Bean o = new Bean();
             out.println(o.getId());
-
-            set.add(new SoftReference<Bean>(o));
+            if(ref.get() == null) {
+            	ref = new SoftReference<ArrayList<Bean>>(new ArrayList<Bean>());
+            }
+            ref.get().add(o);
         }
     }
 }
