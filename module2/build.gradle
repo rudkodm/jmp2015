@@ -52,11 +52,11 @@ task run(dependsOn: ['build', 'removeLog']) << {
     def command =
     """
     java
-    -Dtest=old
+    -Dtest=new
     -XX:+HeapDumpOnOutOfMemoryError
 	-XX:+UseConcMarkSweepGC -XX:+CMSConcurrentMTEnabled -XX:ConcGCThreads=2
-    -Xms10m -Xmx10m -XX:NewSize=3m -XX:MaxNewSize=3m
-    -XX:PermSize=24m -XX:MaxPermSize=24m
+    -Xms2m -Xmx18m -XX:NewSize=1m
+    -XX:PermSize=24m -XX:MaxPermSize=36m
     -XX:+PrintGCTimeStamps -XX:+PrintGCDetails -Xloggc:${projectDir}/gc.log
     -jar ${jar.archivePath}
     """

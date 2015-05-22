@@ -4,7 +4,7 @@ public class Bean {
     private static int counter = 0;
 
     @SuppressWarnings("unused")
-    private byte[] size = new byte[100];
+    private byte[] size = new byte[1000];
 
     private int id = 0;
 
