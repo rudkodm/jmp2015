@@ -8,6 +8,11 @@ public class Bean {
 
     private int id = 0;
 
+    public Bean(int size) {
+        this();
+        this.size = new byte[size];
+    }
+
     public int getId() {
         return id;
     }

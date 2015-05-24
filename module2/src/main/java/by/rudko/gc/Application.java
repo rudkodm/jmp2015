@@ -1,18 +1,17 @@
 package by.rudko.gc;
 
-import static java.lang.System.err;
-import static java.lang.System.out;
-
 import java.lang.ref.SoftReference;
 import java.util.ArrayList;
 
+import static java.lang.System.err;
+import static java.lang.System.out;
+
 public class Application {
+    private static final String TEST_TYPE = System.getProperty("test.type");
+    private static final int OBJECT_SIZE = Integer.valueOf(System.getProperty("test.object.size"));
 
     public static void main(String[] args) throws Exception {
-        final String key = "test";
-        final String value = System.getProperty(key);
-
-        switch (Command.toEnum(value)) {
+        switch (Command.toEnum(TEST_TYPE)) {
             case TEST_YONG_GEN: {
                 testYong();
                 break;
@@ -22,7 +21,7 @@ public class Application {
                 break;
             }
             default: {
-                err.printf("There is no such property %s : %s", key, value);
+                err.printf("There is no such property: %s", TEST_TYPE);
             }
         }
 
@@ -31,7 +30,7 @@ public class Application {
 
     private static void testYong() {
         while (true) {
-            out.println(new Bean().getId());
+            process(new Bean(OBJECT_SIZE));
         }
     }
 
@@ -40,12 +39,19 @@ public class Application {
     	
         while (true) {
 
-            Bean o = new Bean();
-            out.println(o.getId());
+            Bean o = new Bean(OBJECT_SIZE);
             if(ref.get() == null) {
             	ref = new SoftReference<ArrayList<Bean>>(new ArrayList<Bean>());
             }
             ref.get().add(o);
+
+            process(o);
         }
+    }
+
+    private static void process(Bean o) {
+        int id = o.getId();
+        out.println(id);
+        if(id == 1000000) System.exit(0);
     }
 }

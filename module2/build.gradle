@@ -1,7 +1,7 @@
 apply plugin: 'java'
 
-sourceCompatibility = '1.8'
-targetCompatibility = '1.8'
+sourceCompatibility = '1.7'
+targetCompatibility = '1.7'
 group = 'by.rudko.gc'
 version = '1.0'
 
@@ -52,9 +52,9 @@ task run(dependsOn: ['build', 'removeLog']) << {
     def command =
     """
     java
-    -Dtest=new
+    -Dtest.type=old -Dtest.object.size=1000
     -XX:+HeapDumpOnOutOfMemoryError
-	-XX:+UseConcMarkSweepGC -XX:+CMSConcurrentMTEnabled -XX:ConcGCThreads=2
+    -XX:+UseConcMarkSweepGC -XX:+CMSConcurrentMTEnabled -XX:ConcGCThreads=2
     -Xms2m -Xmx18m -XX:NewSize=1m
     -XX:PermSize=24m -XX:MaxPermSize=36m
     -XX:+PrintGCTimeStamps -XX:+PrintGCDetails -Xloggc:${projectDir}/gc.log
