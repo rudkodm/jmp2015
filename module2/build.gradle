@@ -1,0 +1,74 @@
+apply plugin: 'java'
+
+sourceCompatibility = '1.7'
+targetCompatibility = '1.7'
+group = 'by.rudko.gc'
+version = '1.0'
+
+repositories {
+    mavenCentral()
+}
+
+jar {
+    manifest {
+        attributes 'Main-Class': 'by.rudko.gc.Application'
+    }
+}
+
+dependencies {
+}
+
+
+task removeLog << {
+    "rm ${projectDir}/gc.log".execute()
+}
+
+/*
+ Java.MP.C4.M3.GC Default Task 5
+
+ Write a Command Line that starts a JavaApp using the Concurrent Mark Sweep (CMS) Collector
+ - with 2 Parallel CMS Threads
+ with the following parameters:
+ - the 2m initial heap size for when the JVM starts
+ - the 18m maximum heap size
+ - the 1m size of the Young Generation
+ - the 24m starting size of the Permanent Generation
+ - the 36 maximum size of the Permanent Generation
+ */
+
+/*
+	-XX:+UseSerialGC
+	
+	-XX:+UseParNewGC
+	
+	-XX:+UseParallelOldGC
+	
+	-XX:+UseConcMarkSweepGC -XX:+CMSConcurrentMTEnabled -XX:ConcGCThreads=2
+	
+	-XX:+UseG1GC
+    
+ */
+task run(dependsOn: ['build', 'removeLog']) << {
+    def command =
+    """
+    java
+    -Dtest.type=old -Dtest.object.size=1000
+    -XX:+HeapDumpOnOutOfMemoryError
+    -XX:+UseConcMarkSweepGC -XX:+CMSConcurrentMTEnabled -XX:ConcGCThreads=2
+    -Xms2m -Xmx18m -XX:NewSize=1m
+    -XX:PermSize=24m -XX:MaxPermSize=36m
+    -XX:+PrintGCTimeStamps -XX:+PrintGCDetails -Xloggc:${projectDir}/gc.log
+    -jar ${jar.archivePath}
+    """
+    execute command
+}
+
+def execute(str) {
+    def proc =  str.execute()
+
+    proc.in.eachLine {line ->
+        println line
+    }
+    println proc.err.text
+    proc.exitValue()
+}
