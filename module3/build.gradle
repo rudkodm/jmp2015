@@ -1,0 +1,70 @@
+apply plugin: 'java'
+
+sourceCompatibility = '1.7'
+targetCompatibility = '1.7'
+group = 'by.rudko.gc'
+version = '1.0'
+
+repositories {
+    mavenCentral()
+}
+
+jar {
+    manifest {
+        attributes 'Main-Class': 'by.rudko.gc.Application'
+    }
+}
+
+dependencies {
+    compile 'log4j:log4j:1.2.17'
+}
+
+
+task removeLog << {
+    "rm ${projectDir}/gc.log".execute()
+}
+
+/*
+	-XX:+UseSerialGC
+	
+	-XX:+UseParNewGC
+	
+	-XX:+UseParallelOldGC
+	
+	-XX:+UseConcMarkSweepGC -XX:+CMSConcurrentMTEnabled -XX:ConcGCThreads=2
+	
+	-XX:+UseG1GC
+    
+ */
+task run(dependsOn: ['build', 'removeLog']) << {
+    def command =
+    """
+    java
+    -XX:+HeapDumpOnOutOfMemoryError
+    -Xms2m -Xmx2m -XX:NewSize=1m
+    -XX:+PrintGCTimeStamps -XX:+PrintGCDetails -Xloggc:${projectDir}/gc.log
+    -cp ${jar.archivePath}:${findPath('log4j')}
+    by.rudko.gc.Application
+    """
+    execute command
+}
+
+task print << {
+    println findPath("log4j")
+}
+
+def execute(str) {
+    def proc =  str.execute()
+
+    proc.in.eachLine {line ->
+        println line
+    }
+    println proc.err.text
+    proc.exitValue()
+}
+
+def findPath(String name) {
+    return configurations.compile.find {
+        it.name.contains(name)
+    }?.absolutePath
+}
