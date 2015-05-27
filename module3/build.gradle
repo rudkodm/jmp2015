@@ -9,12 +9,6 @@ repositories {
     mavenCentral()
 }
 
-jar {
-    manifest {
-        attributes 'Main-Class': 'by.rudko.memory.Application'
-    }
-}
-
 dependencies {
     compile 'log4j:log4j:1.2.17'
     compile 'org.javassist:javassist:3.15.0-GA'
@@ -25,33 +19,16 @@ task removeLog << {
     "rm ${projectDir}/memory.log".execute()
 }
 
-/*
-	-XX:+UseSerialGC
-	
-	-XX:+UseParNewGC
-	
-	-XX:+UseParallelOldGC
-	
-	-XX:+UseConcMarkSweepGC -XX:+CMSConcurrentMTEnabled -XX:ConcGCThreads=2
-	
-	-XX:+UseG1GC
-    
- */
-task run(dependsOn: ['build', 'removeLog']) << {
+task test1 (dependsOn: ['build', 'removeLog']) << {
     def command =
     """
     java
     -XX:+HeapDumpOnOutOfMemoryError
-    -Xms2m -Xmx2m -XX:NewSize=1m
-    -XX:+PrintGCTimeStamps -XX:+PrintGCDetails -Xloggc:${projectDir}/memory.log
+    -Xss228k -Xoss1k
     -cp ${jar.archivePath}:${findPath('log4j')}:${findPath('javassist')}
-    by.rudko.memory.Application
+    by.rudko.memory.StackOverflowTest
     """
     execute command
-}
-
-task print << {
-    println findPath("log4j")
 }
 
 def execute(str) {
