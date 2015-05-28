@@ -9,12 +9,12 @@ import javassist.NotFoundException;
 import org.apache.log4j.BasicConfigurator;
 import org.apache.log4j.Logger;
 
-public class StackOverflowTest {
+public class Test1_StackOverflow {
     static {
         BasicConfigurator.configure();
     }
 
-    private static final Logger LOG = Logger.getLogger(StackOverflowTest.class);
+    private static final Logger LOG = Logger.getLogger(Test1_StackOverflow.class);
 
     public static void main(String[] args) throws Exception {
         LOG.debug(">> Testing StackOverflowError");

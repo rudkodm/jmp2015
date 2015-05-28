@@ -15,21 +15,48 @@ dependencies {
 }
 
 
-task removeLog << {
-    "rm ${projectDir}/memory.log".execute()
+task cleanTmp << {
+	"rm ${projectDir}/memory.log".execute()
+    "rm ${projectDir}/java_*".execute()
 }
 
-task test1 (dependsOn: ['build', 'removeLog']) << {
+task test1 (dependsOn: ['build', 'cleanTmp']) << {
+	def command =
+	"""
+	java
+	-Xms10m -Xmx10m -Xss104k
+	-cp ${jar.archivePath};${findPath('log4j')};${findPath('javassist')}
+	by.rudko.memory.Test1_StackOverflow
+	"""
+	execute command
+}
+
+task test2 (dependsOn: ['build', 'cleanTmp']) << {
+	def command =
+			"""
+			java
+			-XX:+HeapDumpOnOutOfMemoryError
+			-cp ${jar.archivePath}
+			by.rudko.memory.Test2_OutOfMemory
+			"""
+			execute command
+}
+
+task test3 (dependsOn: ['build', 'cleanTmp']) << {
     def command =
     """
     java
-    -Xms10m -Xmx10m -Xss104k
+	-Xms10m -Xmx10m
     -XX:+HeapDumpOnOutOfMemoryError
-    -cp ${jar.archivePath};${findPath('log4j')};${findPath('javassist')}
-    by.rudko.memory.StackOverflowTest
+    -cp ${jar.archivePath}
+    by.rudko.memory.Test3_OutOfMemory
     """
     execute command
 }
+
+
+
+
 
 def execute(str) {
     def proc =  str.execute()
