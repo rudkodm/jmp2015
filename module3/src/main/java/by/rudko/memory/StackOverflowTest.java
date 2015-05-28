@@ -1,8 +1,11 @@
 package by.rudko.memory;
 
+import javassist.CannotCompileException;
 import javassist.ClassPool;
 import javassist.CtClass;
 import javassist.CtMethod;
+import javassist.NotFoundException;
+
 import org.apache.log4j.BasicConfigurator;
 import org.apache.log4j.Logger;
 
@@ -15,10 +18,14 @@ public class StackOverflowTest {
 
     public static void main(String[] args) throws Exception {
         LOG.debug(">> Testing StackOverflowError");
+        processOnLaptop();
+    }
 
-        ClassPool cp = ClassPool.getDefault();
+	private static void processOnLaptop() throws NotFoundException, CannotCompileException,
+			InstantiationException, IllegalAccessException {
+		ClassPool cp = ClassPool.getDefault();
         CtClass cc = cp.get("by.rudko.memory.Methods");
-
+        
         CtMethod m1 = cc.getDeclaredMethod("method1");
         m1.insertBefore(buildMethodBody());
         m1.insertAfter("method2();");
@@ -32,12 +39,12 @@ public class StackOverflowTest {
 
         Class c = cp.toClass(cc);
         ((Methods)c.newInstance()).method1();
-    }
+	}
 
     private static String buildMethodBody() {
         StringBuilder builder = new StringBuilder();
         for (int i = 0; i < 3500; i++) {
-            builder.append(String.format("long a%s = %s;", i, i)).append("\r\n");
+        	builder.append(String.format("long a%s = %s;", i, i)).append("\r\n");
         }
         return builder.toString();
     }

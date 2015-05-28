@@ -23,9 +23,9 @@ task test1 (dependsOn: ['build', 'removeLog']) << {
     def command =
     """
     java
+    -Xms10m -Xmx10m -Xss104k
     -XX:+HeapDumpOnOutOfMemoryError
-    -Xss228k -Xoss1k
-    -cp ${jar.archivePath}:${findPath('log4j')}:${findPath('javassist')}
+    -cp ${jar.archivePath};${findPath('log4j')};${findPath('javassist')}
     by.rudko.memory.StackOverflowTest
     """
     execute command
