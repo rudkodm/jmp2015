@@ -1,22 +1,22 @@
 package by.rudko.memory;
 
 
-import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
+import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.logging.Logger;
+
+import org.apache.commons.io.IOUtils;
 
 public class Test4_PermGenError {
     public static void main(String[] args) throws Exception {
         method1();
     }
 
-    private static void method1() {
+    private static void method1() throws Exception {
         String clazzName = Test4_PermGenError.class.getName();
         byte[] bytes = ClassLoaderUtil.getClassBytes(clazzName);
-
+        System.out.println("Bytes size:" + bytes.length);
+        
         ArrayList<Object> list = new ArrayList<Object>();
         while(true){
             list.add(new CustomClassLoader(bytes).loadClass(clazzName));
@@ -38,7 +38,7 @@ class CustomClassLoader extends ClassLoader{
         try {
             return defineClass(name, bytes, 0, bytes.length);
         } catch (Exception e) {
-            try {
+        	try {
                 return getSystemClassLoader().loadClass(name);
             } catch (ClassNotFoundException e1) {
                 return null;
@@ -50,26 +50,18 @@ class CustomClassLoader extends ClassLoader{
 class ClassLoaderUtil {
     private static final Logger LOGGER = Logger.getLogger(ClassLoaderUtil.class.getName());
 
-    public static byte[] getClassBytes(String clazzName) {
+    public static byte[] getClassBytes(String clazzName) throws Exception{
         if(clazzName == null){
             return null;
         }
         clazzName = clazzName.replace(".","/").concat(".class");
-        String absolutePath = Thread.currentThread()
-                .getContextClassLoader()
-                .getResource(clazzName)
-                .getPath();
-
-        byte[] data = null;
-        try {
-            Path path = Paths.get(absolutePath);
-            data = Files.readAllBytes(path);
-        } catch (IOException e) {
-            LOGGER.warning(String.format("Can't read file from source: %s", clazzName));
-
-        } finally {
-            return data;
-        }
+        
+        try(InputStream is = Thread.currentThread().getContextClassLoader().getResource(clazzName).openStream()) {
+        	return IOUtils.toByteArray(is);
+        } catch (Exception e) {
+        	LOGGER.warning(String.format("Can't read file from source: %s, ERROR: %s",clazzName, e));
+        } 
+        return null;
     }
 }
 
