@@ -33,13 +33,13 @@ task test1 (dependsOn: ['build', 'cleanTmp']) << {
 
 task test2 (dependsOn: ['build', 'cleanTmp']) << {
 	def command =
-			"""
-			java
-			-XX:+HeapDumpOnOutOfMemoryError
-			-cp ${jar.archivePath}
-			by.rudko.memory.Test2_OutOfMemory
-			"""
-			execute command
+	"""
+	java
+	-XX:+HeapDumpOnOutOfMemoryError
+	-cp ${jar.archivePath}
+	by.rudko.memory.Test2_OutOfMemory
+	"""
+	execute command
 }
 
 task test3 (dependsOn: ['build', 'cleanTmp']) << {
@@ -54,7 +54,16 @@ task test3 (dependsOn: ['build', 'cleanTmp']) << {
     execute command
 }
 
-
+task test4 (dependsOn: ['build', 'cleanTmp']) << {
+    def command =
+            """
+    java
+    -XX:+HeapDumpOnOutOfMemoryError
+    -cp ${jar.archivePath}
+    by.rudko.memory.Test4_PermGenError
+    """
+    execute command
+}
 
 
 
