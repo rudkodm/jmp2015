@@ -1,6 +1,7 @@
 ## Java.MP.C4.M1.MemoryManagement Default Task2	
 - Please add to your application code which includes passing by reference.
-- Please don't add returning the reference from method. Make creation of the new object in method where you pass value by reference (the new object is for value). 
+- Please don't add returning the reference from method. 
+  Make creation of the new object in method where you pass value by reference (the new object is for value). 
 - Please analyse the code structure, change the code by returning the value of scalar type and object type. 
 - Please give 256 M for tanured area of heap, I want to have the following heap structure :3-Eden,3-S0,3-S1, give 1M to thread stack.
 
