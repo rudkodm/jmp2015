@@ -5,8 +5,8 @@ import by.rudko.memory.utils.CustomClassLoader;
 
 import java.util.logging.Logger;
 
-public class Test6_PermGen {
-    private static final Logger LOGGER = Logger.getLogger(Test6_PermGen.class.getName());
+public class Test5_PermGenError {
+    private static final Logger LOGGER = Logger.getLogger(Test5_PermGenError.class.getName());
 
     public static void main(String[] args) throws Exception {
         String oldName = Holder_0000000000000000.class.getSimpleName();
