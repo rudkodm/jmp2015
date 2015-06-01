@@ -1,0 +1,112 @@
+apply plugin: 'java'
+
+sourceCompatibility = '1.7'
+targetCompatibility = '1.7'
+group = 'by.rudko.memory'
+version = '1.0'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'log4j:log4j:1.2.17'
+    compile 'org.javassist:javassist:3.15.0-GA'
+    compile 'commons-io:commons-io:2.4'
+}
+
+
+task cleanTmp << {
+	"rm ${projectDir}/memory.log".execute()
+    "rm ${projectDir}/java_*".execute()
+}
+
+task test1 (dependsOn: ['build', 'cleanTmp']) << {
+	def command =
+	"""
+	java
+	-Xms10m -Xmx10m -Xss104k
+	-cp ${jar.archivePath};${findPath('log4j')};${findPath('javassist')}
+	by.rudko.memory.Test1_StackOverflow
+	"""
+	execute command
+}
+
+task test2 (dependsOn: ['build', 'cleanTmp']) << {
+	def command =
+	"""
+	java
+	-XX:+HeapDumpOnOutOfMemoryError
+	-cp ${jar.archivePath}
+	by.rudko.memory.Test2_OutOfMemory
+	"""
+	execute command
+}
+
+task test3 (dependsOn: ['build', 'cleanTmp']) << {
+    def command =
+    """
+    java
+	-Xms10m -Xmx10m
+    -XX:+HeapDumpOnOutOfMemoryError
+    -cp ${jar.archivePath}
+    by.rudko.memory.Test3_OutOfMemory
+    """
+    execute command
+}
+
+task test4 (dependsOn: ['build', 'cleanTmp']) << {
+    def command =
+    """
+    java
+	-Xms10m -Xmx10m -XX:PermSize=10M -XX:MaxPermSize=10M
+    -XX:+HeapDumpOnOutOfMemoryError
+    -cp ${jar.archivePath};${findPath('commons-io')}
+    by.rudko.memory.Test4_PermGenError
+    """
+    execute command
+}
+
+task test5 (dependsOn: ['build', 'cleanTmp']) << {
+    def command =
+    """
+    java
+	-Xms10m -Xmx10m -XX:PermSize=10M -XX:MaxPermSize=10M
+    -XX:+HeapDumpOnOutOfMemoryError
+    -cp ${jar.archivePath};${findPath('commons-io')}
+    by.rudko.memory.Test5_PermGenError
+    """
+    execute command
+}
+
+/**
+ * -Xss can't be equal 1m. Minimum value approximately 104m
+ */
+task test6 (dependsOn: ['build', 'cleanTmp']) << {
+    def command =
+    """
+	java
+    -Xms265m -Xmx265m -XX:NewSize=9m -XX:MaxNewSize=9m -XX:SurvivorRatio=1
+	-cp ${jar.archivePath}
+	by.rudko.memory.Test6_References
+	"""
+    execute command
+}
+
+
+
+def execute(str) {
+    def proc =  str.execute()
+
+    proc.in.eachLine {line ->
+        println line
+    }
+    println proc.err.text
+    proc.exitValue()
+}
+
+def findPath(String name) {
+    return configurations.compile.find {
+        it.name.contains(name)
+    }?.absolutePath
+}
