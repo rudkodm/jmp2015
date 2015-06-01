@@ -6,7 +6,8 @@ import by.rudko.memory.utils.CustomClassLoader;
 import java.util.logging.Logger;
 
 public class Test5_PermGenError {
-    private static final Logger LOGGER = Logger.getLogger(Test5_PermGenError.class.getName());
+    private static final String CHAR_ENC = "latin1";
+	private static final Logger LOGGER = Logger.getLogger(Test5_PermGenError.class.getName());
 
     public static void main(String[] args) throws Exception {
         String oldName = Holder_0000000000000000.class.getSimpleName();
@@ -14,7 +15,7 @@ public class Test5_PermGenError {
         byte[] oldByteCode = ClassLoaderUtil.loadByteCode(oldFullName);
 
         LOGGER.info("Bytes size:" + oldByteCode.length);
-        LOGGER.info(new String(oldByteCode, "latin1"));
+        LOGGER.info(new String(oldByteCode, CHAR_ENC));
 
         CustomClassLoader classLoader = new CustomClassLoader();
         for (int i = 0; i < Integer.MAX_VALUE; i++) {
@@ -22,9 +23,9 @@ public class Test5_PermGenError {
             String newName = construct(oldName, String.valueOf(i));
 
             String newFullName = oldFullName.replace(oldName, newName);
-            byte[] newByteCode = new String(oldByteCode, "latin1")
+            byte[] newByteCode = new String(oldByteCode, CHAR_ENC)
                     .replaceAll(oldName, newName)
-                    .getBytes("latin1");
+                    .getBytes(CHAR_ENC);
 
             classLoader._defineClass(newFullName, newByteCode);
 

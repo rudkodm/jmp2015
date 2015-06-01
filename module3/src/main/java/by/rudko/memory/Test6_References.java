@@ -1,7 +1,10 @@
 package by.rudko.memory;
 
+import java.util.concurrent.TimeUnit;
+
 public class Test6_References {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
+    	Thread.sleep(TimeUnit.HOURS.toMillis(1));
         passingReferenceTest1();
         passingReferenceTest2();
         passingReferenceTest3();

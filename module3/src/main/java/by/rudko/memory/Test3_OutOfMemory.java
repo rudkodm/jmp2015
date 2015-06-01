@@ -5,10 +5,12 @@ import java.util.Queue;
 
 public class Test3_OutOfMemory {
 
+	private static final int SIZE = 1000;
+
 	public static void main(String[] args) {
 		Queue<Object> queue = new LinkedList<Object>();
 		while (true) {
-			queue.add(new long[1000]);
+			queue.add(new long[SIZE]);
 		}
 	}
 	
