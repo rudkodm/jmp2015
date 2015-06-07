@@ -1,0 +1,19 @@
+allprojects {
+    apply plugin: 'java'
+
+    sourceCompatibility = rootProject.sourceCompatibility
+    targetCompatibility = rootProject.targetCompatibility
+
+    group = rootProject.group
+    jar.archiveName = "${project.name}.jar"
+
+    repositories {
+        mavenCentral()
+    }
+
+    dependencies {
+        compile lib.log4j
+        compile lib.apache_commons
+        testCompile lib.junit
+    }
+}
