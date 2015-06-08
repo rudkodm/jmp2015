@@ -1,7 +1,8 @@
 package by.rudko.concurrency.processor;
 
-import by.rudko.concurrency.tasks.FileProcessingTask;
 import by.rudko.concurrency.config.Configuration;
+import by.rudko.concurrency.tasks.FileProcessingTask;
+import by.rudko.concurrency.tasks.FileProcessingTaskImpl;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -18,7 +19,7 @@ public class FileProcessor {
     public static final TimeUnit TIME_OUT_UNIT = TimeUnit.MILLISECONDS;
     public static final int POOL_SIZE = 5;
     public static final int TERMINATION_TIME_SEC = 30;
-
+    public static final FileProcessingTask task = new FileProcessingTaskImpl();
 
     public static void main(String[] args) throws InterruptedException {
         final BlockingQueue<File> filesQueue = new LinkedBlockingQueue<>();
@@ -33,7 +34,16 @@ public class FileProcessor {
 
         while (isNotFinished(filesQueue)) {
             if(taskQueue.size() < filesQueue.size()){
-                executor.execute(new FileProcessingTask(filesQueue));
+                executor.execute(new Runnable() {
+                    @Override
+                    public void run() {
+                        try {
+                            task.execute(filesQueue, null);
+                        } catch (InterruptedException e) {
+                            LOG.info("<< Forcing shutdown the task...");
+                        }
+                    }
+                });
             }
         }
 
