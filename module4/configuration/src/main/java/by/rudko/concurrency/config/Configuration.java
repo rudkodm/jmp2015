@@ -17,9 +17,13 @@ public final class Configuration {
 	// CONFIG PROPERTIES NAMES
 	private static final String PROPERTY_DATA_PATH = "module4.data.src.path";
 	private static final String PROPERTY_OS_NAME = "os.name";
+	private static final String PROPERTY_LINE_SEPARATOR = "line.separator";
 
 	
 	// PUBLIC CONFIGURATION VARIABLES
+	public static String SYSTEM_OS_NAME = getProperty(PROPERTY_OS_NAME);
+	public static String SYSTEM_LINE_SEPARATOR = getProperty(PROPERTY_LINE_SEPARATOR);;
+	
 	public static long TIME_OUT_VALUE = 100;
 	public static TimeUnit TIME_OUT_UNIT = TimeUnit.MILLISECONDS;
 	public static int POOL_SIZE = 5;
@@ -31,10 +35,9 @@ public final class Configuration {
 
 	// INICIALIZATION
 	static {
-		String os = getProperty(PROPERTY_OS_NAME);
-		if (StringUtils.contains(os, "Windows")) {
+		if (StringUtils.contains(SYSTEM_OS_NAME, "Windows")) {
 			windowsConfiguration();
-		} else if (StringUtils.contains(os, "Linux")) {
+		} else if (StringUtils.contains(SYSTEM_OS_NAME, "Linux")) {
 			linuxConfiguration();
 		} else {
 			throw new ConfigurationException("Not supported OS");

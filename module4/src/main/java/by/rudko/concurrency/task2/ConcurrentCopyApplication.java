@@ -5,7 +5,7 @@ import java.io.File;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import by.rudko.concurrency.config.Configuration;
+import static by.rudko.concurrency.config.Configuration.*;
 import by.rudko.concurrency.processor.FileProcessor;
 
 
@@ -28,10 +28,10 @@ public class ConcurrentCopyApplication {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		File destinationFolder = new File(Configuration.COPY_TASK_SOURCE_PATH);
+		File destinationFolder = new File(COPY_TASK_SOURCE_PATH);
 		
 		FileProcessor.process(
-				new File(Configuration.TEST_DATA_PATH),
+				new File(TEST_DATA_PATH),
 				new CopyTask(destinationFolder));
 	
 		printResult(destinationFolder.list());
@@ -39,10 +39,10 @@ public class ConcurrentCopyApplication {
 
 
 	private static void printResult(String[] list) {
-		StringBuilder builder = new StringBuilder("\r\n");
-		builder.append("Result : [").append("\r\n");
+		StringBuilder builder = new StringBuilder(SYSTEM_LINE_SEPARATOR);
+		builder.append("Result : [").append(SYSTEM_LINE_SEPARATOR);
 		for (String str : list) {
-			builder.append("  ").append(str).append("\r\n");
+			builder.append("  ").append(str).append(SYSTEM_LINE_SEPARATOR);
 		}
 		builder.append("]");
 		
