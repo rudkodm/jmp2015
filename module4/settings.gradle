@@ -1,5 +1,5 @@
 rootProject.name = 'module4'
 
 include ':file-processor'
-include 'configuration'
+include ':configuration'
 
