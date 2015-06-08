@@ -10,11 +10,13 @@ import org.apache.commons.lang3.StringUtils;
 
 public final class Configuration {
 	
+
 	private Configuration() {
 	}
 	
 	// CONFIG PROPERTIES NAMES
 	private static final String PROPERTY_DATA_PATH = "module4.data.src.path";
+	private static final String PROPERTY_OS_NAME = "os.name";
 
 	
 	// PUBLIC CONFIGURATION VARIABLES
@@ -29,7 +31,7 @@ public final class Configuration {
 
 	// INICIALIZATION
 	static {
-		String os = getProperty("os.name");
+		String os = getProperty(PROPERTY_OS_NAME);
 		if (StringUtils.contains(os, "Windows")) {
 			windowsConfiguration();
 		} else if (StringUtils.contains(os, "Linux")) {

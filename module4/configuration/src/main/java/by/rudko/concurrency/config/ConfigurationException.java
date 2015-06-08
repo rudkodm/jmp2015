@@ -1,7 +1,9 @@
 package by.rudko.concurrency.config;
 
 public class ConfigurationException extends RuntimeException {
-    public ConfigurationException() {
+	private static final long serialVersionUID = 1L;
+
+	public ConfigurationException() {
     }
 
     public ConfigurationException(String message) {

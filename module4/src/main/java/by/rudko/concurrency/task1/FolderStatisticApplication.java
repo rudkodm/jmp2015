@@ -1,8 +1,6 @@
 package by.rudko.concurrency.task1;
 
 import java.io.File;
-import java.util.Arrays;
-import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.concurrent.atomic.AtomicLong;
 
@@ -11,7 +9,6 @@ import org.apache.logging.log4j.Logger;
 
 import by.rudko.concurrency.config.Configuration;
 import by.rudko.concurrency.processor.FileProcessor;
-import by.rudko.concurrency.tasks.FileProcessingTask;
 
 
 /**
@@ -37,42 +34,11 @@ public class FolderStatisticApplication {
 	 * This class need to hold the result of execution
 	 * @author Dmitriy_Rudko
 	 */
-	private static class ExecutionContext {
+	static class ExecutionContext {
 		public AtomicInteger dirNumber = new AtomicInteger(0);
 		public AtomicInteger fileNumber = new AtomicInteger(0);
 		public AtomicLong fileSize = new AtomicLong(0);
 	}
-	
-	/**
-	 * This class holds processing specific logic for this task
-	 * @author Dmitriy_Rudko
-	 */
-	private static class StatisticTask implements FileProcessingTask {
-	    private static final Logger LOG = LogManager.getLogger(StatisticTask.class);
-
-	    public StatisticTask() {
-	    }
-
-	    @Override
-	    public void execute(BlockingQueue<File> filesQueue, Object context) throws InterruptedException {
-	    	ExecutionContext executionContext = (ExecutionContext)context;
-	    	
-	        File element = filesQueue.poll(Configuration.TIME_OUT_VALUE, Configuration.TIME_OUT_UNIT);
-	        if (element == null) {
-	            LOG.debug("<< null");
-	            return;
-	        } else if (element.isDirectory()) {
-	            LOG.debug("<< Dir: {}", element.getName());
-	            filesQueue.addAll(Arrays.asList(element.listFiles()));
-	            executionContext.dirNumber.getAndIncrement();
-	        } else {
-				LOG.debug("<< File: {};", element.getName());
-				executionContext.fileNumber.getAndIncrement();
-				executionContext.fileSize.getAndAdd(element.length());
-	        }
-	    }
-	}
-
 	
 	/**
 	 * Main method
