@@ -1,0 +1,5 @@
+rootProject.name = 'module6'
+
+include ':application'
+include ':client'
+
