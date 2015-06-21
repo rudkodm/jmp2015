@@ -1,0 +1,19 @@
+def executeJbossCommand(str) {
+    execute "jboss-cli.sh --connect --command='${str}' "
+}
+
+def execute(str) {
+    def proc =  str.execute()
+
+    proc.in.eachLine {line ->
+        println line
+    }
+    println proc.err.text
+    proc?.exitValue()
+}
+
+ext {
+    executeJbossCommand = this.&executeJbossCommand
+    execute = this.&execute
+}
+

@@ -3,6 +3,7 @@ ext {
         log4j : "org.apache.logging.log4j:log4j-core:2.3",
         junit : "junit:junit:4.12",
         apache_commons : "org.apache.commons:commons-lang3:3.3.2",
-        apache_io : "commons-io:commons-io:2.4"
+        apache_io : "commons-io:commons-io:2.4",
+        jboss_provided :"org.wildfly:wildfly-spec-api:9.0.0.CR2"
     ]
 }
