@@ -1,7 +1,7 @@
 apply plugin: 'ear'
 
 dependencies {
-    deploy project(path:':app_rest', configuration:'archives')
+    deploy project(path:':app_ws', configuration:'archives')
     deploy project(':app_domain')
 }
 
