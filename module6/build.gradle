@@ -10,14 +10,3 @@ targetCompatibility = '1.7'
 
 group = 'by.rudko.jboss'
 version = '1.0'
-
-task deploy(dependsOn: ['clean', ':app_rest:war']) << {
-    def warPath = project(':app_rest').war.archivePath
-    executeJbossCommand "deploy --force ${warPath}"
-}
-
-task undeploy << {
-	def warName = project(':app_rest').war.archiveName
-    executeJbossCommand "undeploy ${warName}"
-}
-
