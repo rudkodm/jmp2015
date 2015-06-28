@@ -1,8 +1,7 @@
 apply plugin: 'ear'
 
 dependencies {
-    deploy project(path:':app_ws', configuration:'archives')
-    deploy project(':app_domain')
+    deploy project(path:':app_web', configuration:'archives')
 }
 
 task deploy(dependsOn: ['clean', 'ear']) << {

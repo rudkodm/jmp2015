@@ -1,6 +1,6 @@
 package by.rudko.jboss.webservice;
 
-import by.rudko.jboss.model.WsBook;
+import by.rudko.jboss.model.Book;
 
 import javax.jws.WebMethod;
 import javax.jws.WebService;
@@ -13,8 +13,8 @@ import java.util.Collection;
 public interface BookService {
 
     @WebMethod
-    public WsBook getBook(String isbn);
+    public Book getBook(String isbn);
 
     @WebMethod
-    public Collection<WsBook> getAll();
+    public Collection<Book> getAll();
 }

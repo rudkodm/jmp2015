@@ -1,6 +1,7 @@
 rootProject.name = 'module6'
 
 include ':app_ear'
-include ':app_ws'
-include ':app_domain'
+include ':app_web'
+include ':app_model'
+include ':app_data'
 

@@ -1,7 +1,8 @@
 apply plugin: 'war'
 
 dependencies {
-    provided project(':app_domain')
+    compile project(':app_model')
+    compile project(':app_data')
 }
 
 
