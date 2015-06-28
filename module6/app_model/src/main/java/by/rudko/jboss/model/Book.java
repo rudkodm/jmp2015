@@ -1,8 +1,13 @@
 package by.rudko.jboss.model;
 
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
 /**
  * Created by rudkodm on 6/21/15.
  */
+@Entity
+
 public class Book {
 
     public Book(){}
@@ -12,6 +17,7 @@ public class Book {
         this.name = name;
     }
 
+    @Id
     private String isbn;
     private String name;
 

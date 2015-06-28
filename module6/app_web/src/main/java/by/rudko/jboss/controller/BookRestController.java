@@ -4,6 +4,7 @@ import by.rudko.jboss.model.Book;
 import by.rudko.jboss.repository.BookRepository;
 
 import javax.inject.Inject;
+import javax.inject.Named;
 import javax.ws.rs.*;
 import java.util.Collection;
 
@@ -17,6 +18,7 @@ import java.util.Collection;
 public class BookRestController {
 
     @Inject
+    @Named("dummy")
     private BookRepository bookRepository;
 
     @GET
