@@ -20,13 +20,15 @@ import by.rudko.jboss.model.Book;
 @TransactionAttribute(TransactionAttributeType.REQUIRES_NEW)
 public class BookRepositoryImpl implements BookRepository {
 	
+	private static final String SELECT_ALL_BOOKS = "SELECT b FROM Book b";
+	
 	@PersistenceContext
 	private EntityManager entityManager;
 	
     @Override
     public Collection<Book> getAll() {
         return entityManager
-        		.createQuery("SELECT b FROM Book b",Book.class)
+        		.createQuery(SELECT_ALL_BOOKS,Book.class)
                 .getResultList();
     }
 
