@@ -16,31 +16,32 @@ import java.util.Collection;
 @Produces({ "application/json" })
 public class BookRestController {
 
-    @Inject
-    @Named("real")
-    private BookRepository bookRepository;
+	@Inject
+	@Named("real")
+	private BookRepository bookRepository;
 
-    @GET
-    @Path("/")
-    public Collection<Book> getAll() {
-        return bookRepository.getAll();
-    }
+	@GET
+	@Path("/")
+	public Collection<Book> getAll() {
+		return bookRepository.getAll();
+	}
 
-    @GET
-    @Path("/{isbn}")
-    public Book getBook(@PathParam("isbn") String isbn) {
-        return bookRepository.getBook(isbn);
-    }
-    
-    @POST @Consumes("application/json")
-    @Path("/")
-    public Book addBook( Book book) {
-    	
-    	bookRepository.addBook(book);
-    	return book;
-    }
-    
-    public void setBookRepository(BookRepository bookRepository) {
-        this.bookRepository = bookRepository;
-    }
+	@GET
+	@Path("/{isbn}")
+	public Book getBook(@PathParam("isbn") String isbn) {
+		return bookRepository.getBook(isbn);
+	}
+
+	@POST
+	@Consumes("application/json")
+	@Path("/")
+	public Book addBook(Book book) {
+
+		bookRepository.addBook(book);
+		return book;
+	}
+
+	public void setBookRepository(BookRepository bookRepository) {
+		this.bookRepository = bookRepository;
+	}
 }

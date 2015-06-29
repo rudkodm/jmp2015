@@ -12,9 +12,9 @@ import java.util.Collection;
 @WebService(targetNamespace = "http://by.rudko.jboss/ws/books")
 public interface BookService {
 
-    @WebMethod
-    public Book getBook(String isbn);
+	@WebMethod
+	public Book getBook(String isbn);
 
-    @WebMethod
-    public Collection<Book> getAll();
+	@WebMethod
+	public Collection<Book> getAll();
 }

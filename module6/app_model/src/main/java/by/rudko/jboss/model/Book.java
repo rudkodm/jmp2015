@@ -10,35 +10,36 @@ import javax.persistence.Id;
 @Entity
 public class Book {
 
-    public Book(){}
+	public Book() {
+	}
 
-    public Book(String isbn, String name) {
-        this.isbn = isbn;
-        this.name = name;
-    }
+	public Book(String isbn, String name) {
+		this.isbn = isbn;
+		this.name = name;
+	}
 
-    @Id
-    @Column(unique = true)
-    private String isbn;
-    
-    @Column
-    private String name;
+	@Id
+	@Column(unique = true)
+	private String isbn;
 
-    public String getIsbn() {
-        return isbn;
-    }
+	@Column
+	private String name;
 
-    public void setIsbn(String isbn) {
-        this.isbn = isbn;
-    }
+	public String getIsbn() {
+		return isbn;
+	}
 
-    public String getName() {
-        return name;
-    }
+	public void setIsbn(String isbn) {
+		this.isbn = isbn;
+	}
 
-    public void setName(String name) {
-        this.name = name;
-    }
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
 
 	@Override
 	public int hashCode() {
@@ -64,5 +65,5 @@ public class Book {
 			return false;
 		return true;
 	}
-    
+
 }

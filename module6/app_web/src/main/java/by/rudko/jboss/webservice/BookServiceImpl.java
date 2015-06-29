@@ -11,29 +11,24 @@ import java.util.Collection;
 /**
  * Created by rudkodm on 6/22/15.
  */
-@WebService(
-        serviceName = "BookService",
-        name = "BookService",
-        endpointInterface = "by.rudko.jboss.webservice.BookService",
-        targetNamespace = "http://by.rudko.jboss/ws/books"
-)
+@WebService(serviceName = "BookService", name = "BookService", endpointInterface = "by.rudko.jboss.webservice.BookService", targetNamespace = "http://by.rudko.jboss/ws/books")
 public class BookServiceImpl implements BookService {
 
-    @Inject
-    @Named("real")
-    private BookRepository bookRepository;
+	@Inject
+	@Named("real")
+	private BookRepository bookRepository;
 
-    @Override
-    public Book getBook(String isbn) {
-        return bookRepository.getBook(isbn);
-    }
+	@Override
+	public Book getBook(String isbn) {
+		return bookRepository.getBook(isbn);
+	}
 
-    @Override
-    public Collection<Book> getAll() {
-        return bookRepository.getAll();
-    }
+	@Override
+	public Collection<Book> getAll() {
+		return bookRepository.getAll();
+	}
 
-    public void setBookService(BookRepository bookRepository) {
-        this.bookRepository = bookRepository;
-    }
+	public void setBookService(BookRepository bookRepository) {
+		this.bookRepository = bookRepository;
+	}
 }
