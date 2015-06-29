@@ -13,12 +13,11 @@ import java.util.Collection;
  */
 
 @Path("/books")
-@Consumes({ "application/json" })
 @Produces({ "application/json" })
 public class BookRestController {
 
     @Inject
-    @Named("dummy")
+    @Named("real")
     private BookRepository bookRepository;
 
     @GET
@@ -32,7 +31,15 @@ public class BookRestController {
     public Book getBook(@PathParam("isbn") String isbn) {
         return bookRepository.getBook(isbn);
     }
-
+    
+    @POST @Consumes("application/json")
+    @Path("/")
+    public Book addBook( Book book) {
+    	
+    	bookRepository.addBook(book);
+    	return book;
+    }
+    
     public void setBookRepository(BookRepository bookRepository) {
         this.bookRepository = bookRepository;
     }

@@ -1,5 +1,6 @@
 package by.rudko.jboss.model;
 
+import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 
@@ -7,7 +8,6 @@ import javax.persistence.Id;
  * Created by rudkodm on 6/21/15.
  */
 @Entity
-
 public class Book {
 
     public Book(){}
@@ -18,7 +18,10 @@ public class Book {
     }
 
     @Id
+    @Column(unique = true)
     private String isbn;
+    
+    @Column
     private String name;
 
     public String getIsbn() {
@@ -36,4 +39,30 @@ public class Book {
     public void setName(String name) {
         this.name = name;
     }
+
+	@Override
+	public int hashCode() {
+		final int prime = 31;
+		int result = 1;
+		result = prime * result + ((isbn == null) ? 0 : isbn.hashCode());
+		return result;
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Book other = (Book) obj;
+		if (isbn == null) {
+			if (other.isbn != null)
+				return false;
+		} else if (!isbn.equals(other.isbn))
+			return false;
+		return true;
+	}
+    
 }

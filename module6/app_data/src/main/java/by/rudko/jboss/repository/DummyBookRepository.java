@@ -1,19 +1,20 @@
 package by.rudko.jboss.repository;
 
-import by.rudko.jboss.model.Book;
-
-import javax.enterprise.context.ApplicationScoped;
-import javax.inject.Named;
 import java.util.Collection;
 import java.util.HashMap;
+
+import javax.ejb.Stateless;
+import javax.inject.Named;
+
+import by.rudko.jboss.model.Book;
 
 /**
  * Created by rudkodm on 6/29/15.
  */
-@ApplicationScoped
+@Stateless
 @Named("dummy")
 public class DummyBookRepository implements BookRepository{
-    private HashMap<String, Book> data = new HashMap();
+    private HashMap<String, Book> data = new HashMap<String, Book>();
     {
         data.put("1", new Book("1", "Book1"));
         data.put("2", new Book("2", "Book2"));
@@ -34,12 +35,12 @@ public class DummyBookRepository implements BookRepository{
     }
 
     @Override
-    public Book addBook(Book book) {
-        return data.put(book.getIsbn(), book);
+    public void addBook(Book book) {
+        data.put(book.getIsbn(), book);
     }
 
     @Override
-    public Book removeBook(String isbn) {
-        return data.remove(isbn);
+    public void removeBook(Book book) {
+        data.remove(book.getIsbn());
     }
 }

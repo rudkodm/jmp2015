@@ -20,7 +20,7 @@ import java.util.Collection;
 public class BookServiceImpl implements BookService {
 
     @Inject
-    @Named("dummy")
+    @Named("real")
     private BookRepository bookRepository;
 
     @Override

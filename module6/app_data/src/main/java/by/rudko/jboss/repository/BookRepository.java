@@ -12,7 +12,7 @@ public interface BookRepository {
 
     public Book getBook(String isbn);
 
-    public Book addBook(Book book);
+    public void addBook(Book book);
 
-    public Book removeBook(String isbn);
+    public void removeBook(Book book);
 }
