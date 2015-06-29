@@ -1,5 +1,7 @@
 package by.rudko.jboss.model;
 
+import java.io.Serializable;
+
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
@@ -8,7 +10,9 @@ import javax.persistence.Id;
  * Created by rudkodm on 6/21/15.
  */
 @Entity
-public class Book {
+public class Book implements Serializable {
+
+    private static final long serialVersionUID = 1L;
 
 	public Book() {
 	}
