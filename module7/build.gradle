@@ -1,0 +1,12 @@
+apply plugin: 'java'
+
+apply from: 'libraries.gradle'
+apply from: 'allprojects.gradle'
+apply from: 'utils.gradle'
+
+
+sourceCompatibility = '1.7'
+targetCompatibility = '1.7'
+
+group = 'by.rudko.jboss'
+version = '1.0'

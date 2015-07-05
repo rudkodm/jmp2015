@@ -1,0 +1,15 @@
+apply plugin: 'ear'
+
+dependencies {
+    deploy project(path:':app_web', configuration:'archives')
+}
+
+task deploy(dependsOn: ['clean', 'ear']) << {
+    def earPath = ear.archivePath
+    executeJbossCommand "deploy --force ${earPath}"
+}
+
+task undeploy << {
+	def earName = ear.archiveName
+    executeJbossCommand "undeploy ${earName}"
+}

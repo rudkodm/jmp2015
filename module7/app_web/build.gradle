@@ -1,0 +1,17 @@
+apply plugin: 'war'
+
+dependencies {
+    compile project(':app_model')
+    compile project(':app_data')
+}
+
+
+task deploy(dependsOn: ['clean', 'war']) << {
+    def warPath = war.archivePath
+    executeJbossCommand "deploy --force ${warPath}"
+}
+
+task undeploy << {
+	def warName = war.archiveName
+    executeJbossCommand "undeploy ${warName}"
+}
