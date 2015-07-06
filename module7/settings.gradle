@@ -1,4 +1,4 @@
-rootProject.name = 'module6'
+rootProject.name = 'module7'
 
 include ':app_ear'
 include ':app_web'

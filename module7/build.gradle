@@ -1,4 +1,5 @@
 apply plugin: 'java'
+apply plugin: "sonar-runner"
 
 apply from: 'libraries.gradle'
 apply from: 'allprojects.gradle'
@@ -10,3 +11,14 @@ targetCompatibility = '1.7'
 
 group = 'by.rudko.jboss'
 version = '1.0'
+
+
+sonarRunner {
+    sonarProperties {
+        property "sonar.host.url", "http://localhost:9000/"
+		property "sonar.jdbc.url", "jdbc:h2:tcp://localhost:9092/sonar"
+		property "sonar.jdbc.driverClassName", "org.h2.Driver"
+		property "sonar.jdbc.username", "sonar"
+		property "sonar.jdbc.password", "sonar"
+    }
+}
