@@ -1,0 +1,71 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:1.2.5.RELEASE") 
+        classpath('org.ajoberstar:grgit:1.3.0')
+    }
+}
+
+apply from: 'libraries.gradle'
+apply from: 'allprojects.gradle'
+apply from: 'utils.gradle'
+
+apply plugin: 'spring-boot' 
+apply plugin: 'war'
+
+// Add git commit SHA in project.properties
+ext {
+	git = org.ajoberstar.grgit.Grgit.open(file('../.'))
+	revision = git.head().id
+}
+
+war {
+    baseName = name
+    version = version
+}
+
+repositories {
+    mavenCentral()
+}
+
+configurations {
+    providedRuntime
+}
+
+processResources {
+	expand(project.properties)
+}
+
+dependencies {
+	compile("org.springframework.boot:spring-boot-starter-actuator")
+    compile("org.springframework.boot:spring-boot-starter-data-jpa")
+    compile("org.springframework.boot:spring-boot-starter-jersey")
+    compile("org.springframework.boot:spring-boot-starter-security")
+    compile("org.springframework.boot:spring-boot-starter-web")
+    providedRuntime("org.springframework.boot:spring-boot-starter-tomcat")
+    testCompile("org.springframework.boot:spring-boot-starter-test") 
+    
+    runtime("com.h2database:h2")
+    
+    provided(lib.lombok)
+}
+
+
+eclipse {
+    classpath {
+         containers.remove('org.eclipse.jdt.launching.JRE_CONTAINER')
+         containers 'org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8'
+    }
+}
+
+
+task runLombok << {
+	execute "java -jar ${findPath('provided', 'lombok')}"	
+}
+
+
+task wrapper(type: Wrapper) {
+    gradleVersion = '2.3'
+}

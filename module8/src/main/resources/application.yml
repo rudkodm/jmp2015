@@ -1,0 +1,19 @@
+endpoints:
+  enabled: true
+  info:
+    enabled: true
+
+security:
+  user:
+    name: admin
+    password: admin
+
+management:
+  security:
+    role: SUPERUSER
+    
+info:
+  build:
+    name: ${name}
+    version: ${version}
+    git: ${revision}
