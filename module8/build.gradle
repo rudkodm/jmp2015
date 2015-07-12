@@ -41,6 +41,7 @@ processResources {
 dependencies {
 	compile("org.springframework.boot:spring-boot-starter-actuator")
     compile("org.springframework.boot:spring-boot-starter-data-jpa")
+    compile("org.springframework.boot:spring-boot-starter-data-rest")
     compile("org.springframework.boot:spring-boot-starter-jersey")
     compile("org.springframework.boot:spring-boot-starter-security")
     compile("org.springframework.boot:spring-boot-starter-web")
@@ -62,7 +63,7 @@ eclipse {
 
 
 task runLombok << {
-	execute "java -jar ${findPath('provided', 'lombok')}"	
+	execute "java -jar ${findIn('provided')('lombok')}"
 }
 
 

@@ -15,15 +15,21 @@ def execute(str) {
     proc?.exitValue()
 }
 
-def findPath(String configName, String name) {
-    return configurations[configName].find {
-        it.name.contains(name)
-    }?.absolutePath
+def findIn(String configName) {
+    def configuration = configurations[configName];
+    println configuration
+
+    return { resourceName ->
+        configuration.find {
+            it.name.contains(resourceName)
+        }?.absolutePath
+    }
 }
+
 
 ext {
     executeJbossCommand = this.&executeJbossCommand
     execute = this.&execute
-    findPath = this.&findPath
+    findIn = this.&findIn
 }
 

@@ -1,5 +1,5 @@
 endpoints:
-  enabled: true
+  enabled: false
   info:
     enabled: true
 
@@ -11,7 +11,11 @@ security:
 management:
   security:
     role: SUPERUSER
-    
+
+spring:
+  jpa:
+    show-sql: true
+
 info:
   build:
     name: ${name}
