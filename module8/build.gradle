@@ -5,6 +5,7 @@ buildscript {
     dependencies {
         classpath("org.springframework.boot:spring-boot-gradle-plugin:1.2.5.RELEASE") 
         classpath('org.ajoberstar:grgit:1.3.0')
+        classpath('org.springframework:springloaded:1.2.3.RELEASE')
     }
 }
 
@@ -15,9 +16,12 @@ apply from: 'utils.gradle'
 apply plugin: 'spring-boot' 
 apply plugin: 'war'
 
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
 // Add git commit SHA in project.properties
 ext {
-	git = org.ajoberstar.grgit.Grgit.open(file('../.'))
+	git = org.ajoberstar.grgit.Grgit.open()
 	revision = git.head().id
 }
 
@@ -53,7 +57,6 @@ dependencies {
     provided(lib.lombok)
 }
 
-
 eclipse {
     classpath {
          containers.remove('org.eclipse.jdt.launching.JRE_CONTAINER')
@@ -65,7 +68,6 @@ eclipse {
 task runLombok << {
     execute "java -jar ${findIn('provided')('lombok')}"
 }
-
 
 task wrapper(type: Wrapper) {
     gradleVersion = '2.4'

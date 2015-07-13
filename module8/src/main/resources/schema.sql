@@ -1,3 +1,8 @@
+drop table if exists CLIENTS;
+drop table if exists TRAINERS;
+drop table if exists GYMS;
+drop table if exists ADDRESSES;
+
 create table CLIENTS (
 	id bigint auto_increment,
 	personal_data_id bigint,
