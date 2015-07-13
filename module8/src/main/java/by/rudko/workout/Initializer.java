@@ -1,5 +1,11 @@
 package by.rudko.workout;
 
+import java.util.ArrayList;
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
 import by.rudko.workout.model.Address;
 import by.rudko.workout.model.Client;
 import by.rudko.workout.model.Gym;
@@ -9,19 +15,14 @@ import by.rudko.workout.model.TrainingGoalType;
 import by.rudko.workout.repository.ClientRepository;
 import by.rudko.workout.repository.GymRepository;
 import by.rudko.workout.repository.TrainerRepository;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Component;
-
-import java.util.ArrayList;
-import java.util.List;
 
 /**
  * Created by rudkodm on 7/11/15.
  */
 @Component
 public class Initializer {
-    
-	private List<Client> clients = new ArrayList<Client>();
+
+    private List<Client> clients = new ArrayList<Client>();
     {
         clients.add(createClient(withPersonalData("Dima", "Rudko", "rudko.d.v@gmail.com"), TrainingGoalType.HEALTH));
         clients.add(createClient(withPersonalData("Pasha", "Zaitsau", "zaitsau@gmail.com")));
@@ -32,33 +33,28 @@ public class Initializer {
 
     private List<Trainer> trainers = new ArrayList<Trainer>();
     {
-    	trainers.add(createTrainer(withPersonalData("Arnold", "Schwarzenegger", null)));
-    }
-    
-    private List<Gym> gyms = new ArrayList<Gym>();
-    {
-    	gyms.add(createGym(withAddress("Kuprevicha 1/1", "220120")));
+        trainers.add(createTrainer(withPersonalData("Arnold", "Schwarzenegger", null)));
     }
 
-    
-    
+    private List<Gym> gyms = new ArrayList<Gym>();
+    {
+        gyms.add(createGym(withAddress("Kuprevicha 1/1", "220120")));
+    }
+
     @Autowired
-    public void init(ClientRepository clientR, TrainerRepository trainerR, GymRepository gymR){
+    public void init(ClientRepository clientR, TrainerRepository trainerR, GymRepository gymR) {
         clientR.save(clients);
         trainerR.save(trainers);
         gymR.save(gyms);
     }
 
-    
-    
-
-	private Gym createGym(Address address) {
+    private Gym createGym(Address address) {
         Gym gym = new Gym();
         gym.setTrainers(trainers);
         gym.setAddress(address);
         for (Trainer trainer : trainers) {
-			trainer.setGym(gym);
-		}
+            trainer.setGym(gym);
+        }
         return gym;
     }
 
@@ -67,16 +63,17 @@ public class Initializer {
         trainer.setPersonalData(personalData);
         trainer.setClients(clients);
         for (Client client : clients) {
-			client.setTrainer(trainer);
-		}
+            client.setTrainer(trainer);
+        }
         return trainer;
     }
 
     private Client createClient(PersonalData personalData) {
-    	Client client = new Client();
-    	client.setPersonalData(personalData);
-    	return client;
+        Client client = new Client();
+        client.setPersonalData(personalData);
+        return client;
     }
+
     private Client createClient(PersonalData personalData, TrainingGoalType trainingGoal) {
         Client client = new Client();
         client.setPersonalData(personalData);
@@ -91,13 +88,12 @@ public class Initializer {
         result.setEmail(email);
         return result;
     }
-    
-    private Address withAddress(String address, String zip) {
-    	Address result = new Address();
-    	result.setAddress1(address);
-    	result.setZip(zip);
-    	return result;
-	}
 
+    private Address withAddress(String address, String zip) {
+        Address result = new Address();
+        result.setAddress1(address);
+        result.setZip(zip);
+        return result;
+    }
 
 }

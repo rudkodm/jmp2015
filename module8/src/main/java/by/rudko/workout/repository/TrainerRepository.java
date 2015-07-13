@@ -1,7 +1,8 @@
 package by.rudko.workout.repository;
 
-import by.rudko.workout.model.Trainer;
 import org.springframework.data.repository.CrudRepository;
+
+import by.rudko.workout.model.Trainer;
 
 public interface TrainerRepository extends CrudRepository<Trainer, Long>{
 }
