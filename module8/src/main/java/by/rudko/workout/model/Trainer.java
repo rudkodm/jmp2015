@@ -9,11 +9,16 @@ import java.util.List;
 @Data
 @Entity
 @EqualsAndHashCode(callSuper = true)
+@Table(name = "TRAINERS")
 public class Trainer extends AbstractEntity {
 
-    @OneToMany
+    @OneToMany(mappedBy="trainer", cascade = {CascadeType.PERSIST})
     private List<Client> clients;
 
-    @OneToOne(fetch = FetchType.EAGER, cascade = CascadeType.ALL)
+    @Embedded
     private PersonalData personalData;
+    
+    @ManyToOne(cascade = {CascadeType.PERSIST})
+    @JoinColumn(name = "gym_id")
+    private Gym gym;
 }

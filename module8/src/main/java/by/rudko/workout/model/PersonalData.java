@@ -1,16 +1,13 @@
 package by.rudko.workout.model;
 
-import lombok.Data;
-import lombok.EqualsAndHashCode;
+import javax.persistence.Embeddable;
 
-import javax.persistence.Column;
-import javax.persistence.Entity;
+import lombok.Data;
 
 @Data
-@Entity
-@EqualsAndHashCode(callSuper = true)
-public class PersonalData extends AbstractEntity {
-    @Column private String firstName;
-    @Column private String lastName;
-    @Column private String email;
+@Embeddable
+public class PersonalData {
+    private String firstName;
+    private String lastName;
+    private String email;
 }

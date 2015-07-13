@@ -5,6 +5,8 @@ import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.ToString;
 
+import java.io.Serializable;
+
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.MappedSuperclass;
@@ -13,8 +15,9 @@ import javax.persistence.MappedSuperclass;
 @Getter
 @ToString
 @EqualsAndHashCode
-public abstract class AbstractEntity {
-    @Id
+public abstract class AbstractEntity{
+	
+	@Id
     @GeneratedValue
     private final @JsonIgnore Long id;
 
