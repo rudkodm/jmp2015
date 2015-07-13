@@ -16,11 +16,11 @@ import lombok.EqualsAndHashCode;
 @Entity
 @EqualsAndHashCode(callSuper = true)
 @Table(name = "GYMS")
-public class Gym extends AbstractEntity{
-	
-	@OneToOne(fetch=FetchType.EAGER, cascade={CascadeType.MERGE,CascadeType.PERSIST, CascadeType.REFRESH})
-	private Address address;
-	
-	@OneToMany(mappedBy="gym", cascade={CascadeType.PERSIST})
+public class Gym extends AbstractEntity {
+
+    @OneToOne(fetch = FetchType.EAGER, cascade = { CascadeType.MERGE, CascadeType.PERSIST, CascadeType.REFRESH })
+    private Address address;
+
+    @OneToMany(mappedBy = "gym", cascade = { CascadeType.PERSIST })
     private List<Trainer> trainers;
 }
