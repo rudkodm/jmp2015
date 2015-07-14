@@ -1,0 +1,9 @@
+ext {
+	ver = [
+		lombok: "1.14.8",
+	]
+	
+	lib = [
+		lombok: "org.projectlombok:lombok:${ver.lombok}",
+	]
+}

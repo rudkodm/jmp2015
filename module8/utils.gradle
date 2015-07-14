@@ -1,0 +1,35 @@
+import org.apache.tools.ant.taskdefs.condition.Os
+
+def isWindows() {
+    return Os.isFamily(Os.FAMILY_WINDOWS)
+}
+
+def execute(str) {
+	println str
+    def proc =  str.execute()
+
+    proc.in.eachLine {line ->
+        println line
+    }
+    println proc.err.text
+    proc?.exitValue()
+}
+
+def findIn(String configName) {
+    def configuration = configurations[configName];
+    println configuration
+
+    return { resourceName ->
+        configuration.find {
+            it.name.contains(resourceName)
+        }?.absolutePath
+    }
+}
+
+
+ext {
+    executeJbossCommand = this.&executeJbossCommand
+    execute = this.&execute
+    findIn = this.&findIn
+}
+

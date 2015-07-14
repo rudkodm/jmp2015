@@ -1,0 +1,26 @@
+endpoints:
+  enabled: false
+  info:
+    enabled: true
+    
+security:
+  user:
+    name: admin
+    password: admin
+
+management:
+  security:
+    role: SUPERUSER
+
+spring:
+  jpa:
+    generate-ddl: false
+    hibernate:
+      ddl-auto: none
+    show-sql: true
+
+info:
+  build:
+    name: ${name}
+    version: ${version}
+    git: ${revision}
