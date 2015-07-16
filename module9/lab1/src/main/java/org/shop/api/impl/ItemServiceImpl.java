@@ -1,11 +1,14 @@
 package org.shop.api.impl;
 
-import java.util.List;
-
 import org.shop.api.ItemService;
 import org.shop.data.Item;
 import org.shop.repository.ItemRepository;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
+import java.util.List;
+
+@Service
 public class ItemServiceImpl implements ItemService {
     
     /** The item repository. */
@@ -16,6 +19,7 @@ public class ItemServiceImpl implements ItemService {
      *
      * @param repository the item repository
      */
+    @Autowired
     public ItemServiceImpl(ItemRepository repository) {
         super();
         this.repository = repository;

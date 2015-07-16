@@ -3,9 +3,20 @@
 	<groupId>org.training</groupId>
 	<artifactId>context-java-lab</artifactId>
 	<version>1.0</version>
-	
-	<properties>
-		<spring.version>3.0.7.RELEASE</spring.version>
+
+    <repositories>
+        <repository>
+            <id>central</id>
+            <url>http://repo1.maven.org/maven2</url>
+        </repository>
+        <repository>
+            <id>spring-releases</id>
+            <url>https://repo.spring.io/libs-release</url>
+        </repository>
+    </repositories>
+
+    <properties>
+		<spring.version>4.1.6.RELEASE</spring.version>
 		<commons.collections.version>2.1.1</commons.collections.version>
 		<commons.beanutils.version>1.8.0</commons.beanutils.version>
 		<cglib.version>2.2</cglib.version>
@@ -35,6 +46,24 @@
 	  		<groupId>commons-beanutils</groupId>
 	  		<artifactId>commons-beanutils</artifactId>
 	  		<version>${commons.beanutils.version}</version>
-	  	</dependency>	  	
+	  	</dependency>
+
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-core</artifactId>
+            <version>${spring.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+            <version>${spring.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-beans</artifactId>
+            <version>${spring.version}</version>
+        </dependency>
 	</dependencies>
+
+
 </project>
