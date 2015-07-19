@@ -4,15 +4,18 @@ import org.shop.api.ProductService;
 import org.shop.data.Product;
 import org.shop.repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
 
 @Service
+@Qualifier("productService")
 public class ProductServiceImpl implements ProductService {
 
     private final ProductRepository repository;
 
+    //+ ProductService: использовать autowiring by constructor
     @Autowired
     public ProductServiceImpl(ProductRepository repository) {
         super();

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd">
+    
+ 
+ 
+    <bean class="org.shop.SpringApplication"/>
+    
+    <bean name="sellerService" class="org.shop.api.impl.SellerServiceImpl" autowire="byType"/>
+    
+    <!--+ ProposalService: передать repository через конструктор, а остальные параметры передать через соответствующий setter-метод-->
+    <bean class="org.shop.api.impl.ProposalServiceImpl" autowire="constructor">
+        <constructor-arg name="repository" ref="proposalRepository" />
+        <property name="sellerService" ref="sellerService" />
+        <property name="productService" ref="productService" />
+    </bean>
+    
+</beans>
