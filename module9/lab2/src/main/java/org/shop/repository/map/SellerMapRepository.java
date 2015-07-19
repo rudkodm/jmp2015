@@ -1,11 +1,13 @@
 package org.shop.repository.map;
 
+import org.shop.data.Seller;
+import org.shop.repository.SellerRepository;
+import org.springframework.stereotype.Repository;
+
 import java.util.ArrayList;
 import java.util.List;
 
-import org.shop.data.Seller;
-import org.shop.repository.SellerRepository;
-
+@Repository
 public final class SellerMapRepository extends AbstractMapRepository<Seller> implements SellerRepository {
     
     /* (non-Javadoc)
