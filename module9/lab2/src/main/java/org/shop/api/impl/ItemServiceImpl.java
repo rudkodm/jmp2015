@@ -8,6 +8,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
+//+ ItemService: передать необходимые параметры через конструктор
 @Service
 public class ItemServiceImpl implements ItemService {
     

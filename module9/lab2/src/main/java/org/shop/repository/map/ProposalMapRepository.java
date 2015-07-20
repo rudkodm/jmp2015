@@ -3,11 +3,9 @@ package org.shop.repository.map;
 import org.apache.commons.collections.Predicate;
 import org.shop.data.Proposal;
 import org.shop.repository.ProposalRepository;
-import org.springframework.stereotype.Repository;
 
 import java.util.List;
 
-@Repository
 public class ProposalMapRepository extends AbstractMapRepository<Proposal> implements ProposalRepository {
 
     /* (non-Javadoc)

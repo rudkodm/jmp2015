@@ -11,7 +11,6 @@ import java.util.List;
 @Service
 public class UserServiceImpl implements UserService {
 
-    @Autowired
     private UserRepository repository;
 
     /* (non-Javadoc)
@@ -46,6 +45,8 @@ public class UserServiceImpl implements UserService {
         return repository.getUsers();
     }
 
+    //+ UserService: использовать метод populate
+    @Autowired
     public void populate(UserRepository repository) {
         this.repository = repository;
     }
