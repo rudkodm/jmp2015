@@ -1,5 +1,7 @@
 package org.shop;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.shop.api.SellerService;
 import org.shop.data.Seller;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -16,7 +18,9 @@ import java.util.Map;
  */
 @Component
 public class SellerInitializer {
-
+    
+    private static final Logger LOG = LogManager.getLogger(SellerInitializer.class);
+    
     /** The seller service. */
     private SellerService sellerService;
     
@@ -34,6 +38,9 @@ public class SellerInitializer {
      * Inits the sellers.
      */
     public void initSellers() {
+        
+        LOG.info("--> Init Sellers");
+        
         List<Seller> sellers = new LinkedList<Seller>();
         
         for (Map.Entry<Long, String> entry : sellerNames.entrySet()) {

@@ -1,5 +1,7 @@
 package org.shop;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.shop.api.ProductService;
 
 import org.shop.common.Products;
@@ -13,6 +15,8 @@ import org.springframework.stereotype.Component;
 @Component
 public final class ProductInitializer {
     
+    private final Logger LOG = LogManager.getLogger(ProductInitializer.class);
+    
     /** The product service. */
     private ProductService productService;
 
@@ -21,6 +25,7 @@ public final class ProductInitializer {
      *
      * @param productService the product service
      */
+    // + ProductInitializer: передать параметры в конструктор
     @Autowired
     public ProductInitializer(ProductService productService) {
         super();
@@ -31,6 +36,9 @@ public final class ProductInitializer {
      * Inits the products.
      */
     public void initProducts() {
+        
+        LOG.info("--> Init Products");
+        
         Product product = null;
         
         //Samsung Galaxy Tab

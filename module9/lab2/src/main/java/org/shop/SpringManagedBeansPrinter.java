@@ -1,14 +1,14 @@
 package org.shop;
 
-import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.springframework.beans.BeansException;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.ApplicationContextAware;
 import org.springframework.stereotype.Component;
 
 @Component
-public class SpringManagedBeansPrinter implements ApplicationContextAware {
+public class SpringManagedBeansPrinter implements ApplicationContextAware{
     
     private final Logger LOG = LogManager.getLogger(SpringManagedBeansPrinter.class);
     
@@ -20,5 +20,7 @@ public class SpringManagedBeansPrinter implements ApplicationContextAware {
             LOG.info("Bean name: {};  Bean class: {};", beanName, beanClass.getSimpleName());
         }
     }
+
+
 
 }

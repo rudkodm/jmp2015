@@ -1,5 +1,7 @@
 package org.shop;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.shop.api.UserService;
 import org.shop.data.User;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -10,6 +12,8 @@ import org.springframework.stereotype.Component;
  */
 @Component
 public class UserInitializer {
+    
+    private final Logger LOG = LogManager.getLogger(UserInitializer.class);
 
     /** The user service. */
     private UserService userService;
@@ -29,6 +33,9 @@ public class UserInitializer {
      * Inits the users.
      */
     public void initUsers() {
+        
+        LOG.info("--> Init Users");
+        
         User user = null;
         
         user = new User();

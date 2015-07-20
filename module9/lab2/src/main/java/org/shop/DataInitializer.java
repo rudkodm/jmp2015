@@ -1,5 +1,9 @@
 package org.shop;
 
+import javax.annotation.PostConstruct;
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
@@ -8,7 +12,9 @@ import org.springframework.stereotype.Component;
  */
 @Component
 public class DataInitializer {
-
+    
+    private static final Logger LOG = LogManager.getLogger(DataInitializer.class);
+    
     /** The seller initializer. */
     @Autowired
     private SellerInitializer sellerInitializer;
@@ -48,7 +54,13 @@ public class DataInitializer {
     /**
      * Inits the data.
      */
+    
+    // + DataInitializer: инициализировать при помощи init метода
+    @PostConstruct
     public void initData() {
+        
+        LOG.info("--> Init data");
+        
         sellerInitializer.initSellers();
         userInitializer.initUsers();
         productInitializer.initProducts();
