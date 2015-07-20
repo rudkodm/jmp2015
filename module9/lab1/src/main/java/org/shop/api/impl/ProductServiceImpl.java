@@ -9,8 +9,6 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-@Service
-@Qualifier("productService")
 public class ProductServiceImpl implements ProductService {
 
     private final ProductRepository repository;

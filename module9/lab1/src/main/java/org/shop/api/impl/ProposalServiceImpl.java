@@ -8,12 +8,9 @@ import org.shop.data.Proposal;
 import org.shop.data.Seller;
 import org.shop.data.State;
 import org.shop.repository.ProposalRepository;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-@Service
 public class ProposalServiceImpl implements ProposalService {
 
     private final ProposalRepository repository;
@@ -22,7 +19,11 @@ public class ProposalServiceImpl implements ProposalService {
     
     private ProductService productService;
 
-    @Autowired
+    public ProposalServiceImpl(ProposalRepository repository) {
+        super();
+        this.repository = repository;
+    }
+
     public ProposalServiceImpl(ProposalRepository repository, SellerService sellerService, ProductService productService) {
         super();
         this.repository = repository;
@@ -96,5 +97,21 @@ public class ProposalServiceImpl implements ProposalService {
     @Override
     public List<Proposal> getProposalsBySellerId(Long sellerId) {
         return repository.getProposalsBySellerId(sellerId);
+    }
+
+    public SellerService getSellerService() {
+        return sellerService;
+    }
+
+    public void setSellerService(SellerService sellerService) {
+        this.sellerService = sellerService;
+    }
+
+    public ProductService getProductService() {
+        return productService;
+    }
+
+    public void setProductService(ProductService productService) {
+        this.productService = productService;
     }
 }
