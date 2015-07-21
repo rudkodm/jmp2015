@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+    http://www.springframework.org/schema/beans 
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/util
+    http://www.springframework.org/schema/util/spring-util.xsd"
+    
+    xmlns:util="http://www.springframework.org/schema/util"
+    >
+    
+ 
+ 
+    <bean name="sellerService" class="org.shop.api.impl.SellerServiceImpl" autowire="byType"/>
+    <bean name="productService" class="org.shop.api.impl.ProductServiceImpl" autowire="constructor"/>
+    <bean name="proposalRepository" class="org.shop.repository.map.ProposalMapRepository" />
+    <bean name="productRepository" class="org.shop.repository.map.ProductMapRepository" />
+
+    <!--+ ProposalService: передать repository через конструктор, а остальные параметры передать через соответствующий setter-метод-->
+    <bean name="proposalService" class="org.shop.api.impl.ProposalServiceImpl">
+        <constructor-arg name="repository" ref="proposalRepository" />
+        <property name="sellerService" ref="sellerService" />
+        <property name="productService" ref="productService" />
+    </bean>
+    
+    <!-- 
+      Создать bean типа Map
+      ID = 1, Value = org.shop.common.Sellers.AMAZON
+      ID = 2, Value = org.shop.common.Sellers.SAMSUNG
+      ID = 3, Value = ‘Apple’
+     -->
+    <util:map id="sellerNames" key-type="java.lang.Long" value-type="java.lang.String">
+        <entry key="1" >
+            <util:constant static-field="org.shop.common.Sellers.AMAZON"/>
+        </entry>
+        <entry key="2" >
+            <util:constant static-field="org.shop.common.Sellers.SAMSUNG"/>
+        </entry>
+        <entry key="3" value="Apple"/>
+    </util:map>
+    
+    <!-- + ProposalInitializer: использовать autowiring by name -->
+    <bean name="proposalInitializer" class="org.shop.ProposalInitializer" autowire="byName" />
+    
+</beans>
