@@ -1,0 +1,21 @@
+<table class="u-full-width">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>qwe</td>
+            <td>qweqweqwe</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>asd</td>
+            <td>assdadasdasd</td>
+        </tr>
+    </tbody>
+</table>
