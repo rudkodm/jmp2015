@@ -1,3 +1,4 @@
+<%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <table class="u-full-width">
     <thead>
         <tr>
@@ -7,15 +8,12 @@
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>1</td>
-            <td>qwe</td>
-            <td>qweqweqwe</td>
-        </tr>
-        <tr>
-            <td>2</td>
-            <td>asd</td>
-            <td>assdadasdasd</td>
-        </tr>
-    </tbody>
+		<c:forEach var="book" items="${allBooks}">
+			<tr>
+				<td>${book.id}</td>
+				<td>${book.name}</td>
+				<td>${book.description}</td>
+			</tr>
+		</c:forEach>
+	</tbody>
 </table>

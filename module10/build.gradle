@@ -27,6 +27,7 @@ dependencies {
     compile 'org.apache.logging.log4j:log4j-core:2.3'
     compile 'org.springframework:spring-webmvc:4.1.6.RELEASE'
     compile 'org.apache.tiles:tiles-jsp:3.0.5'
+    providedCompile 'org.wildfly:wildfly-spec-api:9.0.0.CR2'
 }
 
 
