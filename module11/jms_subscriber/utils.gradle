@@ -1,0 +1,28 @@
+import org.apache.tools.ant.taskdefs.condition.Os
+
+def isWindows() {
+    return Os.isFamily(Os.FAMILY_WINDOWS)
+}
+
+def executeJbossCommand(str) {
+	def command = (isWindows()) ? "jboss-cli.bat --connect --command=\"${str}\" "
+                                : "jboss-cli.sh --connect --command=\"${str}\" "
+    execute command
+}
+
+def execute(str) {
+	println str
+    def proc =  str.execute()
+
+    proc.in.eachLine {line ->
+        println line
+    }
+    println proc.err.text
+    proc?.exitValue()
+}
+
+ext {
+    executeJbossCommand = this.&executeJbossCommand
+    execute = this.&execute
+}
+
