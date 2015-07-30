@@ -16,4 +16,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'modul11'
+rootProject.name = 'jms_subscriber'

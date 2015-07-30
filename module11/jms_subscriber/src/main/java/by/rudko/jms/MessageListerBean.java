@@ -1,5 +1,8 @@
 package by.rudko.jms;
 
+import java.util.logging.Level;
+import java.util.logging.Logger;
+
 import javax.ejb.ActivationConfigProperty;
 import javax.ejb.MessageDriven;
 import javax.inject.Inject;
@@ -7,8 +10,6 @@ import javax.jms.JMSException;
 import javax.jms.Message;
 import javax.jms.MessageListener;
 import javax.jms.TextMessage;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 
 /**
  * Created by rudkodm on 7/30/15.
