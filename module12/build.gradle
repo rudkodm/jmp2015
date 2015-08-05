@@ -1,0 +1,32 @@
+apply plugin:'java'
+apply plugin:'application'
+
+
+
+sourceCompatibility = '1.8'
+targetCompatibility = '1.8'
+
+group = 'by.rudko.troubleshooting'
+applicationName = rootProject.name;
+mainClassName = 'by.rudko.troubleshooting.Application'
+version = '1.0'
+
+ext {
+    lib = [
+        log4j : "org.apache.logging.log4j:log4j-core:2.3",
+        junit : "junit:junit:4.12",
+        apache_commons : "org.apache.commons:commons-lang3:3.3.2",
+        apache_io : "commons-io:commons-io:2.4"
+    ]
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    lib.log4j
+}
+
+applicationDefaultJvmArgs = []
+
