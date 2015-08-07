@@ -1,0 +1,3698 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<!-- v01. 10.02.2011 Vladgrand @ 4pda.ru -->
+<Document>
+<name>Metro</name>
+<Folder><name>Moscow</name>
+<Folder><name>Авиамоторная</name>
+<Placemark>
+<name>Авиамоторная</name>
+<Point>
+<coordinates>37.716766,55.751884</coordinates>
+</Point>
+<description>Калининская линия</description>
+</Placemark>
+<Placemark>
+<name>Авиамоторная</name>
+<Point>
+<coordinates>37.717144,55.752247</coordinates>
+</Point>
+<description>Калининская линия</description>
+</Placemark>
+<Placemark>
+<name>Авиамоторная</name>
+<Point>
+<coordinates>37.717705,55.751057</coordinates>
+</Point>
+<description>Калининская линия</description>
+</Placemark>
+<Placemark>
+<name>Авиамоторная</name>
+<Point>
+<coordinates>37.716358,55.751659</coordinates>
+</Point>
+<description>Калининская линия</description>
+</Placemark>
+<Placemark>
+<name>Авиамоторная</name>
+<Point>
+<coordinates>37.717323,55.75193</coordinates>
+</Point>
+<description>Калининская линия</description>
+</Placemark>
+<Placemark>
+<name>Авиамоторная</name>
+<Point>
+<coordinates>37.717369,55.750977</coordinates>
+</Point>
+<description>Калининская линия</description>
+</Placemark>
+<Placemark>
+<name>Авиамоторная</name>
+<Point>
+<coordinates>37.716671,55.751274</coordinates>
+</Point>
+<description>Калининская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Автозаводская</name>
+<Placemark>
+<name>Автозаводская</name>
+<Point>
+<coordinates>37.657211,55.7085</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Автозаводская</name>
+<Point>
+<coordinates>37.65802,55.708405</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Автозаводская</name>
+<Point>
+<coordinates>37.657143,55.70628</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Багратионовская</name>
+<Placemark>
+<name>Багратионовская</name>
+<Point>
+<coordinates>37.49728,55.743664</coordinates>
+</Point>
+<description>Филёвская линия</description>
+</Placemark>
+<Placemark>
+<name>Багратионовская</name>
+<Point>
+<coordinates>37.498135,55.743904</coordinates>
+</Point>
+<description>Филёвская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Полянка</name>
+<Placemark>
+<name>Полянка</name>
+<Point>
+<coordinates>37.618439,55.736755</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Пражская</name>
+<Placemark>
+<name>Пражская</name>
+<Point>
+<coordinates>37.604698,55.613506</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Пражская</name>
+<Point>
+<coordinates>37.604206,55.613594</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Пражская</name>
+<Point>
+<coordinates>37.60405,55.610722</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Пражская</name>
+<Point>
+<coordinates>37.602955,55.611423</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Пражская</name>
+<Point>
+<coordinates>37.60421,55.611198</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Пражская</name>
+<Point>
+<coordinates>37.602768,55.61087</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Преображенская Площадь</name>
+<Placemark>
+<name>Преображенская Площадь</name>
+<Point>
+<coordinates>37.717304,55.796017</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+<Placemark>
+<name>Преображенская Площадь</name>
+<Point>
+<coordinates>37.714054,55.795399</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+<Placemark>
+<name>Преображенская Площадь</name>
+<Point>
+<coordinates>37.714821,55.795444</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+<Placemark>
+<name>Преображенская Площадь</name>
+<Point>
+<coordinates>37.716827,55.79689</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+<Placemark>
+<name>Преображенская Площадь</name>
+<Point>
+<coordinates>37.713608,55.796299</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Пролетарская</name>
+<Placemark>
+<name>Пролетарская</name>
+<Point>
+<coordinates>37.667816,55.731926</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Пролетарская</name>
+<Point>
+<coordinates>37.664253,55.731781</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Пролетарская</name>
+<Point>
+<coordinates>37.664734,55.731228</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Проспект Вернадского</name>
+<Placemark>
+<name>Проспект Вернадского</name>
+<Point>
+<coordinates>37.507118,55.677837</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+<Placemark>
+<name>Проспект Вернадского</name>
+<Point>
+<coordinates>37.505108,55.676311</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+<Placemark>
+<name>Проспект Вернадского</name>
+<Point>
+<coordinates>37.504604,55.67662</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+<Placemark>
+<name>Проспект Вернадского</name>
+<Point>
+<coordinates>37.505474,55.676067</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Проспект Мира (Калужско-Рижская)</name>
+<Placemark>
+<name>Проспект Мира</name>
+<Point>
+<coordinates>37.633362,55.78178</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Проспект Мира (Кольцевая)</name>
+<Placemark>
+<name>Проспект Мира</name>
+<Point>
+<coordinates>37.633663,55.779621</coordinates>
+</Point>
+<description>Кольцевая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Профсоюзная</name>
+<Placemark>
+<name>Профсоюзная</name>
+<Point>
+<coordinates>37.564022,55.67857</coordinates>
+</Point>
+<description>Калужско-Рижская линия.</description>
+</Placemark>
+<Placemark>
+<name>Профсоюзная</name>
+<Point>
+<coordinates>37.563419,55.678829</coordinates>
+</Point>
+<description>Калужско-Рижская линия.</description>
+</Placemark>
+<Placemark>
+<name>Профсоюзная</name>
+<Point>
+<coordinates>37.561703,55.677231</coordinates>
+</Point>
+<description>Калужско-Рижская линия.</description>
+</Placemark>
+<Placemark>
+<name>Профсоюзная</name>
+<Point>
+<coordinates>37.562241,55.677032</coordinates>
+</Point>
+<description>Калужско-Рижская линия.</description>
+</Placemark>
+</Folder>
+<Folder><name>Пушкинская</name>
+<Placemark>
+<name>Пушкинская</name>
+<Point>
+<coordinates>37.604156,55.765575</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия.</description>
+</Placemark>
+<Placemark>
+<name>Пушкинская</name>
+<Point>
+<coordinates>37.603397,55.765091</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия.</description>
+</Placemark>
+</Folder>
+<Folder><name>Речной Вокзал</name>
+<Placemark>
+<name>Речной Вокзал</name>
+<Point>
+<coordinates>37.476646,55.854229</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Речной Вокзал</name>
+<Point>
+<coordinates>37.475628,55.855801</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Рижская</name>
+<Placemark>
+<name>Рижская</name>
+<Point>
+<coordinates>37.636166,55.792454</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Баррикадная</name>
+<Placemark>
+<name>Баррикадная</name>
+<Point>
+<coordinates>37.581306,55.760754</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Римская</name>
+<Placemark>
+<name>Римская</name>
+<Point>
+<coordinates>37.680058,55.746883</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия</description>
+</Placemark>
+<Placemark>
+<name>Римская</name>
+<Point>
+<coordinates>37.679008,55.746441</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Рязанский Проспект</name>
+<Placemark>
+<name>Рязанский Проспект</name>
+<Point>
+<coordinates>37.792717,55.716202</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Рязанский Проспект</name>
+<Point>
+<coordinates>37.793777,55.717686</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Савёловская</name>
+<Placemark>
+<name>Савёловская</name>
+<Point>
+<coordinates>37.590225,55.793941</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Савёловская</name>
+<Point>
+<coordinates>37.587132,55.793999</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Савёловская</name>
+<Point>
+<coordinates>37.58868,55.794147</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Свиблово</name>
+<Placemark>
+<name>Свиблово</name>
+<Point>
+<coordinates>37.654186,55.855671</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Свиблово</name>
+<Point>
+<coordinates>37.653835,55.85601</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Свиблово</name>
+<Point>
+<coordinates>37.651543,55.854424</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Свиблово</name>
+<Point>
+<coordinates>37.651283,55.854687</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Севастопольская</name>
+<Placemark>
+<name>Севастопольская</name>
+<Point>
+<coordinates>37.598625,55.651104</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Севастопольская</name>
+<Point>
+<coordinates>37.598122,55.651566</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Семёновская</name>
+<Placemark>
+<name>Семёновская</name>
+<Point>
+<coordinates>37.719353,55.783096</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Серпуховская</name>
+<Placemark>
+<name>Серпуховская</name>
+<Point>
+<coordinates>37.624924,55.726673</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Серпуховская</name>
+<Point>
+<coordinates>37.625664,55.726841</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Славянский бульвар</name>
+<Placemark>
+<name>Славянский бульвар</name>
+<Point>
+<coordinates>37.472321,55.730076</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+<Placemark>
+<name>Славянский бульвар</name>
+<Point>
+<coordinates>37.472832,55.729362</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+<Placemark>
+<name>Славянский бульвар</name>
+<Point>
+<coordinates>37.468689,55.728935</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+<Placemark>
+<name>Славянский бульвар</name>
+<Point>
+<coordinates>37.472546,55.730865</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Смоленская (Филевская)</name>
+<Placemark>
+<name>Смоленская</name>
+<Point>
+<coordinates>37.582184,55.748989</coordinates>
+</Point>
+<description>Филёвская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Смоленская (Арбатско-Покровская)</name>
+<Placemark>
+<name>Смоленская</name>
+<Point>
+<coordinates>37.583702,55.747852</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Сокол</name>
+<Placemark>
+<name>Сокол</name>
+<Point>
+<coordinates>37.5144,55.804482</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Сокол</name>
+<Point>
+<coordinates>37.5158,55.804256</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Сокол</name>
+<Point>
+<coordinates>37.51638,55.804962</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Сокол</name>
+<Point>
+<coordinates>37.515316,55.805618</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Бауманская</name>
+<Placemark>
+<name>Бауманская</name>
+<Point>
+<coordinates>37.678829,55.772377</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Сокольники</name>
+<Placemark>
+<name>Сокольники</name>
+<Point>
+<coordinates>37.679703,55.78928</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Спортивная</name>
+<Placemark>
+<name>Спортивная</name>
+<Point>
+<coordinates>37.56189,55.722275</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+<Placemark>
+<name>Спортивная</name>
+<Point>
+<coordinates>37.565659,55.723915</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Сретенский бульвар</name>
+<Placemark>
+<name>Сретенский бульвар</name>
+<Point>
+<coordinates>37.636669,55.765358</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Строгино</name>
+<Placemark>
+<name>Строгино</name>
+<Point>
+<coordinates>37.401161,55.804478</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+<Placemark>
+<name>Строгино</name>
+<Point>
+<coordinates>37.400787,55.803848</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+<Placemark>
+<name>Строгино</name>
+<Point>
+<coordinates>37.404209,55.803143</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+<Placemark>
+<name>Строгино</name>
+<Point>
+<coordinates>37.40453,55.803783</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Студенческая</name>
+<Placemark>
+<name>Студенческая</name>
+<Point>
+<coordinates>37.548126,55.738892</coordinates>
+</Point>
+<description>Филёвская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Сухаревская</name>
+<Placemark>
+<name>Сухаревская</name>
+<Point>
+<coordinates>37.632111,55.772324</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Сухаревская</name>
+<Point>
+<coordinates>37.632969,55.772316</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Сходненская</name>
+<Placemark>
+<name>Сходненская</name>
+<Point>
+<coordinates>37.438793,55.851479</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Сходненская</name>
+<Point>
+<coordinates>37.440746,55.849575</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Сходненская</name>
+<Point>
+<coordinates>37.44075,55.849297</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Сходненская</name>
+<Point>
+<coordinates>37.440086,55.85154</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Сходненская</name>
+<Point>
+<coordinates>37.439297,55.849442</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Таганская (Таганско-Краснопресненская)</name>
+<Placemark>
+<name>Таганская</name>
+<Point>
+<coordinates>37.652985,55.739292</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Таганская</name>
+<Point>
+<coordinates>37.653484,55.739609</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Таганская (Кольцевая)</name>
+<Placemark>
+<name>Таганская</name>
+<Point>
+<coordinates>37.653606,55.742371</coordinates>
+</Point>
+<description>Кольцевая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Тверская</name>
+<Placemark>
+<name>Тверская</name>
+<Point>
+<coordinates>37.603821,55.765335</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Тверская</name>
+<Point>
+<coordinates>37.605488,55.765015</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Тверская</name>
+<Point>
+<coordinates>37.604851,55.765331</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Тверская</name>
+<Point>
+<coordinates>37.60619,55.764626</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Тверская</name>
+<Point>
+<coordinates>37.605576,55.764286</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Театральная</name>
+<Placemark>
+<name>Театральная</name>
+<Point>
+<coordinates>37.617638,55.758732</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Беговая</name>
+<Placemark>
+<name>Беговая</name>
+<Point>
+<coordinates>37.548737,55.773079</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Беговая</name>
+<Point>
+<coordinates>37.548576,55.774345</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Беговая</name>
+<Point>
+<coordinates>37.544716,55.773338</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Беговая</name>
+<Point>
+<coordinates>37.544769,55.773991</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Текстильщики</name>
+<Placemark>
+<name>Текстильщики</name>
+<Point>
+<coordinates>37.73341,55.708981</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Текстильщики</name>
+<Point>
+<coordinates>37.729782,55.708405</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Текстильщики</name>
+<Point>
+<coordinates>37.728817,55.708591</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Текстильщики</name>
+<Point>
+<coordinates>37.733337,55.709534</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Тёплый Стан</name>
+<Placemark>
+<name>Тёплый Стан</name>
+<Point>
+<coordinates>37.505329,55.619976</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Тёплый Стан</name>
+<Point>
+<coordinates>37.507236,55.619598</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Тёплый Стан</name>
+<Point>
+<coordinates>37.508106,55.617298</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Тёплый Стан</name>
+<Point>
+<coordinates>37.506199,55.619709</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Тёплый Стан</name>
+<Point>
+<coordinates>37.508419,55.617733</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Тимирязевская</name>
+<Placemark>
+<name>Тимирязевская</name>
+<Point>
+<coordinates>37.574402,55.818817</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Тимирязевская</name>
+<Point>
+<coordinates>37.576321,55.819218</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Тимирязевская</name>
+<Point>
+<coordinates>37.575474,55.819042</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Третьяковская</name>
+<Placemark>
+<name>Третьяковская</name>
+<Point>
+<coordinates>37.625561,55.740692</coordinates>
+</Point>
+<description>Калининская линия. Калужско-Рижская линия.</description>
+</Placemark>
+</Folder>
+<Folder><name>Трубная</name>
+<Placemark>
+<name>Трубная</name>
+<Point>
+<coordinates>37.622059,55.767448</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Тульская</name>
+<Placemark>
+<name>Тульская</name>
+<Point>
+<coordinates>37.622414,55.707699</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Тульская</name>
+<Point>
+<coordinates>37.622562,55.709644</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Тургеневская</name>
+<Placemark>
+<name>Тургеневская</name>
+<Point>
+<coordinates>37.636505,55.766266</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Тургеневская</name>
+<Point>
+<coordinates>37.636963,55.76601</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Тушинская</name>
+<Placemark>
+<name>Тушинская</name>
+<Point>
+<coordinates>37.436932,55.825497</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Тушинская</name>
+<Point>
+<coordinates>37.436085,55.825726</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Тушинская</name>
+<Point>
+<coordinates>37.437233,55.827297</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Тушинская</name>
+<Point>
+<coordinates>37.43808,55.828178</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Улица 1905 Года</name>
+<Placemark>
+<name>Улица 1905 Года</name>
+<Point>
+<coordinates>37.562256,55.763962</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Улица 1905 Года</name>
+<Point>
+<coordinates>37.560303,55.765594</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Белорусская (Замоскворецкая)</name>
+<Placemark>
+<name>Белорусская</name>
+<Point>
+<coordinates>37.58218,55.777351</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Белорусская (Кольцевая)</name>
+<Placemark>
+<name>Белорусская</name>
+<Point>
+<coordinates>37.582588,55.775295</coordinates>
+</Point>
+<description>Кольцевая линия. Замоскворецкая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Улица Академика Янгеля</name>
+<Placemark>
+<name>Улица Академика Янгеля</name>
+<Point>
+<coordinates>37.600418,55.594536</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Улица Академика Янгеля</name>
+<Point>
+<coordinates>37.601158,55.596371</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Улица Академика Янгеля</name>
+<Point>
+<coordinates>37.601898,55.594074</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Улица Академика Янгеля</name>
+<Point>
+<coordinates>37.600975,55.594315</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Улица Академика Янгеля</name>
+<Point>
+<coordinates>37.601875,55.596237</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Улица Академика Янгеля</name>
+<Point>
+<coordinates>37.602928,55.596069</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Улица Горчакова</name>
+<Placemark>
+<name>Улица Горчакова</name>
+<Point>
+<coordinates>37.531013,55.541969</coordinates>
+</Point>
+<description>Бутовская линия лёгкого метро</description>
+</Placemark>
+</Folder>
+<Folder><name>Улица Подбельского</name>
+<Placemark>
+<name>Улица Подбельского</name>
+<Point>
+<coordinates>37.735279,55.813377</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+<Placemark>
+<name>Улица Подбельского</name>
+<Point>
+<coordinates>37.732727,55.815414</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+<Placemark>
+<name>Улица Подбельского</name>
+<Point>
+<coordinates>37.73233,55.814919</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+<Placemark>
+<name>Улица Подбельского</name>
+<Point>
+<coordinates>37.735741,55.814053</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Улица Скобелевская</name>
+<Placemark>
+<name>Улица Скобелевская</name>
+<Point>
+<coordinates>37.554649,55.54808</coordinates>
+</Point>
+<description>Бутовская линия лёгкого метро</description>
+</Placemark>
+</Folder>
+<Folder><name>Улица Старокачаловская</name>
+<Placemark>
+<name>Улица Старокачаловская</name>
+<Point>
+<coordinates>37.575787,55.568478</coordinates>
+</Point>
+<description>Бутовская линия лёгкого метро</description>
+</Placemark>
+<Placemark>
+<name>Улица Старокачаловская</name>
+<Point>
+<coordinates>37.57666,55.568195</coordinates>
+</Point>
+<description>Бутовская линия лёгкого метро</description>
+</Placemark>
+<Placemark>
+<name>Улица Старокачаловская</name>
+<Point>
+<coordinates>37.575024,55.568573</coordinates>
+</Point>
+<description>Бутовская линия лёгкого метро</description>
+</Placemark>
+</Folder>
+<Folder><name>Университет</name>
+<Placemark>
+<name>Университет</name>
+<Point>
+<coordinates>37.534748,55.69178</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+<Placemark>
+<name>Университет</name>
+<Point>
+<coordinates>37.534489,55.693325</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Филёвский Парк</name>
+<Placemark>
+<name>Филёвский Парк</name>
+<Point>
+<coordinates>37.482723,55.739349</coordinates>
+</Point>
+<description>Филёвская линия</description>
+</Placemark>
+<Placemark>
+<name>Филёвский Парк</name>
+<Point>
+<coordinates>37.483902,55.739704</coordinates>
+</Point>
+<description>Филёвская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Фили</name>
+<Placemark>
+<name>Фили</name>
+<Point>
+<coordinates>37.51403,55.746758</coordinates>
+</Point>
+<description>Филёвская линия</description>
+</Placemark>
+<Placemark>
+<name>Фили</name>
+<Point>
+<coordinates>37.515736,55.745338</coordinates>
+</Point>
+<description>Филёвская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Беляево</name>
+<Placemark>
+<name>Беляево</name>
+<Point>
+<coordinates>37.525257,55.641739</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Беляево</name>
+<Point>
+<coordinates>37.52663,55.643715</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Беляево</name>
+<Point>
+<coordinates>37.525913,55.641602</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Беляево</name>
+<Point>
+<coordinates>37.527241,55.643555</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Фрунзенская</name>
+<Placemark>
+<name>Фрунзенская</name>
+<Point>
+<coordinates>37.580624,55.727467</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Царицыно</name>
+<Placemark>
+<name>Царицыно</name>
+<Point>
+<coordinates>37.669823,55.620453</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Царицыно</name>
+<Point>
+<coordinates>37.670284,55.620152</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Царицыно</name>
+<Point>
+<coordinates>37.668053,55.622318</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Царицыно</name>
+<Point>
+<coordinates>37.670479,55.619698</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Царицыно</name>
+<Point>
+<coordinates>37.668793,55.622677</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Цветной Бульвар</name>
+<Placemark>
+<name>Цветной Бульвар</name>
+<Point>
+<coordinates>37.62075,55.771713</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Черкизовская</name>
+<Placemark>
+<name>Черкизовская</name>
+<Point>
+<coordinates>37.744881,55.802765</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+<Placemark>
+<name>Черкизовская</name>
+<Point>
+<coordinates>37.74456,55.804916</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Чертановская</name>
+<Placemark>
+<name>Чертановская</name>
+<Point>
+<coordinates>37.605156,55.640774</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Чертановская</name>
+<Point>
+<coordinates>37.604958,55.641842</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Чертановская</name>
+<Point>
+<coordinates>37.607918,55.639866</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Чеховская</name>
+<Placemark>
+<name>Чеховская</name>
+<Point>
+<coordinates>37.608303,55.765701</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Чеховская</name>
+<Point>
+<coordinates>37.607983,55.765984</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Чистые Пруды</name>
+<Placemark>
+<name>Чистые Пруды</name>
+<Point>
+<coordinates>37.638344,55.764908</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Чкаловская</name>
+<Placemark>
+<name>Чкаловская</name>
+<Point>
+<coordinates>37.658211,55.755959</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия</description>
+</Placemark>
+<Placemark>
+<name>Чкаловская</name>
+<Point>
+<coordinates>37.659309,55.756058</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Шаболовская</name>
+<Placemark>
+<name>Шаболовская</name>
+<Point>
+<coordinates>37.607922,55.718891</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Шоссе Энтузиастов</name>
+<Placemark>
+<name>Шоссе Энтузиастов</name>
+<Point>
+<coordinates>37.751545,55.758423</coordinates>
+</Point>
+<description>Калининская линия</description>
+</Placemark>
+<Placemark>
+<name>Шоссе Энтузиастов</name>
+<Point>
+<coordinates>37.751663,55.758144</coordinates>
+</Point>
+<description>Калининская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Бибирево</name>
+<Placemark>
+<name>Бибирево</name>
+<Point>
+<coordinates>37.604416,55.883965</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Бибирево</name>
+<Point>
+<coordinates>37.605049,55.883472</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Бибирево</name>
+<Point>
+<coordinates>37.601406,55.884327</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Щелковская</name>
+<Placemark>
+<name>Щелковская</name>
+<Point>
+<coordinates>37.79842,55.808399</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+<Placemark>
+<name>Щелковская</name>
+<Point>
+<coordinates>37.798843,55.808399</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+<Placemark>
+<name>Щёлковская</name>
+<Point>
+<coordinates>37.798889,55.810387</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+<Placemark>
+<name>Щёлковская</name>
+<Point>
+<coordinates>37.79829,55.810051</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+<Placemark>
+<name>Щёлковская</name>
+<Point>
+<coordinates>37.798836,55.810051</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+<Placemark>
+<name>Щёлковская</name>
+<Point>
+<coordinates>37.798195,55.810413</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Щукинская</name>
+<Placemark>
+<name>Щукинская</name>
+<Point>
+<coordinates>37.463207,55.809395</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Щукинская</name>
+<Point>
+<coordinates>37.462723,55.809044</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Щукинская</name>
+<Point>
+<coordinates>37.465954,55.807934</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Щукинская</name>
+<Point>
+<coordinates>37.465549,55.80764</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Электрозаводская</name>
+<Placemark>
+<name>Электрозаводская</name>
+<Point>
+<coordinates>37.705273,55.782139</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Юго-Западная</name>
+<Placemark>
+<name>Юго-Западная</name>
+<Point>
+<coordinates>37.48325,55.664665</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+<Placemark>
+<name>Юго-Западная</name>
+<Point>
+<coordinates>37.48317,55.662682</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+<Placemark>
+<name>Юго-Западная</name>
+<Point>
+<coordinates>37.484299,55.664455</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+<Placemark>
+<name>Юго-Западная</name>
+<Point>
+<coordinates>37.482079,55.66288</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Южная</name>
+<Placemark>
+<name>Южная</name>
+<Point>
+<coordinates>37.607689,55.621311</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Южная</name>
+<Point>
+<coordinates>37.609795,55.623466</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Южная</name>
+<Point>
+<coordinates>37.608959,55.621109</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Южная</name>
+<Point>
+<coordinates>37.609646,55.622841</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Южная</name>
+<Point>
+<coordinates>37.608688,55.623585</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Южная</name>
+<Point>
+<coordinates>37.609177,55.621578</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Ясенево</name>
+<Placemark>
+<name>Ясенево</name>
+<Point>
+<coordinates>37.531399,55.606281</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Ясенево</name>
+<Point>
+<coordinates>37.531639,55.606869</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Ясенево</name>
+<Point>
+<coordinates>37.532818,55.60656</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Ясенево</name>
+<Point>
+<coordinates>37.535255,55.606091</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Ясенево</name>
+<Point>
+<coordinates>37.53141,55.606579</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Ясенево</name>
+<Point>
+<coordinates>37.534363,55.605656</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Ясенево</name>
+<Point>
+<coordinates>37.534882,55.605518</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Ясенево</name>
+<Point>
+<coordinates>37.534653,55.606201</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Мякинино</name>
+<Placemark>
+<name>Мякинино</name>
+<Point>
+<coordinates>37.384444,55.824722</coordinates>
+</Point>
+<description>Арбатско-Покровская линия. Строящаяся</description>
+</Placemark>
+</Folder>
+<Folder><name>Волоколамская</name>
+<Placemark>
+<name>Волоколамская</name>
+<Point>
+<coordinates>37.381422,55.835994</coordinates>
+</Point>
+<description>Арбатско-Покровская линия. Строящаяся</description>
+</Placemark>
+</Folder>
+<Folder><name>Митино</name>
+<Placemark>
+<name>Митино</name>
+<Point>
+<coordinates>37.361944,55.845556</coordinates>
+</Point>
+<description>Арбатско-Покровская линия. Строящаяся</description>
+</Placemark>
+</Folder>
+<Folder><name>Библиотека имени Ленина</name>
+<Placemark>
+<name>Библиотека имени Ленина</name>
+<Point>
+<coordinates>37.610306,55.752026</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+<Placemark>
+<name>Библиотека имени Ленина</name>
+<Point>
+<coordinates>37.610806,55.752563</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Достоевская</name>
+<Placemark>
+<name>Достоевская</name>
+<Point>
+<coordinates>37.613889,55.781667</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия. Строящаяся</description>
+</Placemark>
+</Folder>
+<Folder><name>Марьина роща</name>
+<Placemark>
+<name>Марьина роща</name>
+<Point>
+<coordinates>37.617574,55.795437</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия. Строящаяся</description>
+</Placemark>
+</Folder>
+<Folder><name>Борисово</name>
+<Placemark>
+<name>Борисово</name>
+<Point>
+<coordinates>37.740526,55.640181</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия. Строящаяся</description>
+</Placemark>
+</Folder>
+<Folder><name>Шипиловская</name>
+<Placemark>
+<name>Шипиловская</name>
+<Point>
+<coordinates>37.743761,55.622532</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия. Строящаяся</description>
+</Placemark>
+</Folder>
+<Folder><name>Зябликово</name>
+<Placemark>
+<name>Зябликово</name>
+<Point>
+<coordinates>37.746727,55.612511</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия. Строящаяся</description>
+</Placemark>
+</Folder>
+<Folder><name>Новоясеневская</name>
+<Placemark>
+<name>Новоясеневская</name>
+<Point>
+<coordinates>37.552994,55.601936</coordinates>
+</Point>
+<description>Калужско-Рижская линия. Бывшая "Битцевский парк"</description>
+</Placemark>
+<Placemark>
+<name>Новоясеневская</name>
+<Point>
+<coordinates>37.55283,55.601524</coordinates>
+</Point>
+<description>Калужско-Рижская линия. Бывшая "Битцевский парк"</description>
+</Placemark>
+</Folder>
+<Folder><name>Боровицкая</name>
+<Placemark>
+<name>Боровицкая</name>
+<Point>
+<coordinates>37.609173,55.750477</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Академическая</name>
+<Placemark>
+<name>Академическая</name>
+<Point>
+<coordinates>37.574566,55.688465</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Академическая</name>
+<Point>
+<coordinates>37.572243,55.687115</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Академическая</name>
+<Point>
+<coordinates>37.573944,55.688705</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Академическая</name>
+<Point>
+<coordinates>37.572769,55.686863</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Ботанический Сад</name>
+<Placemark>
+<name>Ботанический Сад</name>
+<Point>
+<coordinates>37.639065,55.846603</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Ботанический Сад</name>
+<Point>
+<coordinates>37.638557,55.845905</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Ботанический Сад</name>
+<Point>
+<coordinates>37.637604,55.843918</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Братиславская</name>
+<Placemark>
+<name>Братиславская</name>
+<Point>
+<coordinates>37.749859,55.659008</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия</description>
+</Placemark>
+<Placemark>
+<name>Братиславская</name>
+<Point>
+<coordinates>37.748379,55.658802</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия</description>
+</Placemark>
+<Placemark>
+<name>Братиславская</name>
+<Point>
+<coordinates>37.74968,55.659283</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия</description>
+</Placemark>
+<Placemark>
+<name>Братиславская</name>
+<Point>
+<coordinates>37.752018,55.659908</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия</description>
+</Placemark>
+<Placemark>
+<name>Братиславская</name>
+<Point>
+<coordinates>37.752712,55.660156</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Бульвар адмирала Ушакова</name>
+<Placemark>
+<name>Бульвар адмирала Ушакова</name>
+<Point>
+<coordinates>37.542065,55.545242</coordinates>
+</Point>
+<description>Бутовская линия лёгкого метро</description>
+</Placemark>
+</Folder>
+<Folder><name>Бульвар Дмитрия Донского</name>
+<Placemark>
+<name>Бульвар Дмитрия Донского</name>
+<Point>
+<coordinates>37.575035,55.568565</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Бульвар Дмитрия Донского</name>
+<Point>
+<coordinates>37.576653,55.568203</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Бульвар Дмитрия Донского</name>
+<Point>
+<coordinates>37.575794,55.568447</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Бульвар Дмитрия Донского</name>
+<Point>
+<coordinates>37.577114,55.570236</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Бульвар Дмитрия Донского</name>
+<Point>
+<coordinates>37.577114,55.570236</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Бульвар Дмитрия Донского</name>
+<Point>
+<coordinates>37.577942,55.570145</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Бульвар Дмитрия Донского</name>
+<Point>
+<coordinates>37.576462,55.570484</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Бунинская аллея</name>
+<Placemark>
+<name>Бунинская аллея</name>
+<Point>
+<coordinates>37.515362,55.537937</coordinates>
+</Point>
+<description>Бутовская линия лёгкого метро</description>
+</Placemark>
+</Folder>
+<Folder><name>Варшавская</name>
+<Placemark>
+<name>Варшавская</name>
+<Point>
+<coordinates>37.622284,55.653847</coordinates>
+</Point>
+<description>Каховская линия</description>
+</Placemark>
+<Placemark>
+<name>Варшавская</name>
+<Point>
+<coordinates>37.617779,55.653561</coordinates>
+</Point>
+<description>Каховская линия</description>
+</Placemark>
+<Placemark>
+<name>Варшавская</name>
+<Point>
+<coordinates>37.617737,55.653069</coordinates>
+</Point>
+<description>Каховская линия</description>
+</Placemark>
+<Placemark>
+<name>Варшавская</name>
+<Point>
+<coordinates>37.620331,55.653683</coordinates>
+</Point>
+<description>Каховская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>ВДНХ</name>
+<Placemark>
+<name>ВДНХ</name>
+<Point>
+<coordinates>37.640877,55.819798</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>ВДНХ</name>
+<Point>
+<coordinates>37.639763,55.820114</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>ВДНХ</name>
+<Point>
+<coordinates>37.641521,55.822308</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Владыкино</name>
+<Placemark>
+<name>Владыкино</name>
+<Point>
+<coordinates>37.590431,55.848217</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Владыкино</name>
+<Point>
+<coordinates>37.589401,55.846138</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Водный Стадион</name>
+<Placemark>
+<name>Водный Стадион</name>
+<Point>
+<coordinates>37.486168,55.840652</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Водный Стадион</name>
+<Point>
+<coordinates>37.487411,55.839096</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Войковская</name>
+<Placemark>
+<name>Войковская</name>
+<Point>
+<coordinates>37.497925,55.818001</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Войковская</name>
+<Point>
+<coordinates>37.498886,55.818409</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Войковская</name>
+<Point>
+<coordinates>37.497616,55.820019</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Войковская</name>
+<Point>
+<coordinates>37.496552,55.819798</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Войковская</name>
+<Point>
+<coordinates>37.499405,55.817825</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Александровский Сад</name>
+<Placemark>
+<name>Александровский Сад</name>
+<Point>
+<coordinates>37.610241,55.752266</coordinates>
+</Point>
+<description>Филёвская линия</description>
+</Placemark>
+<Placemark>
+<name>Александровский Сад</name>
+<Point>
+<coordinates>37.612488,55.752083</coordinates>
+</Point>
+<description>Филёвская линия</description>
+</Placemark>
+<Placemark>
+<name>Александровский Сад</name>
+<Point>
+<coordinates>37.608238,55.752308</coordinates>
+</Point>
+<description>Филёвская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Волгоградский Проспект</name>
+<Placemark>
+<name>Волгоградский Проспект</name>
+<Point>
+<coordinates>37.68774,55.724663</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Волгоградский Проспект</name>
+<Point>
+<coordinates>37.685215,55.725616</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Волгоградский Проспект</name>
+<Point>
+<coordinates>37.688423,55.724457</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Волжская</name>
+<Placemark>
+<name>Волжская</name>
+<Point>
+<coordinates>37.756367,55.690643</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия</description>
+</Placemark>
+<Placemark>
+<name>Волжская</name>
+<Point>
+<coordinates>37.755085,55.690781</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Воробьёвы Горы</name>
+<Placemark>
+<name>Воробьёвы Горы</name>
+<Point>
+<coordinates>37.56068,55.711578</coordinates>
+</Point>
+<description>Люблинско-Сокольническая линия</description>
+</Placemark>
+<Placemark>
+<name>Воробьёвы Горы</name>
+<Point>
+<coordinates>37.557331,55.709103</coordinates>
+</Point>
+<description>Люблинско-Сокольническая линия</description>
+</Placemark>
+<Placemark>
+<name>Воробьёвы Горы</name>
+<Point>
+<coordinates>37.557793,55.708961</coordinates>
+</Point>
+<description>Люблинско-Сокольническая линия</description>
+</Placemark>
+<Placemark>
+<name>Воробьёвы Горы</name>
+<Point>
+<coordinates>37.561184,55.711414</coordinates>
+</Point>
+<description>Люблинско-Сокольническая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Выхино</name>
+<Placemark>
+<name>Выхино</name>
+<Point>
+<coordinates>37.818913,55.715775</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Выхино</name>
+<Point>
+<coordinates>37.817104,55.715805</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Выхино</name>
+<Point>
+<coordinates>37.818493,55.715336</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Выхино</name>
+<Point>
+<coordinates>37.817539,55.716244</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Выставочная</name>
+<Placemark>
+<name>Выставочная</name>
+<Point>
+<coordinates>37.542816,55.750156</coordinates>
+</Point>
+<description>Филёвская линия. Бывшая "Деловой центр"</description>
+</Placemark>
+<Placemark>
+<name>Выставочная</name>
+<Point>
+<coordinates>37.543304,55.749207</coordinates>
+</Point>
+<description>Филёвская линия. Бывшая "Деловой центр"</description>
+</Placemark>
+</Folder>
+<Folder><name>Динамо</name>
+<Placemark>
+<name>Динамо</name>
+<Point>
+<coordinates>37.556564,55.79047</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Динамо</name>
+<Point>
+<coordinates>37.559803,55.789009</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Дмитровская</name>
+<Placemark>
+<name>Дмитровская</name>
+<Point>
+<coordinates>37.580494,55.807884</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Дмитровская</name>
+<Point>
+<coordinates>37.581604,55.808113</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Добрынинская</name>
+<Placemark>
+<name>Добрынинская</name>
+<Point>
+<coordinates>37.622787,55.728992</coordinates>
+</Point>
+<description>Кольцевая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Домодедовская</name>
+<Placemark>
+<name>Домодедовская</name>
+<Point>
+<coordinates>37.720516,55.611572</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Домодедовская</name>
+<Point>
+<coordinates>37.720688,55.610878</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Домодедовская</name>
+<Point>
+<coordinates>37.717133,55.610046</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Домодедовская</name>
+<Point>
+<coordinates>37.716621,55.610973</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Домодедовская</name>
+<Point>
+<coordinates>37.716938,55.610283</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Домодедовская</name>
+<Point>
+<coordinates>37.71674,55.610683</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Алексеевская</name>
+<Placemark>
+<name>Алексеевская</name>
+<Point>
+<coordinates>37.638702,55.8078</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Дубровка</name>
+<Placemark>
+<name>Дубровка</name>
+<Point>
+<coordinates>37.676949,55.717846</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия</description>
+</Placemark>
+<Placemark>
+<name>Дубровка</name>
+<Point>
+<coordinates>37.676559,55.717854</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Измайловская</name>
+<Placemark>
+<name>Измайловская</name>
+<Point>
+<coordinates>37.783222,55.787769</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+<Placemark>
+<name>Измайловская</name>
+<Point>
+<coordinates>37.779881,55.787693</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Калужская</name>
+<Placemark>
+<name>Калужская</name>
+<Point>
+<coordinates>37.541798,55.657757</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Калужская</name>
+<Point>
+<coordinates>37.539253,55.656487</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Калужская</name>
+<Point>
+<coordinates>37.538452,55.655693</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Калужская</name>
+<Point>
+<coordinates>37.540089,55.656193</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Калужская</name>
+<Point>
+<coordinates>37.539265,55.655403</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Калужская</name>
+<Point>
+<coordinates>37.54089,55.658054</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Кантемировская</name>
+<Placemark>
+<name>Кантемировская</name>
+<Point>
+<coordinates>37.657646,55.635006</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Кантемировская</name>
+<Point>
+<coordinates>37.655319,55.63662</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Кантемировская</name>
+<Point>
+<coordinates>37.65699,55.634705</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Кантемировская</name>
+<Point>
+<coordinates>37.656078,55.636868</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Каховская</name>
+<Placemark>
+<name>Каховская</name>
+<Point>
+<coordinates>37.599995,55.652946</coordinates>
+</Point>
+<description>Каховская линия</description>
+</Placemark>
+<Placemark>
+<name>Каховская</name>
+<Point>
+<coordinates>37.596958,55.652554</coordinates>
+</Point>
+<description>Каховская линия</description>
+</Placemark>
+<Placemark>
+<name>Каховская</name>
+<Point>
+<coordinates>37.596535,55.653038</coordinates>
+</Point>
+<description>Каховская линия</description>
+</Placemark>
+<Placemark>
+<name>Каховская</name>
+<Point>
+<coordinates>37.599716,55.653465</coordinates>
+</Point>
+<description>Каховская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Каширская (Замоскворецкая)</name>
+<Placemark>
+<name>Каширская</name>
+<Point>
+<coordinates>37.649738,55.655781</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Каширская (Каховская)</name>
+<Placemark>
+<name>Каширская</name>
+<Point>
+<coordinates>37.647636,55.654346</coordinates>
+</Point>
+<description>Каховская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Киевская (Кольцевая)</name>
+<Placemark>
+<name>Киевская</name>
+<Point>
+<coordinates>37.567299,55.743748</coordinates>
+</Point>
+<description>Кольцевая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Киевская (Филевская)</name>
+<Placemark>
+<name>Киевская</name>
+<Point>
+<coordinates>37.566902,55.744122</coordinates>
+</Point>
+<description>Филёвская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Киевская (Арбатско-Покровская)</name>
+<Placemark>
+<name>Киевская</name>
+<Point>
+<coordinates>37.565399,55.743225</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Китай-Город (Калужско-Рижская)</name>
+<Placemark>
+<name>Китай-Город</name>
+<Point>
+<coordinates>37.634022,55.754108</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Китай-Город</name>
+<Point>
+<coordinates>37.635063,55.754082</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Китай-Город</name>
+<Point>
+<coordinates>37.631927,55.757095</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Китай-Город</name>
+<Point>
+<coordinates>37.635479,55.753716</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Китай-Город (Таганско-Краснопресненская)</name>
+<Placemark>
+<name>Китай-Город</name>
+<Point>
+<coordinates>37.631542,55.757351</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Китай-Город</name>
+<Point>
+<coordinates>37.631039,55.756771</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Китай-Город</name>
+<Point>
+<coordinates>37.633194,55.753128</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Китай-Город</name>
+<Point>
+<coordinates>37.629837,55.756325</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Китай-Город</name>
+<Point>
+<coordinates>37.633644,55.753136</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Китай-Город</name>
+<Point>
+<coordinates>37.629547,55.756542</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Китай-Город</name>
+<Point>
+<coordinates>37.630642,55.757023</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Кожуховская</name>
+<Placemark>
+<name>Кожуховская</name>
+<Point>
+<coordinates>37.685638,55.706146</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Алтуфьево</name>
+<Placemark>
+<name>Алтуфьево</name>
+<Point>
+<coordinates>37.58654,55.89682</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Алтуфьево</name>
+<Point>
+<coordinates>37.58783,55.898972</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Алтуфьево</name>
+<Point>
+<coordinates>37.586418,55.899052</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Алтуфьево</name>
+<Point>
+<coordinates>37.587753,55.896812</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Коломенская</name>
+<Placemark>
+<name>Коломенская</name>
+<Point>
+<coordinates>37.664234,55.676624</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Коломенская</name>
+<Point>
+<coordinates>37.663322,55.679436</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Коломенская</name>
+<Point>
+<coordinates>37.662903,55.677711</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Коломенская</name>
+<Point>
+<coordinates>37.664867,55.679375</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Коломенская</name>
+<Point>
+<coordinates>37.662666,55.67675</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Коломенская</name>
+<Point>
+<coordinates>37.664459,55.677608</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Комсомольская (Сокольническая)</name>
+<Placemark>
+<name>Комсомольская</name>
+<Point>
+<coordinates>37.656853,55.774509</coordinates>
+</Point>
+<description>Сокольническая линия.</description>
+</Placemark>
+</Folder>
+<Folder><name>Комсомольская (Кольцевая)</name>
+<Placemark>
+<name>Комсомольская</name>
+<Point>
+<coordinates>37.656338,55.776222</coordinates>
+</Point>
+<description>Кольцевая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Коньково</name>
+<Placemark>
+<name>Коньково</name>
+<Point>
+<coordinates>37.519535,55.634708</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Коньково</name>
+<Point>
+<coordinates>37.52,55.634052</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Коньково</name>
+<Point>
+<coordinates>37.517902,55.632332</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Коньково</name>
+<Point>
+<coordinates>37.519238,55.632023</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Коньково</name>
+<Point>
+<coordinates>37.51926,55.6343</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Коньково</name>
+<Point>
+<coordinates>37.52055,55.633942</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Красногвардейская</name>
+<Placemark>
+<name>Красногвардейская</name>
+<Point>
+<coordinates>37.742622,55.61348</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Красногвардейская</name>
+<Point>
+<coordinates>37.742558,55.614037</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Красногвардейская</name>
+<Point>
+<coordinates>37.746307,55.614231</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Красногвардейская</name>
+<Point>
+<coordinates>37.74641,55.613667</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Краснопресненская</name>
+<Placemark>
+<name>Краснопресненская</name>
+<Point>
+<coordinates>37.577244,55.760223</coordinates>
+</Point>
+<description>Кольцевая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Красносельская</name>
+<Placemark>
+<name>Красносельская</name>
+<Point>
+<coordinates>37.66608,55.779968</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Красные Ворота</name>
+<Placemark>
+<name>Красные Ворота</name>
+<Point>
+<coordinates>37.650131,55.769447</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+<Placemark>
+<name>Красные Ворота</name>
+<Point>
+<coordinates>37.648022,55.768311</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Крестьянская Застава</name>
+<Placemark>
+<name>Крестьянская Застава</name>
+<Point>
+<coordinates>37.665592,55.732262</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Кропоткинская</name>
+<Placemark>
+<name>Кропоткинская</name>
+<Point>
+<coordinates>37.605247,55.745773</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+<Placemark>
+<name>Кропоткинская</name>
+<Point>
+<coordinates>37.601566,55.744965</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Крылатское</name>
+<Placemark>
+<name>Крылатское</name>
+<Point>
+<coordinates>37.408855,55.755566</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+<Placemark>
+<name>Крылатское</name>
+<Point>
+<coordinates>37.408527,55.757942</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+<Placemark>
+<name>Крылатское</name>
+<Point>
+<coordinates>37.4076,55.755447</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+<Placemark>
+<name>Крылатское</name>
+<Point>
+<coordinates>37.40731,55.75761</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Аннино</name>
+<Placemark>
+<name>Аннино</name>
+<Point>
+<coordinates>37.596508,55.583885</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Аннино</name>
+<Point>
+<coordinates>37.597065,55.583504</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Кузнецкий Мост</name>
+<Placemark>
+<name>Кузнецкий Мост</name>
+<Point>
+<coordinates>37.624157,55.761517</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Кузьминки</name>
+<Placemark>
+<name>Кузьминки</name>
+<Point>
+<coordinates>37.767235,55.704849</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Кузьминки</name>
+<Point>
+<coordinates>37.763893,55.705296</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Кузьминки</name>
+<Point>
+<coordinates>37.767487,55.70557</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Кузьминки</name>
+<Point>
+<coordinates>37.764133,55.706013</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Кунцевская</name>
+<Placemark>
+<name>Кунцевская</name>
+<Point>
+<coordinates>37.445473,55.730637</coordinates>
+</Point>
+<description>Филёвская линия. Арбатско-Покровская</description>
+</Placemark>
+<Placemark>
+<name>Кунцевская</name>
+<Point>
+<coordinates>37.446362,55.730759</coordinates>
+</Point>
+<description>Филёвская линия. Арбатско-Покровская</description>
+</Placemark>
+</Folder>
+<Folder><name>Курская (Кольцевая)</name>
+<Placemark>
+<name>Курская</name>
+<Point>
+<coordinates>37.659004,55.758575</coordinates>
+</Point>
+<description>Кольцевая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Курская (Арбатско-Покровская)</name>
+<Placemark>
+<name>Курская</name>
+<Point>
+<coordinates>37.66148,55.757263</coordinates>
+</Point>
+<description>Кольцевая линия. Арбатско-Покровская линия</description>
+</Placemark>
+<Placemark>
+<name>Курская</name>
+<Point>
+<coordinates>37.660275,55.758465</coordinates>
+</Point>
+<description>Кольцевая линия. Арбатско-Покровская линия</description>
+</Placemark>
+<Placemark>
+<name>Курская</name>
+<Point>
+<coordinates>37.661697,55.760235</coordinates>
+</Point>
+<description>Кольцевая линия. Арбатско-Покровская линия</description>
+</Placemark>
+<Placemark>
+<name>Курская</name>
+<Point>
+<coordinates>37.660988,55.758503</coordinates>
+</Point>
+<description>Кольцевая линия. Арбатско-Покровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Кутузовская</name>
+<Placemark>
+<name>Кутузовская</name>
+<Point>
+<coordinates>37.534252,55.740616</coordinates>
+</Point>
+<description>Филёвская линия</description>
+</Placemark>
+<Placemark>
+<name>Кутузовская</name>
+<Point>
+<coordinates>37.534882,55.739471</coordinates>
+</Point>
+<description>Филёвская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Ленинский Проспект</name>
+<Placemark>
+<name>Ленинский Проспект</name>
+<Point>
+<coordinates>37.587437,55.708439</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Ленинский Проспект</name>
+<Point>
+<coordinates>37.584942,55.706875</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Лубянка</name>
+<Placemark>
+<name>Лубянка</name>
+<Point>
+<coordinates>37.626102,55.7589</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+<Placemark>
+<name>Лубянка</name>
+<Point>
+<coordinates>37.624664,55.759674</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+<Placemark>
+<name>Лубянка</name>
+<Point>
+<coordinates>37.628159,55.759888</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+<Placemark>
+<name>Лубянка</name>
+<Point>
+<coordinates>37.627964,55.759315</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+<Placemark>
+<name>Лубянка</name>
+<Point>
+<coordinates>37.628269,55.75951</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+<Placemark>
+<name>Лубянка</name>
+<Point>
+<coordinates>37.627079,55.75901</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Люблино</name>
+<Placemark>
+<name>Люблино</name>
+<Point>
+<coordinates>37.762039,55.677048</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия</description>
+</Placemark>
+<Placemark>
+<name>Люблино</name>
+<Point>
+<coordinates>37.761848,55.676311</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия</description>
+</Placemark>
+<Placemark>
+<name>Люблино</name>
+<Point>
+<coordinates>37.761684,55.676743</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия</description>
+</Placemark>
+<Placemark>
+<name>Люблино</name>
+<Point>
+<coordinates>37.760937,55.674435</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия</description>
+</Placemark>
+<Placemark>
+<name>Люблино</name>
+<Point>
+<coordinates>37.762733,55.676987</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Марксистская</name>
+<Placemark>
+<name>Марксистская</name>
+<Point>
+<coordinates>37.656563,55.741119</coordinates>
+</Point>
+<description>Калининская линия</description>
+</Placemark>
+<Placemark>
+<name>Марксистская</name>
+<Point>
+<coordinates>37.656288,55.740711</coordinates>
+</Point>
+<description>Калининская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Марьино</name>
+<Placemark>
+<name>Марьино</name>
+<Point>
+<coordinates>37.743053,55.651066</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия</description>
+</Placemark>
+<Placemark>
+<name>Марьино</name>
+<Point>
+<coordinates>37.743679,55.651123</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия</description>
+</Placemark>
+<Placemark>
+<name>Марьино</name>
+<Point>
+<coordinates>37.744537,55.649117</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия</description>
+</Placemark>
+<Placemark>
+<name>Марьино</name>
+<Point>
+<coordinates>37.743889,55.649017</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Арбатская (Арбатско-Покровская)</name>
+<Placemark>
+<name>Арбатская</name>
+<Point>
+<coordinates>37.603378,55.752419</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Арбатская (Филевская)</name>
+<Placemark>
+<name>Арбатская</name>
+<Point>
+<coordinates>37.601543,55.752144</coordinates>
+</Point>
+<description>Филёвская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Маяковская</name>
+<Placemark>
+<name>Маяковская</name>
+<Point>
+<coordinates>37.597218,55.769531</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Маяковская</name>
+<Point>
+<coordinates>37.59634,55.769192</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Медведково</name>
+<Placemark>
+<name>Медведково</name>
+<Point>
+<coordinates>37.661388,55.887074</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Медведково</name>
+<Point>
+<coordinates>37.661518,55.888046</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Менделеевская</name>
+<Placemark>
+<name>Менделеевская</name>
+<Point>
+<coordinates>37.598633,55.781628</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Менделеевская</name>
+<Point>
+<coordinates>37.598808,55.782127</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Молодёжная</name>
+<Placemark>
+<name>Молодёжная</name>
+<Point>
+<coordinates>37.417969,55.74028</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+<Placemark>
+<name>Молодёжная</name>
+<Point>
+<coordinates>37.415607,55.741444</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Нагатинская</name>
+<Placemark>
+<name>Нагатинская</name>
+<Point>
+<coordinates>37.621017,55.682285</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Нагатинская</name>
+<Point>
+<coordinates>37.622639,55.684124</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Нагорная</name>
+<Placemark>
+<name>Нагорная</name>
+<Point>
+<coordinates>37.61132,55.672974</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Нагорная</name>
+<Point>
+<coordinates>37.610321,55.673016</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Нахимовский Проспект</name>
+<Placemark>
+<name>Нахимовский Проспект</name>
+<Point>
+<coordinates>37.606201,55.663654</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Нахимовский Проспект</name>
+<Point>
+<coordinates>37.604004,55.66164</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Нахимовский Проспект</name>
+<Point>
+<coordinates>37.604561,55.661652</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Нахимовский Проспект</name>
+<Point>
+<coordinates>37.606899,55.663506</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Новогиреево</name>
+<Placemark>
+<name>Новогиреево</name>
+<Point>
+<coordinates>37.818569,55.751614</coordinates>
+</Point>
+<description>Калининская линия</description>
+</Placemark>
+<Placemark>
+<name>Новогиреево</name>
+<Point>
+<coordinates>37.816315,55.751411</coordinates>
+</Point>
+<description>Калининская линия</description>
+</Placemark>
+<Placemark>
+<name>Новогиреево</name>
+<Point>
+<coordinates>37.814846,55.751759</coordinates>
+</Point>
+<description>Калининская линия</description>
+</Placemark>
+<Placemark>
+<name>Новогиреево</name>
+<Point>
+<coordinates>37.818142,55.751167</coordinates>
+</Point>
+<description>Калининская линия</description>
+</Placemark>
+<Placemark>
+<name>Новогиреево</name>
+<Point>
+<coordinates>37.818321,55.751247</coordinates>
+</Point>
+<description>Калининская линия</description>
+</Placemark>
+<Placemark>
+<name>Новогиреево</name>
+<Point>
+<coordinates>37.815113,55.752171</coordinates>
+</Point>
+<description>Калининская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Новокузнецкая</name>
+<Placemark>
+<name>Новокузнецкая</name>
+<Point>
+<coordinates>37.629295,55.742397</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Аэропорт</name>
+<Placemark>
+<name>Аэропорт</name>
+<Point>
+<coordinates>37.53064,55.8004</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Аэропорт</name>
+<Point>
+<coordinates>37.532219,55.80101</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Аэропорт</name>
+<Point>
+<coordinates>37.53418,55.800037</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Аэропорт</name>
+<Point>
+<coordinates>37.531765,55.801231</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Новослободская</name>
+<Placemark>
+<name>Новослободская</name>
+<Point>
+<coordinates>37.60112,55.779507</coordinates>
+</Point>
+<description>Кольцевая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Новые Черёмушки</name>
+<Placemark>
+<name>Новые Черёмушки</name>
+<Point>
+<coordinates>37.555206,55.671169</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Новые Черёмушки</name>
+<Point>
+<coordinates>37.555725,55.670971</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Новые Черёмушки</name>
+<Point>
+<coordinates>37.554001,55.669361</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Новые Черёмушки</name>
+<Point>
+<coordinates>37.553452,55.669548</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Октябрьская (Калужско-Рижская)</name>
+<Placemark>
+<name>Октябрьская</name>
+<Point>
+<coordinates>37.612919,55.731266</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Октябрьская (Кольцевая)</name>
+<Placemark>
+<name>Октябрьская</name>
+<Point>
+<coordinates>37.611565,55.729275</coordinates>
+</Point>
+<description>Кольцевая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Октябрьское Поле</name>
+<Placemark>
+<name>Октябрьское Поле</name>
+<Point>
+<coordinates>37.492313,55.794273</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Октябрьское Поле</name>
+<Point>
+<coordinates>37.494823,55.792953</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Октябрьское Поле</name>
+<Point>
+<coordinates>37.494427,55.79277</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Октябрьское Поле</name>
+<Point>
+<coordinates>37.491982,55.79409</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Орехово</name>
+<Placemark>
+<name>Орехово</name>
+<Point>
+<coordinates>37.693352,55.614746</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+<Placemark>
+<name>Орехово</name>
+<Point>
+<coordinates>37.695957,55.612301</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Отрадное</name>
+<Placemark>
+<name>Отрадное</name>
+<Point>
+<coordinates>37.604301,55.8624</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Отрадное</name>
+<Point>
+<coordinates>37.605911,55.863972</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Отрадное</name>
+<Point>
+<coordinates>37.603531,55.862663</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+<Placemark>
+<name>Отрадное</name>
+<Point>
+<coordinates>37.605122,55.864227</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Охотный Ряд</name>
+<Placemark>
+<name>Охотный Ряд</name>
+<Point>
+<coordinates>37.617596,55.756115</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+<Placemark>
+<name>Охотный Ряд</name>
+<Point>
+<coordinates>37.615845,55.756744</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+<Placemark>
+<name>Охотный Ряд</name>
+<Point>
+<coordinates>37.617962,55.758766</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+<Placemark>
+<name>Охотный Ряд</name>
+<Point>
+<coordinates>37.614456,55.756977</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+<Placemark>
+<name>Охотный Ряд</name>
+<Point>
+<coordinates>37.614906,55.75724</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+<Placemark>
+<name>Охотный Ряд</name>
+<Point>
+<coordinates>37.616795,55.756386</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Павелецкая (Замоскворецкая)</name>
+<Placemark>
+<name>Павелецкая</name>
+<Point>
+<coordinates>37.638786,55.729847</coordinates>
+</Point>
+<description>Замоскворецкая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Павелецкая (Кольцевая)</name>
+<Placemark>
+<name>Павелецкая</name>
+<Point>
+<coordinates>37.636265,55.731377</coordinates>
+</Point>
+<description>Кольцевая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Парк Культуры (Сокольническая)</name>
+<Placemark>
+<name>Парк Культуры</name>
+<Point>
+<coordinates>37.595043,55.736183</coordinates>
+</Point>
+<description>Сокольническая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Парк Культуры (Кольцевая)</name>
+<Placemark>
+<name>Парк Культуры</name>
+<Point>
+<coordinates>37.593231,55.735268</coordinates>
+</Point>
+<description>Сокольническая линия. Кольцевая линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Парк Победы</name>
+<Placemark>
+<name>Парк Победы</name>
+<Point>
+<coordinates>37.517452,55.73579</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+<Placemark>
+<name>Парк Победы</name>
+<Point>
+<coordinates>37.516949,55.736637</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+<Placemark>
+<name>Парк Победы</name>
+<Point>
+<coordinates>37.514671,55.736534</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Бабушкинская</name>
+<Placemark>
+<name>Бабушкинская</name>
+<Point>
+<coordinates>37.663311,55.868622</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Бабушкинская</name>
+<Point>
+<coordinates>37.665157,55.870419</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+<Placemark>
+<name>Бабушкинская</name>
+<Point>
+<coordinates>37.664253,55.870537</coordinates>
+</Point>
+<description>Калужско-Рижская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Партизанская</name>
+<Placemark>
+<name>Партизанская</name>
+<Point>
+<coordinates>37.749409,55.788322</coordinates>
+</Point>
+<description>Арбатско-Покровская линия. Бывшая "Измайловский Парк"</description>
+</Placemark>
+</Folder>
+<Folder><name>Первомайская</name>
+<Placemark>
+<name>Первомайская</name>
+<Point>
+<coordinates>37.799706,55.793674</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+<Placemark>
+<name>Первомайская</name>
+<Point>
+<coordinates>37.798946,55.79557</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+<Placemark>
+<name>Первомайская</name>
+<Point>
+<coordinates>37.799065,55.793671</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+<Placemark>
+<name>Первомайская</name>
+<Point>
+<coordinates>37.799587,55.79557</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Перово</name>
+<Placemark>
+<name>Перово</name>
+<Point>
+<coordinates>37.784611,55.75061</coordinates>
+</Point>
+<description>Калининская линия</description>
+</Placemark>
+<Placemark>
+<name>Перово</name>
+<Point>
+<coordinates>37.784344,55.751095</coordinates>
+</Point>
+<description>Калининская линия</description>
+</Placemark>
+<Placemark>
+<name>Перово</name>
+<Point>
+<coordinates>37.788246,55.751747</coordinates>
+</Point>
+<description>Калининская линия</description>
+</Placemark>
+<Placemark>
+<name>Перово</name>
+<Point>
+<coordinates>37.788429,55.751228</coordinates>
+</Point>
+<description>Калининская линия</description>
+</Placemark>
+<Placemark>
+<name>Перово</name>
+<Point>
+<coordinates>37.784878,55.751179</coordinates>
+</Point>
+<description>Калининская линия</description>
+</Placemark>
+<Placemark>
+<name>Перово</name>
+<Point>
+<coordinates>37.785072,55.750725</coordinates>
+</Point>
+<description>Калининская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Петровско-Разумовская</name>
+<Placemark>
+<name>Петровско-Разумовская</name>
+<Point>
+<coordinates>37.575432,55.836441</coordinates>
+</Point>
+<description>Серпуховско-Тимирязевская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Печатники</name>
+<Placemark>
+<name>Печатники</name>
+<Point>
+<coordinates>37.727867,55.69265</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия</description>
+</Placemark>
+<Placemark>
+<name>Печатники</name>
+<Point>
+<coordinates>37.725655,55.693775</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия</description>
+</Placemark>
+<Placemark>
+<name>Печатники</name>
+<Point>
+<coordinates>37.728252,55.692474</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия</description>
+</Placemark>
+<Placemark>
+<name>Печатники</name>
+<Point>
+<coordinates>37.728745,55.692772</coordinates>
+</Point>
+<description>Люблинско-Дмитровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Пионерская</name>
+<Placemark>
+<name>Пионерская</name>
+<Point>
+<coordinates>37.467575,55.736099</coordinates>
+</Point>
+<description>Филёвская линия</description>
+</Placemark>
+<Placemark>
+<name>Пионерская</name>
+<Point>
+<coordinates>37.46632,55.735901</coordinates>
+</Point>
+<description>Филёвская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Планерная</name>
+<Placemark>
+<name>Планерная</name>
+<Point>
+<coordinates>37.436642,55.859467</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Планерная</name>
+<Point>
+<coordinates>37.43589,55.86179</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Площадь Ильича</name>
+<Placemark>
+<name>Площадь Ильича</name>
+<Point>
+<coordinates>37.680679,55.747211</coordinates>
+</Point>
+<description>Калининская линия</description>
+</Placemark>
+<Placemark>
+<name>Площадь Ильича</name>
+<Point>
+<coordinates>37.68132,55.746452</coordinates>
+</Point>
+<description>Калининская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Площадь Революции</name>
+<Placemark>
+<name>Площадь Революции</name>
+<Point>
+<coordinates>37.623306,55.756378</coordinates>
+</Point>
+<description>Арбатско-Покровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Полежаевская</name>
+<Placemark>
+<name>Полежаевская</name>
+<Point>
+<coordinates>37.52129,55.777603</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Полежаевская</name>
+<Point>
+<coordinates>37.517265,55.77702</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Полежаевская</name>
+<Point>
+<coordinates>37.517227,55.777596</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Полежаевская</name>
+<Point>
+<coordinates>37.52116,55.778011</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+<Placemark>
+<name>Полежаевская</name>
+<Point>
+<coordinates>37.517677,55.777557</coordinates>
+</Point>
+<description>Таганско-Краснопресненская линия</description>
+</Placemark>
+</Folder>
+</Folder>
+</Document>
+</kml>

@@ -1,0 +1,2386 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<kml xmlns="http://earth.google.com/kml/2.0" creator="http://www.poigps.lt">
+ <Folder>
+    <Placemark>
+      <name>Baznycios statiniu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.74756,56.24622,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Onos baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.74758,56.24621,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.17202,54.34983,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.37286,54.46063,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. apast. Jokubo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.09561,54.51205,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. M. Marijos Emimo i dangu baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.64549,54.38360,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. M. Marijos Emimo i dangu baznycios pastatu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.37259,54.46092,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. Trejybes baznycios kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.05442,54.46627,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. Trejybes baznycios kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.17193,54.34989,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. Trejybes baznycios komplekso baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.05440,54.46635,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. Trejybes baznycios komplekso varpine (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.05409,54.46622,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. Trejybes baznycios komplekso varpine (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.05474,54.46620,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Anyksciu Sv. apastalo evangelisto Mato baznycios statiniu komple (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.10028,55.52443,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia ir koplycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.36584,55.68088,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Raguveles dvaro sodybos (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.66304,55.65588,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. Trejybes baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.87070,55.58708,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Troskunu Svc. Trejybes baznycios ir bernardinu vienuolyno statin (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.87104,55.58717,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycios ansamblis (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.74533,55.97922,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Birzu Sv. Jono Krikstytojo baznycios statiniu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.75694,56.20395,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Evangeliku reformatu baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.00367,56.11886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kupreliskio Sv. arkangelo Mykolo baznycios kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.96566,56.04157,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Papilio evangeliku reformatu baznycios statiniu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.00362,56.11889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Jono Krikstytojo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.75714,56.20403,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. arkangelo Mykolo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.96567,56.04158,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nemajunu Sv. apastalu Petro ir Pauliaus baznycios statiniu kompl (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.07686,54.55944,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kazokiskiu Svc. Mergeles Marijos Nugaletojos baznycios statiniu (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.84044,54.81668,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kalnas vad. Baznyckalniu (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>26.18214,55.49204,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Juozapo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>26.10357,55.32809,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Juozapo parapines baznycios kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>26.10352,55.32809,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.22007,55.17969,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dubiu piliakalnis vad. Batareja (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.55044,55.10617,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jonavos sv. apastalo Jokubo baznycios statiniu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.27767,55.06941,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Skaruliu Sv. Onos baznycios statiniu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.31191,55.07863,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Uzupiu pilkapynas II pilkapynas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.48819,55.08861,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Uzupiu pilkapynas vad. Svedu kapais (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.49091,55.08884,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vareikiu pilkapynas vad. Kapciais (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.48258,55.08204,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.38691,56.30708,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycios kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.38682,56.30706,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. apast. Petro ir Povilo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.25230,56.36143,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. M. Marijos Emimo i dangu baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.61669,56.24150,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. M. Marijos Emimo I dangu baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.27578,55.07821,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Veliuonos Svc. M. Marijos Emimo i dangu baznycios statiniu kompl (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.27556,55.07841,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kalnas vad. Kiskio baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.56676,54.83861,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Naslenu (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.80377,54.89856,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pakalniskiu II pilkapynas vad. Prancuzkapiais (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.74104,54.92639,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pakalniskiu pilkapynas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.74635,54.92716,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Paparciu Sv. vyskupo Stanislovo ir Sv. Pranciskaus Asyziecio baz (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.72230,54.91127,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pilkapynas II (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.79486,54.90050,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kalvarijos Svc. M. Marijos Vardo baznycios pastatu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.23101,54.41343,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. M. Marijos Vardo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.23091,54.41344,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dievo kuno baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.89560,54.89683,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kauno bernardinu vienuolyno ir Sv. Jurgio Kankinio baznycios pas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.88296,54.89677,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kauno bernardinu vienuolyno ir Sv. Jurgio Kankinio baznycios pas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.88308,54.89781,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kauno bernardinu vienuolyno ir Sv. Jurgio Kankinio baznycios pas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.88362,54.89829,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kauno bernardinu vienuolyno ir Sv. Jurgio Kankinio baznycios pas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.88351,54.89808,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kauno bernardinu vienuolyno ir Sv. Jurgio Kankinio baznycios pas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.88473,54.89752,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kauno bernardinu vienuolyno ir Sv. Jurgio Kankinio baznycios pas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.88337,54.89760,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kauno bernardinu vienuolyno ir Sv. Jurgio Kankinio baznycios pas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.88301,54.89759,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kristaus Prisikelimo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.91705,54.90258,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pazaislio kamalduliu vienuolyno ansamblio Svc. M. Marijos Apsila (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.02234,54.87631,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Kryziaus  baznycios ir karmelitu vienuolyno ansamblis (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.92107,54.88966,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Kryziaus baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.92017,54.88982,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Mikalojaus baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.89347,54.89922,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Mykolo Arkangelo  Igulos baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.92136,54.89701,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Pranciskaus Ksavero baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.88667,54.89605,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. M. Marijos Emimo i dangu baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.88679,54.89501,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>sv. Gertrudos baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.90150,54.89730,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cekiskes Svc. Trejybes baznycios statiniu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.51882,55.15940,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cekiskes Svc. Trejybes baznycios statiniu komplekso Svc. Trejybe (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.51882,55.15944,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Garliavos evangeliku liuteronu baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.87193,54.82559,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jezaus Nukryziuotojo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.78320,55.13253,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jezaus Nukryziuotojo parapines baznycios kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.78324,55.13254,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kriemalos kapinynas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.58936,55.01270,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Parapines baznycios kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.05120,54.78979,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Jono Krikstytojo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.00898,54.97386,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Jono Krikstytojo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.65424,54.92876,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. M. Marijos Skaplierines baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.05103,54.78982,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Visakio Rudos Sv. vyskupo Stanislovo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.43360,54.81698,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.65263,55.78026,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.75042,55.70256,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.93222,55.73131,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.93265,55.63375,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycios kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.75046,55.70262,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kelmes evangeliku reformatu baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.93672,55.63192,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Marijos Magdalietes baznycios kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.65245,55.78051,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Onos baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.91885,55.65296,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. apast. Simono ir Judo Tado baznycios kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.95338,55.55743,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. apast. Simono ir Judo Tado baznycios komplekso baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.95344,55.55736,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. apast. Simono ir Judo Tado baznycios komplekso varpine (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.95288,55.55734,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. M. Marijos Nekaltojo Prasidejimo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.69488,55.60021,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. M. Marijos Nekaltojo Prasidejimo baznycios kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.69477,55.60019,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tytuvenu Svc. Mergeles Marijos baznycios ir bernardinu vienuolyn (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.19963,55.59702,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tytuvenu Svc. Mergeles Marijos baznycios ir bernardinu vienuolyn (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.20091,55.59681,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tytuvenu Svc. Mergeles Marijos baznycios ir bernardinu vienuolyn (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.20205,55.59577,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baiciu (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.37683,55.66827,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Evangeliku liuteronu baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.28176,55.78806,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Evangeliku liuteronu baznycios ir klebonijos pastatu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.42188,55.55954,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Evangeliku liuteronu baznycios ir klebonijos pastatu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.42172,55.55987,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Evangeliku liuteronu baznycios ir parapijos namu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.28230,55.78813,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Girkaliu (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.11918,55.87702,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Slikiu pilkapynas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.20947,55.86077,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stragnu (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.36096,55.54959,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Antano Paduviecio baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.80085,55.58517,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. apast. evang. Mato baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.59955,55.60033,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.47631,55.92071,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.20516,56.06936,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.24316,55.88844,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.54051,56.01554,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycios kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.54041,56.01559,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycios kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.20514,56.06934,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycios kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.47524,55.91926,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycios kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.47614,55.92062,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycios pastatu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.48519,55.80144,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycios statiniu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.45320,55.87812,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Darbenu Sv. apast. Petro ir Pauliaus baznycios statiniu kompleks (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.25373,56.02244,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kretingos bernardinu vienuolyno ir Viespaties Apreiskimo Svc. Me (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.24290,55.89206,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kretingos evangeliku liuteronu baznycios pastatu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.24319,55.88840,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salantu Svc. M. Marijos Emimo i dangu baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.56906,56.05873,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Juozapo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.48521,55.80143,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Kryziaus Isaukstinimo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.45319,55.87813,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. apast. Petro ir Pauliaus baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.25363,56.02243,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.00078,55.90135,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. M. Marijos baznycios kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.00072,55.90113,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. M. Marijos vardo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.30538,55.74859,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.15232,55.34981,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kedainiu evangeliku liuteronu baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.97080,55.28581,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kedainiu evangeliku liuteronu baznycios kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.97099,55.28567,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.69491,54.10167,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kristaus Karaliaus baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.92382,54.21492,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycios statiniu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.32998,54.64179,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marijampoles sv. arkangelo Mykolo baznycios ir marijonu vienuoly (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.34431,54.55618,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sasnavos Svc. M. Marijos Vardo baznycios statiniu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.46483,54.64920,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Marijos Magdalietes baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.33003,54.64181,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. M. Marijos Vardo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.46494,54.64920,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. Mergeles Marijos ir Krikscioniu Pagalbos baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.23580,54.49639,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.08993,56.16387,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycios pastatu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.08984,56.16388,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycios statiniu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.37925,56.16683,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycios statiniu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.10933,56.41851,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycios sventoriaus tvora su Kryziaus kelio koplytelemis (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.56264,56.38168,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nukryziuotojo Jezaus baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.37938,56.16686,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sedos Sv. Jono Nepomuko baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.08182,56.16869,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Antano Paduviecio baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.08869,56.30070,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Jono Krikstytojo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.01227,56.31904,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. Trejybes baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.10920,56.41837,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ukrinu Sv. Antano Paduviecio baznycios pastatu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.08877,56.30064,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vieksniu Sv. Jono Krikstytojo baznycios statiniu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.51639,56.23423,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vieksniu Sv. Jono Krikstytojo baznycios statiniu komplekso Sv. J (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.51642,56.23424,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zidiku Sv. Jono Krikstytojo baznycios statiniu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.01228,56.31900,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Atgailos kanauninku vienuolyno ansamblio Sv. Lauryno baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.27720,55.21718,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.29566,55.35101,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dubingiu senosios Sv. Jurgio Kankinio baznycios sventoriaus stat (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.45199,55.05726,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kalnas vad. Baznyciavos kalnu (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.72827,55.12610,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Petro ir Sv. Povilo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.42397,55.23418,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Evangeliku liuteronu baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.00691,55.30927,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Evangeliku liuteronu baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.11709,55.53177,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ropkoju Sv. Jono Krikstytojo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.99337,55.22993,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Evangeliku liuteronu baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.99765,56.27120,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pakruojo dvaro sodybos evangeliku baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.86977,55.98501,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. M. Marijos Vardo parapines baznycios kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.88185,55.89261,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. M. Marijos baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.88189,55.89264,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. M. Marijos baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.97503,56.08475,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. Trejybes baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.65549,56.00577,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Butinges evangeliku liuteronu baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.11967,56.03757,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kapinynas II (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.06670,55.90939,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kapinynas III (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.05569,55.90523,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Senoves gyvenviete III (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.06234,55.91806,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Krekenavos Svc. Mergeles Marijos Emimo i dangu baznycios statini (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.09785,55.54582,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Smilgiu Sv. Jurgio baznycios statiniu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.01613,55.80301,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. apastalu Petro ir Povilo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.36970,55.73225,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.52689,56.08386,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. apast. Petro ir Povilo baznycios kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.52693,56.08386,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. M. Marijos Skaplierines baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.34317,55.93498,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alsedziu Svc. M. Marijos Nekalto Prasidejimo baznycios statiniu (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.04587,56.03030,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycios pastatu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.81284,56.02511,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kuliu Sv. vyskupo Stanislovo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.65284,55.80561,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kuliu Sv. vyskupo Stanislovo baznycios statiniu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.65357,55.80532,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Plunges Sv. Jono Krikstytojo baznycios pastatu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.83892,55.91365,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sateikiu Sv. evangelisto Morkaus baznycios statiniu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.67752,55.99910,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Jono Krikstytojo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.83872,55.91376,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Stanislovo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.81283,56.02518,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. evangelisto Morkaus baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.67745,55.99906,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. M. Marijos Nekalto Prasidejimo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.04596,56.03032,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stakliskiu Svc. Trejybes baznycios statiniu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.32473,54.59106,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Arkangelo Mykolo ir Jono Krikstytojo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.17423,54.59914,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycios pastatu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.41526,55.57817,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dambavos Dievo Apvaizdos baznycios statiniu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.89419,55.77375,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. Trejybes baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.41522,55.57820,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia ir buv. Dominikonu vienuolyno pastatu liekanos (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.12240,55.37837,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Geluvos kapinynas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.50553,55.24659,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Geluvos piliakalnis su gyvenviete (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.50515,55.24788,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kalnuju (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.08361,55.33583,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kapinynas II (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.51379,55.24685,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.14873,55.73325,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rietavo Sv. arkangelo Mykolo baznycios statiniu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.93312,55.72283,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. arkangelo Mykolo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.93310,55.72270,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. M. Mergeles Apsilankymo baznycios kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.14970,55.73270,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. apast. Petro ir Povilo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.41021,56.11749,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. arkang. Mykolo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.47155,56.02054,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.80431,55.06670,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.86292,54.77640,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.30044,54.98840,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.30069,54.98878,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycios statiniu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.17145,54.85053,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Griskabudzio Kristaus Atsimainymo baznycios statiniu komplekso K (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.17145,54.85053,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ilguvos dvaro sodybos ir Sv. Kryziaus Atradimo baznycios statini (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.32512,55.06374,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Kryziaus Atradimo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.32132,55.06425,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Vincento Pauliecio baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.47106,55.04672,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. arkang. Mykolo baznycios kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.80414,55.06661,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zemosios Panemunes Sv. Vincento Pauliecio baznycios pastatu komp (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.47106,55.04675,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.00470,54.18112,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.02869,54.28479,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia ir varpinevartai (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.60807,54.43909,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kristaus Zengimo i dangu baznycios kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.00478,54.18110,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. Mergeles Marijos dangun emimo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.50845,54.45524,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.88723,55.88097,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.14159,55.79626,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia ir kapu koplycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.11250,56.17044,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycios kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.88789,55.88126,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycios statiniu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.71977,56.01448,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Bazilijaus Didziojo baznycios ir klebonijos pastatu ansambli (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.14222,55.79592,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Mikalojaus baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.04508,56.17787,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. apast. Baltramiejaus baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.71986,56.01449,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. apast. Jokubo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.04740,55.82843,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.23227,55.61946,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Didkiemio Sv. angelu Sargu baznycios pastatu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.12127,55.36751,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Barboros baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.91168,55.46128,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Kryziaus Atradimo baznycios kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.23234,55.61944,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Roko baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.37887,55.49544,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. angelu Sargu baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.12117,55.36743,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. M. Marijos Vardo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.44131,55.45090,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Teneniu Sv. Barboros baznycios pastatu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.91169,55.46128,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Upynos Svc. M. Marijos vardo baznycios statiniu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.44134,55.45086,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Varsedziu Sv. Roko baznycios pastatu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.37887,55.49541,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.61933,55.51705,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.76179,55.31776,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycios kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.61950,55.51775,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycios pastatu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.48637,55.34333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Evangeliku liuteronu baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.37576,55.29761,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Evangeliku liuteronu baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.26378,55.41991,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Evangeliku liuteronu baznycios ir parapijos namu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.37612,55.29732,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Katyciu evangeliku liuteronu  baznycios statiniu komplekso evang (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.82714,55.28741,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Katyciu evangeliku liuteronu baznycios statiniu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.82710,55.28740,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Kryziaus baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.48604,55.34400,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Vincento Ferero baznycios kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.76174,55.31780,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ventes baznycios vieta (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.19362,55.34355,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.09284,55.06084,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.84115,54.94916,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Senosios baznycios vieta (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.85243,54.88412,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sirvintu Sv. arkang. Mykolo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.96652,55.03742,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. Mergeles Marijos aplankymo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.69551,55.06508,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>26.13622,55.07047,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia ir varpine (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.84542,54.97576,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycios statiniu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.70670,54.86796,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dievo Apvaizdos baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.70677,54.86799,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kaltanenu Svc. M. Marijos Angeliskosios baznycios statiniu kompl (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.99233,55.25198,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Barstyciu Sv. apastalu Simono ir Judo Tado baznycios statiniu ko (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.87121,56.16009,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycios statiniu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.57247,56.16616,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycios statiniu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.31586,56.18839,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Skuodo evangeliku liuteronu baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.53143,56.27027,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Onos baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.31583,56.18835,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. arkangelo Mykolo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>21.57254,56.16568,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycios sventoriaus vartu ir varpines kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.47396,55.24237,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pagramancio Svc. M. Marijos Nekalto Prasidejimo baznycios statin (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.23137,55.36331,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Skaudviles Sv. Kryziaus baznycios statiniu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.58151,55.40691,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Jono Krikstytojo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.65254,55.40321,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Jono Krikstytojo baznycios statiniu ir Adakavo dvaro sodybos (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.65429,55.40295,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Kryziaus baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.58131,55.40689,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. M. Marijos Nekalto Prasidejimo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.23156,55.36336,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luokes Visu Sventuju baznycios statiniu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.52687,55.89120,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Aleksandro baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.36894,55.74126,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. apastalu Petro ir Pauliaus  baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.37002,55.74378,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Telsiu Svc. M. Marijos Emimo i dangu baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.25664,55.98350,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Telsiu staciatikiu Sv. Mikalojaus cerkve (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.24443,55.98729,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Varniu Sv. apastalu Petro ir Pauliaus baznycios statiniu komplek (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.37001,55.74377,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Visu Sventuju baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.52676,55.89132,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. M. Marijos Apsilankymo parapine baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.93441,54.64283,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Traku Svc. Mergeles Marijos Apsilankymo baznycios statiniu kompl (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.93478,54.64283,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.86462,55.30643,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Evangelikureformatu baznycios liekanos (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.67111,55.23973,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sesuoliu Sv. Juozapo baznycios statiniu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.97195,55.17902,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.18466,54.16175,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycios ir vienuolyno ansamblis (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.05757,54.08029,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. M. Marijos Emimo i dangu baznycios kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.18427,54.16153,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. Trejybes baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>24.05711,54.08045,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.21937,54.60405,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.18129,54.66661,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycios pastato liekanos (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>23.02663,54.50171,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Evangelikuliuteronu baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>22.73079,54.45473,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Suderves Svc. Trejybes baznycios statiniu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.08448,54.78034,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Suderves Svc. Trejybes baznycios statiniu komplekso Svc. Trejybe (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.08463,54.78025,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Suderves Svc. Trejybes baznycios statiniu komplekso varpine (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.08524,54.78054,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sumsko Sv. arkangelo Mykolo baznycios ir dominikonu vienuolyno s (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.72394,54.60875,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycios statiniu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.29717,54.68041,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pranciskonu vienuolyno ansamblio Svc. M. Marijos Emimo I dangu b (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.28073,54.67953,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Baltramiejaus baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.29751,54.68029,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Ignoto baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.28212,54.68277,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Jono baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.28856,54.68270,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Jono baznycios varpine (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.28811,54.68236,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Jurgio baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.28249,54.68765,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Kazimiero baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.28847,54.67768,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Kotrynos baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.28105,54.68183,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Kryziaus baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.28494,54.68394,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Mikalojaus baznycios kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.28288,54.67827,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Mikalojaus baznycios komplekso Sv. Mikalojaus baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.28272,54.67827,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Mikalojaus baznycios komplekso sventoriaus tvora su vartais (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.28263,54.67841,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Tereses baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.28951,54.67488,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. apast. Pauliaus Atsivertimo parapine baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.18159,54.60254,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. Jezaus Sirdies baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.29735,54.67579,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sventosios Dvasios  baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.28435,54.68122,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Viespaties Dangun Zengimo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.29613,54.67682,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vilniaus Svc. Trejybes baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.28555,54.68168,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vilniaus Sventuju Pranciskaus Asyziecio (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.29392,54.68311,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vilniaus Sventuju Pranciskaus Asyziecio (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.29311,54.68298,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vilniaus Sventuju Pranciskaus Asyziecio (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.29400,54.68344,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vilniaus Sventuju Pranciskaus Asyziecio (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.29407,54.68273,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vilniaus Sventuju Pranciskaus Asyziecio (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.29373,54.68279,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vilniaus Sventuju Pranciskaus Asyziecio (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.29312,54.68318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vilniaus Sventuju Pranciskaus Asyziecio (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.29324,54.68297,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vilniaus Sventuju Pranciskaus Asyziecio (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.29380,54.68367,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vilniaus augustinu vienuolyno pastatu ansamblio Svc. M. Marijos (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.29026,54.67905,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vilniaus bernardiniu vienuolyno statiniu ansamblio Sv. Mykolo ar (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.29216,54.68284,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vilniaus evangeliku liuteronu baznycios ir namu kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.28282,54.67927,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vilniaus evangeliku liuteronu baznycios ir namu komplekso evange (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.28274,54.67912,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vilniaus evangeliku reformatu baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.27792,54.68141,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Visu Sventuju baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.28424,54.67568,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. apast. Petro ir Povilo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.30614,54.69412,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Stepono baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.27623,54.66931,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pavilnio Kristaus Karaliaus ir Sv. Kudikelio Jezaus Tereses bazn (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.35727,54.67315,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Kryziaus Atradimo baznycia vad. Kalvariju (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.27971,54.74047,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svc. Trejybes baznycia vad. Trinapolio (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.29114,54.73107,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dievo Apvaizdos baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.24453,54.66956,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vilniaus Sv. Arkangelo Rapolo baznycios ir jezuitu vienuolyno st (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.27769,54.69289,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.92552,55.81231,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>26.36124,55.64124,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>26.11864,55.77510,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baznycia ir sventoriaus tvora (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>26.14038,55.58406,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dievo Apvaizdos baznycios kompleksas (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.92550,55.81222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sv. Kryziaus Atradimo baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>25.86697,55.65963,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Viespaties Jezaus kryziaus filijine baznycia (Bažn.)</name>
+      <description></description>
+      <Point>
+        <coordinates>26.21748,55.82948,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+ </Folder>
+</kml>

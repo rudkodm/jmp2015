@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+  <name>Berlin</name>
+  <description><![CDATA[]]></description>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name><![CDATA[Reichstag]]></name>
+    <description>
+First Line
+</description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>13.375210,52.518608,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name><![CDATA[Brandenburg "Gate"]]></name>
+    <description><![CDATA[
+First Line
+Second Line
+Third Line
+Forth Line
+Fifth ]]>
+    </description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>13.377999,52.516293,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sowjetische Ehrenmal</name>
+    <description><![CDATA[GPS <br/> 52.516541, 13.371949]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>13.371949,52.516541,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tiergarten (Berlin Victory Column)</name>
+    <description><![CDATA[<div dir="ltr"><b>GPS:</b> 52.514517, 13.350068</div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>13.350068,52.514519,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Potsdamer Platz</name>
+    <description><![CDATA[<div dir="ltr"><b>GPS:</b> 52.509968, 13.376251</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>13.376251,52.509968,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

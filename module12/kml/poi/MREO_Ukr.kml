@@ -1,0 +1,213 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://earth.google.com/kml/2.0'>
+<Document>
+<name>MREO</name>
+<Folder>
+  <name>MREO Ukraine</name>
+<Placemark>
+    <name>8(0432)21-32-48, 21-30-48, 21-38-92 ; МРЭО </name>
+    <description>Украина, г.Винница и Винницкий р-н ул.Ботаническая,23 </description>
+    <Point><coordinates>24.7118,48.897896</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(056)776-41-58 (ф), (0562)65-44-89 ; МРЭО №1 </name>
+    <description>Украина, г.Днепропетровск (Бабушкинский, Октябрьский, Красногвардейский, Кировский, Ленинский, Солонянский р-ны) пр-т Труда,16 </description>
+    <Point><coordinates>35.041698,48.404185</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(056)721-04-18 (ф), (0562)23-80-56 ; МРЭО №2 </name>
+    <description>Украина, г.Днепропетровск (Амур-Нижнеднепровский, Индустриальный, Самарский, Днепропетровский р-ны) ул.Малиновского,130 (только улица)</description>
+    <Point><coordinates>35.10723,48.467745</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(0562)27-07-78 ; МРЭО №3 </name>
+    <description>Украина, г.Днепропетровск ул.Курсантская,22 </description>
+    <Point><coordinates>35.11757,48.495552</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(0622)345-19-12, 345-19-05 ; МРЭО №1 </name>
+    <description>Украина, г.Донецк (Ворошиловский, Киевский, Куйбышевский, Калининский, Пролетарский, Буденовский р-ны) ул.Таганрогская,19 </description>
+    <Point><coordinates>37.825766,47.97858</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(0622)304-05-77, 90-54-42 ; МРЭО №2 </name>
+    <description>Украина, г.Донецк (Кировский, Ленинский, Петровский р-ны) ул.П.Лумумбы,20 (топоним...)</description>
+    <Point><coordinates>37.801898,48.016058</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(0412)25-92-08 (ф) ; МРЭО </name>
+    <description>Украина, г.Житомир, Житомирский и Черняховский р-ны ул.Щорса,98 (топоним...)</description>
+    <Point><coordinates>28.657443,50.254617</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(0612)34-72-92 ; МРЭО №1 </name>
+    <description>Украина, г.Запорожье (Заводской, Ленинский, Хортицкий, Орджоникидзенский, Запорожский р-ны) ул.Победы,96 (только улица)</description>
+    <Point><coordinates>35.123032,47.838408</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(0612)65-20-22 ; МРЭО №2 </name>
+    <description>Украина, г.Запорожье (Коммунарский, Шевченковский, Октябрьский р-ны) ул.Производственная,11-А (корпус не найден)</description>
+    <Point><coordinates>35.227542,47.83429</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(03422)9-55-60 ; МРЭО </name>
+    <description>Украина, г.Ивано-Франковск, Тисменецкий, Тлумацкий р-ны ул.Юности,23 (топоним...)</description>
+    <Point><coordinates>24.717127,48.911712</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(044)443-91-50 ; МРЭО №1 </name>
+    <description>Украина, г.Киев (Святошинский р-н) ул.Туполева,17 </description>
+    <Point><coordinates>30.391605,50.481959</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(044)442-42-65 ; МРЭО №2 </name>
+    <description>Украина, выдача удостоверений - правый берег ул.Туполева,17 (только улица)</description>
+    <Point><coordinates>31.912111,49.188083</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(044)296-00-40 ; МРЭО №3 </name>
+    <description>Украина, г.Киев (Шевченковский р-н) Столичное шоссе, 90 </description>
+    <Point><coordinates>30.553949,50.349116</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(044)416-11-87 ; МРЭО №4 </name>
+    <description>Украина, г.Киев (Деснянский, Днепровский р-ны) ул.Братиславская,52 </description>
+    <Point><coordinates>30.610596,50.49129</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(044)422-22-15 ; МРЭО №5 </name>
+    <description>Украина, г.Киев (Оболонский, Подольский р-ны) ул.Туполева,17 </description>
+    <Point><coordinates>30.391605,50.481959</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(044)201-60-25 ; МРЭО №6 </name>
+    <description>Украина, г.Киев (Печерский, Соломенский р-ны) Столичное шоссе,90 </description>
+    <Point><coordinates>30.553949,50.349116</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(044)251-31-77 ; МРЭО №7 </name>
+    <description>Украина, г.Киев (Дарницкий, Голосеевский р-ны) Столичное шоссе,104 </description>
+    <Point><coordinates>30.548702,50.33763</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(044)201-62-10 ; МРЭО №8 </name>
+    <description>Украина, для иностранных граждан и представительств Столичное шоссе,90 (топоним...)</description>
+    <Point><coordinates>31.1817,48.54129</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(044)266-03-52 ; МРЭО №9 </name>
+    <description>Украина, для грузовых транспортных средств ул.Глушкова,37 </description>
+    <Point><coordinates>30.455493,50.365748</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(044)574-19-00 ; МРЭО №10 </name>
+    <description>Украина, выдача удостоверений - левый берег ул.Лобачевского,23-А (только улица)</description>
+    <Point><coordinates>31.894001,49.199222</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(0522)56-51-41 (ф) ; МРЭО </name>
+    <description>Украина, г.Кировоград и Кировоградский р-н пр-т Инженеров,1-А (только улица)</description>
+    <Point><coordinates>32.204441,48.512995</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(0642)34-69-11, 34-69-10 ; МРЭО </name>
+    <description>Украина, г.Луганск, части Славяно-Сербского и Станично-Луганского р-нов ул.А.Линева (топоним...)</description>
+    <Point><coordinates>39.307627,48.572072</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(03322)5-22-82 (ф), 5-51-16 ; МРЭО </name>
+    <description>Украина, г.Луцк, Луцкий, Киверцевский, Маневецкий, Рожищенский р-ны ул.Ровненская,145 (топоним...)</description>
+    <Point><coordinates>25.344493,50.756946</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(0322)62-73-07 ; МРЭО </name>
+    <description>Украина, г.Львов, Пустомитевский р-н ул.Городецкая,282 (топоним...)</description>
+    <Point><coordinates>24.0312,49.842164</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(0512)39-10-14, 35-00-20 ; МРЭО </name>
+    <description>Украина, г.Николаев, (Центральный, Ленинский, Заводской, Корабельный р-ны) Транспортный пер.,1-А (корпус не найден)</description>
+    <Point><coordinates>31.961851,46.965009</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(0482)44-14-44 ; МРЭО №1 </name>
+    <description>Украина, г.Одесса (Киевский, Малиновский, Приморский р-ны) ул.Королева,5 </description>
+    <Point><coordinates>30.722598,46.414906</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(048)731-75-86, 731-75-87 ; МРЭО №2 </name>
+    <description>Украина, г.Одесса (Октябрьский, Суворовский, Ленинский, Ильичевский, Центральный р-ны) ул.Атамана Чепиги (Бондарева), 31 (ближайший дом)</description>
+    <Point><coordinates>30.722437,46.518287</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(0532)59-02-96 ; МРЭО </name>
+    <description>Украина, г.Полтава, Полтавский р-н ул.Фрунзе,164 </description>
+    <Point><coordinates>34.510021,49.546881</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(0362)26-48-23 ; МРЭО </name>
+    <description>Украина, г.Ровно, Ровненский р-н ул.Вербовая,39 </description>
+    <Point><coordinates>26.212624,50.629561</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(0692)45-20-65 ; МРЭО </name>
+    <description>Украина, г.Севастополь Ул.Промышленная,1 </description>
+    <Point><coordinates>33.517329,44.568976</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(0652)49-41-97, 49-41-92 ; МРЭО </name>
+    <description>Украина, г.Симферополь, Симферопольский и Бахчисарайский р-ны ул.Узловая,12 (топоним...)</description>
+    <Point><coordinates>34.097111,44.952333</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(0542)22-02-56, 28-34-94 ; МРЭО </name>
+    <description>Украина, г.Сумы, Сумской, Краснопольский, Белопольский р-ны Белопольское шоссе,18/1 (ближайший дом)</description>
+    <Point><coordinates>34.796773,50.916506</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(0352)43-58-03, 43-58-09 ; МРЭО </name>
+    <description>Украина, г.Тернополь, Тернопольский, Сборовский, Подволочинский р-ны ул.Текстильная,24 (топоним...)</description>
+    <Point><coordinates>25.594521,49.553585</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(03122)3-41-30, 92-471 ; МРЭО </name>
+    <description>Украина, г.Ужгород, Ужгородский, Перечинский, Б.Березнянский р-ны ул.Кошевого,2 (топоним...)</description>
+    <Point><coordinates>22.288415,48.625888</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(0572)43-60-40 ; МРЭО </name>
+    <description>Украина, г.Харьков ул.Шевченко,26 </description>
+    <Point><coordinates>36.257694,49.999811</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(0552)43-25-96 ; МРЭО </name>
+    <description>Украина, г.Херсон, Белозерский р-н ул.Сенявина,128 (топоним...)</description>
+    <Point><coordinates>32.613866,46.640313</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(0382)55-64-84 ; МРЭО </name>
+    <description>Украина, г.Хмельницкий, Хмельницкий, Волочинский р-ны ул.Западноокружная,1 (топоним...)</description>
+    <Point><coordinates>27.009709,49.416128</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(0472)66-04-56 ; МРЭО </name>
+    <description>Украина, г.Черкассы, Черкасский, Чигиринский р-ны ул.Л.Украинки,21 (только улица)</description>
+    <Point><coordinates>32.067942,49.415477</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(0462)17-98-66 ; МРЭО </name>
+    <description>Украина, г.Чернигов, Черниговский, Городянский, Куликовский, Репкинский р-ны пр-т Мира,231 (только улица)</description>
+    <Point><coordinates>31.294214,51.541601</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name>8(0372)54-44-31 ; МРЭО </name>
+    <description>Украина, г.Черновцы ул.Коломийская,15-А (топоним...)</description>
+    <Point><coordinates>25.934865,48.292276</coordinates></Point>
+</Placemark>
+<Placemark>
+    <name></name>
+    <description>Украина, (топоним...)</description>
+    <Point><coordinates>31.1817,48.54129</coordinates></Point>
+</Placemark>
+</Folder>
+</kml>
