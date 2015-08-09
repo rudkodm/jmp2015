@@ -1,0 +1,24 @@
+apply plugin:'application'
+apply plugin: 'java'
+
+sourceCompatibility = '1.8'
+targetCompatibility = '1.8'
+
+group = 'by.rudko.deadlock'
+version = '1.0'
+
+applicationName = rootProject.name;
+mainClassName = 'by.rudko.deadlock.Application'
+
+jar.archiveName = "${project.name}.jar"
+
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+}
+
+applicationDefaultJvmArgs = []
+

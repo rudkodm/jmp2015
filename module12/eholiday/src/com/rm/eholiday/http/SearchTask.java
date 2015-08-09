@@ -1,10 +1,15 @@
 package com.rm.eholiday.http;
 
-import java.net.*;
-import java.text.*;
-import java.util.*;
-import com.rm.eholiday.*;
+import com.rm.eholiday.Log;
 import com.rm.eholiday.config.Config;
+
+import java.text.DecimalFormat;
+import java.text.DecimalFormatSymbols;
+import java.text.Format;
+import java.text.MessageFormat;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Set;
 
 public class SearchTask implements Runnable {
 
@@ -75,7 +80,7 @@ public class SearchTask implements Runnable {
             Set<String> pageSet = new HashSet<String>(HtmlStringUtil.finalize(searchList));
 
             if (log.isInfo()) {
-                log.info(new StringBuilder().append("Search URL: ").append(url).append(" Found: ").append(pageSet.size()));
+                log.info(new StringBuilder().append("Search URL:").append(url).append(" Found: ").append(pageSet.size()));
             }
 
             if (pageSet.isEmpty() || pageSet.containsAll(prevPageSet) && pageSet.size() == prevPageSet.size()) {

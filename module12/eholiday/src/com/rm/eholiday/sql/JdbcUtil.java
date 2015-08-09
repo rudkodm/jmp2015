@@ -1,11 +1,14 @@
 package com.rm.eholiday.sql;
 
-import java.net.*;
-import java.sql.*;
-import com.rm.eholiday.*;
+import com.rm.eholiday.Log;
 import com.rm.eholiday.config.Config;
 
+import java.net.MalformedURLException;
+import java.net.URL;
+import java.net.URLClassLoader;
+import java.sql.*;
 import java.util.Properties;
+import java.util.logging.Logger;
 
 class JdbcUtil {
 
@@ -55,6 +58,11 @@ class JdbcUtil {
         @Override
         public boolean jdbcCompliant() {
             return driver.jdbcCompliant();
+        }
+
+        @Override
+        public Logger getParentLogger() throws SQLFeatureNotSupportedException {
+            return null;
         }
 
     }
