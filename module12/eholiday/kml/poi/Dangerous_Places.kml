@@ -1,0 +1,6960 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<name>Dangerous Places</name>
+<Folder>
+<name>Opasnyj perekrjostok</name>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>33.3999400000,47.8974420000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>36.2228160000,50.0423430000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>33.3913730000,47.9119720000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>36.2501410000,49.9954910000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>36.2220840000,49.9998810000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>36.2595780000,49.9714810000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>36.2385060000,49.9832190000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>35.0529200000,48.4358900000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>36.2685540000,49.9243120000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>35.0579600000,48.4423300000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>33.4352260000,47.9431990000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>32.2060660000,48.4904360000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>37.7864690000,48.0329970000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>35.0404200000,48.4257800000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>32.2119780000,48.4921790000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>38.0524330000,48.3064190000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>32.2222820000,48.5038290000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>37.8513870000,48.1278720000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>32.2281300000,48.9495000000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>32.2285800000,48.5491140000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>30.5254570000,50.4386900000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>30.5606140000,50.4254760000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>30.5971930000,50.4729730000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>32.2312580000,48.5239560000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>36.2607260000,49.9425920000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>36.1209980000,49.9175640000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>36.1231310000,49.8986090000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>36.2615850000,49.9572410000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>36.2776720000,49.9834290000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>36.2767980000,50.0442430000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>36.2814410000,49.9440920000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>35.5236970000,50.1613770000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>36.1039770000,49.8659250000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>36.0542260000,49.8081590000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>36.1309050000,49.9225010000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>36.1323660000,49.9318430000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный перекрёсток</name>
+<Point>
+<coordinates>36.2338790000,50.0068660000,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Peshehodnyj perehod</name>
+<Placemark>
+<name>Опасный переход</name>
+<Point>
+<coordinates>36.2532880000,49.9765430000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный переход</name>
+<Point>
+<coordinates>30.4604270000,50.4571320000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный переход</name>
+<Point>
+<coordinates>30.5532389567,50.4364723203,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный переход</name>
+<Point>
+<coordinates>30.5512825609,50.4391850000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный переход</name>
+<Point>
+<coordinates>30.5222735295,50.4524134116,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный переход</name>
+<Point>
+<coordinates>30.4805415042,50.4636783782,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный переход</name>
+<Point>
+<coordinates>30.5219148786,50.4428158279,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Opasnyj uchastok dorogi</name>
+<Placemark>
+<name>Плохая дорога</name>
+<Point>
+<coordinates>33.9170790000,48.8147850000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Плохая дорога</name>
+<Point>
+<coordinates>33.5049860000,48.0276570000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Плохая дорога</name>
+<Point>
+<coordinates>33.5029790000,48.0284300000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Плохая дорога</name>
+<Point>
+<coordinates>33.4448010000,47.9432110000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Плохая дорога</name>
+<Point>
+<coordinates>33.4445920000,47.9436990000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Плохая дорога</name>
+<Point>
+<coordinates>33.4724040000,47.9692920000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Плохая дорога</name>
+<Point>
+<coordinates>34.0887110000,47.5837020000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Плохая дорога</name>
+<Point>
+<coordinates>36.1257820000,48.4035840000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Плохая дорога</name>
+<Point>
+<coordinates>34.9491160000,48.4783520000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Плохая дорога</name>
+<Point>
+<coordinates>32.1956740000,48.5063200000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Плохая дорога</name>
+<Point>
+<coordinates>36.2489280000,49.9137230000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Плохая дорога</name>
+<Point>
+<coordinates>33.2947850000,48.9345700000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Плохая дорога</name>
+<Point>
+<coordinates>32.1962310000,48.5088610000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Плохая дорога</name>
+<Point>
+<coordinates>38.0253110000,48.2832830000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Плохая дорога</name>
+<Point>
+<coordinates>32.1966400000,48.5163490000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Плохая дорога</name>
+<Point>
+<coordinates>37.9665340000,48.3934520000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Плохая дорога</name>
+<Point>
+<coordinates>32.1904180000,48.4862020000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Плохая дорога</name>
+<Point>
+<coordinates>37.9407840000,48.0321160000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Плохая дорога</name>
+<Point>
+<coordinates>37.9839780000,48.3732490000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Плохая дорога</name>
+<Point>
+<coordinates>36.3034020000,50.0458600000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Плохая дорога</name>
+<Point>
+<coordinates>36.3326990000,50.0035590000,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Opasnyj povorot</name>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>31.5204750000,50.5741620000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>33.4284110000,51.5874380000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>32.2998680000,50.8522450000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>30.9839250000,50.5134230000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>32.0070070000,50.7297200000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>31.9521040000,50.7115070000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>32.5815700000,51.2750730000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>31.7692590000,50.6553960000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>30.7061060000,50.5996470000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>31.9269410000,50.7170650000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>32.4176620000,50.9642530000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>30.7381460000,50.7057030000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>32.3884330000,50.9214130000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>31.1886190000,50.4951510000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>30.9707350000,50.5192120000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>31.0838590000,50.4993490000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>30.8004840000,50.8115480000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>30.7662070000,50.7506180000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>32.0412110000,50.7525570000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>30.7610070000,50.7560870000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>30.8458050000,50.8579260000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>30.8224730000,50.8368730000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>30.7173620000,50.5902720000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>30.7719440000,50.7880210000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>30.8274410000,50.8421390000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>30.7668740000,50.7549070000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>30.8547120000,50.8614420000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>30.7810550000,50.7969650000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>30.8690360000,50.9031650000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>30.8675780000,50.9151120000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>31.0968840000,50.4967610000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>32.2768470000,50.8464760000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>30.8712120000,50.9128260000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>31.2997890000,51.4594560000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>30.8001510000,50.8101320000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>30.7233770000,50.6602240000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>30.7785770000,50.8006920000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>32.0069500000,51.5479570000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>32.0128700000,51.5491460000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>32.3259600000,51.5216820000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>32.4934060000,51.5743000000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>32.5570760000,51.6825880000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>32.6000070000,51.6983390000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>32.6906640000,51.7482600000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>32.7069010000,51.7465740000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>33.0251220000,51.9204430000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>33.0601030000,51.9395590000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>33.0603920000,51.9428470000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>33.0735990000,51.9608920000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>33.1038410000,51.9828710000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>33.1777100000,52.0071610000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>32.1948940000,50.8273550000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>32.8024410000,51.7791180000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>32.4971250000,51.1834210000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>30.7965920000,50.8165880000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>30.8576540000,50.8625330000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>33.4280300000,51.5862290000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>32.3011560000,50.8528720000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>32.0401290000,50.7519750000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>31.1898800000,50.4952490000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>31.0949030000,50.4969460000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>31.0853710000,50.4989320000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>30.9691500000,50.5197320000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>30.9818540000,50.5138140000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>30.7175490000,50.5896180000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>30.7047880000,50.6012350000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>30.7221210000,50.6594390000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>30.7390260000,50.7046200000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>30.8679490000,50.9044830000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>31.2988300000,51.4617180000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>32.3228750000,51.5219050000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>32.4899710000,51.5694540000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>32.5595300000,51.6849700000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>32.6050690000,51.7016170000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>32.6858800000,51.7473680000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>33.0203050000,51.9197780000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>33.0714280000,51.9595180000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>33.1003110000,51.9810070000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>32.1937620000,50.8272050000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>30.7617350000,50.7173580000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>30.7963150000,50.8185580000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>34.3605680000,44.7115160000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>34.3625400000,44.7125140000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>34.0927470000,47.6043850000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>30.4905030000,50.4561840000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>34.0926700000,47.6040270000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>36.2608490000,50.1659540000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>34.3958700000,44.6612210000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>34.3950834895,44.6604443271,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>36.1368600000,49.8861470000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>36.1283610000,49.8897740000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>36.1353190000,49.8856780000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>36.1230500000,49.9196050000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Опасный поворот</name>
+<Point>
+<coordinates>36.4192960000,49.9356960000,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Drugaja opasnost'</name>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>36.2588610000,49.9643970000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>36.2326730000,49.9952310000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>38.0331420000,48.3060990000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>36.2278510000,50.0104140000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>37.9825360000,48.3125920000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>37.9995190000,48.3111000000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>37.9783210000,48.3129500000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>38.0571250000,48.3473740000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>38.0253370000,48.3083040000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>38.0179210000,48.3017120000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>38.0525740000,48.3110080000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>38.0531430000,48.3376880000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>38.0420950000,48.3037220000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>38.0294380000,48.2990230000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>34.9392550000,50.8336870000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>34.9238510000,50.3447910000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>38.0391160000,48.3043900000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>37.5749170000,48.9201850000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>30.4491590000,50.4277670000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>30.5136360000,50.4399150000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>37.9614750000,48.3277890000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>36.2064810000,49.9868920000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>36.2738370000,49.9178840000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>36.1919820000,49.9123610000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>36.1783330000,49.9078870000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>36.2607080000,49.9402390000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>36.1163480000,49.9142190000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>36.2177240000,50.0206150000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>36.2605510000,49.9524610000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>36.2620880000,49.9164200000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>36.2027470000,50.0605390000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>36.3330150000,50.0060920000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>36.3020130000,49.9532850000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>36.3017620000,49.9480630000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>36.3715670000,49.9538000000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>36.3986430000,49.9452250000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>36.3553430000,49.9480170000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>36.3602530000,49.9459150000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>36.3227390000,49.9448010000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>36.3388070000,49.9454800000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>36.2074620000,49.9900780000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>36.2477380000,49.9830470000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>36.2452390000,49.9843750000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>36.2463340000,49.9816090000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>36.2428780000,49.9811440000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>35.5214500000,50.1684950000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>35.5478480000,49.6152570000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Другая опасность</name>
+<Point>
+<coordinates>36.3808290000,49.9508630000,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Zheleznodorozhnyj pereezd</name>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.5254857727,50.4826117106,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>38.0974461062,48.2949461108,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>38.6825948339,48.4321805509,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.3993271323,45.0712805485,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>38.9138277710,48.1464113014,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>38.2772139609,47.9844990505,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>38.4831179662,48.0443554460,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.8512492485,48.0457124392,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.4262445795,45.1894939516,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>38.0357525538,48.1672927238,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.3759707261,46.0991740029,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.5141462408,46.1304426479,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.5568960424,46.1646545804,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.5799955607,46.3358701133,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.6579727142,46.3898726633,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.6422825621,46.3903977157,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.6650000000,46.4713888889,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.0499722595,47.8047020435,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.1620265037,50.0678087614,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.7906569527,46.6039100462,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.1162335751,49.8914426421,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.1437296738,50.0897607377,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.1731062746,48.4796346432,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.9578386758,48.3452137096,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.6475386109,48.4762319258,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.8820784549,48.4597685234,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.4220586042,47.8920575943,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>26.2376797973,50.6216332201,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.3183246597,49.0004674559,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.6052954135,50.3046729426,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>29.0512713487,49.8631009772,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.9589821913,50.3755923397,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.8355985693,50.3966180000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.7219444444,50.4225000000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.6816905359,50.4303352858,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.3817990349,50.3877317327,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.4240416795,50.4155172156,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.5622222222,50.4008333333,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.5642507749,50.3997830375,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.4300650000,51.1018470000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.0919608482,50.7952020000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.2489366498,51.5219748322,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.9055397163,51.6995411647,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.5830105630,51.3082158133,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.4981443029,50.4792486570,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.5482554041,50.3716475909,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.7223093637,50.4237208202,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.6433096308,47.8301759184,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.8712064874,47.9854874884,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.8715294369,47.9851554808,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.8707775900,47.9669239404,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.8679725838,47.9493697333,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>38.5447334277,48.0329577530,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>38.6416264509,48.0647323772,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>38.7299603198,48.0525148086,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.0480593849,45.0060574299,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.0219220113,45.0601297983,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.0257863831,45.1069348530,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.0299585035,45.1260982084,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.0688347545,45.1976442523,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.3718701938,45.6746317922,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.4853671414,45.9620299801,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.5325651531,46.0334841744,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.5806629487,46.0804312455,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.6355316098,46.2133342519,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.6809513535,46.2663590109,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.7445221538,46.3255076799,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.9415381590,46.4947213065,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.1985039390,46.7193605222,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.2167221880,46.7537476743,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.3070631036,46.8266635682,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.3432524897,46.8910367135,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.3271827691,46.9214524098,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.3188819057,47.1615826716,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.3230007113,47.2179614449,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.3247114501,47.2502083247,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.3280341665,47.3712250859,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.3068648743,50.2581145556,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.2987941628,50.3132209996,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.3021366565,50.3430818446,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.4298458901,50.4080411797,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.4333541250,50.4126316473,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.5367925983,50.2729582002,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.6088562534,50.1909481196,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.7744441448,50.1088473760,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.0301670382,44.8876662242,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.8046301209,44.7145387146,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.7901539094,44.6974650222,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.5897912494,44.6390746865,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.6092019364,44.6091223886,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.6106316538,44.5688437744,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.5153275576,44.5495891443,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.5610979266,44.6353111719,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.5569694660,44.6312577942,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.3065683786,45.3753994687,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.2852887320,45.3736120603,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.1628852190,45.3727408744,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.7633936177,45.2978715753,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.7227373495,45.2839743124,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.6620416151,45.2682898951,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.5658199373,45.2406962961,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.7306212674,45.4564229572,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.6470082835,45.5318132975,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.3852682723,45.6960171058,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.7058781234,46.1058848316,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.7137889428,46.0713656171,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.7656337265,45.9711481378,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.0097322010,45.8665304005,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.1669907317,45.8267351108,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.6881920947,46.1319319298,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.5877901332,46.1876959320,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.9824681408,46.5117451249,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.9327268819,46.5735505257,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.8163752768,46.6444095855,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.7532530887,46.6787934355,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.6533958504,46.6829496963,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.6325225339,46.6690475486,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.5845086866,46.6506813274,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.5679614122,46.6366888499,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.1895753864,46.8619138552,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.0463435696,46.9235858217,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.0278914357,46.9342044713,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.0114888375,46.9494562514,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.0719580868,46.9492081155,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.0984376227,46.9546712533,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.7769040114,47.0483077291,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.7517020667,46.9481288907,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.7153310532,46.8443449356,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.7060473270,46.8179186228,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.6565862379,46.6886992745,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.7852340573,47.0757325675,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.8140610533,47.0871082444,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.2007629938,47.3528298144,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.4322254366,47.4017766783,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.4508155006,47.4234471034,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.6898434586,47.6339696660,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.5182521206,47.8161153320,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.8250354815,47.6326241796,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.9330919900,47.6317052413,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.9916236546,47.6027305141,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.6601550763,47.6820838250,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.0087774079,47.8155380871,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.5810572765,48.0022062730,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.6708884744,48.0722052828,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.9507341301,49.9007047526,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>26.5520595524,50.4177553743,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.0149046072,49.9195446650,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.0834372168,49.8783556917,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.0637860832,49.8536521457,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.1372891823,49.8471394542,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>26.2535018637,50.5135072163,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>26.2560446301,50.5198719853,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>26.3346400708,50.4706631100,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>26.3640739825,50.4607350367,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.0708740793,49.8606152846,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>26.3949733673,50.4502485193,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>26.6026023081,50.3839974041,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>26.4472502942,50.4404669685,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>26.7189650480,50.3577815836,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>26.2369066533,50.5165775999,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.5329276481,49.9337556688,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.0790289758,49.7867989542,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.3813658196,49.3109772637,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.4540306487,49.2786565033,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.4973062666,49.2577443727,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.7271288312,49.1405534822,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.7614388032,49.1280664909,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.7774973442,49.0441495664,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.7685150064,49.0415627676,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.7096818257,48.9955508893,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.7121849187,48.9802397150,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.7117532699,48.9545067276,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.7169897012,48.9419054847,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.7305869843,48.9060656531,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.7443573595,48.8874374322,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.7946559650,48.8096306665,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.8213591959,48.7684531372,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.8436195572,48.7385771706,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.8530865820,48.7259332930,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.8726975228,48.7120566908,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.9094987686,48.6911247720,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.9166890370,48.6876275329,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>25.0835099625,48.5943092499,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>25.0544506313,48.5436949465,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>25.0499125246,48.5452839433,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>25.1095357312,48.5229318350,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>25.1503559528,48.5131932877,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>25.1940192340,48.5027607839,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>25.2128731408,48.4982608038,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>25.2445856986,48.4898378102,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>25.2923167954,48.4776230618,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>25.3097347136,48.4731599800,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>25.4270820551,48.4463948877,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>25.5098118875,48.4284048837,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>25.6472805574,48.4008914182,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>25.6506016557,48.4001989882,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>25.6874125197,48.3903312911,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>25.7145132256,48.3791131072,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>25.7348653538,48.3706619307,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>25.7503574247,48.3663263792,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>25.7802261435,48.3604004513,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>25.8381471528,48.3522462697,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>25.8494556232,48.3508313807,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>25.8895694010,48.3360758667,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>25.0216892730,48.5582063789,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.8856408425,48.5777572557,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.8534486084,48.5852588126,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.8131610306,48.5787872600,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.7921850600,48.5735753921,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.7485267425,48.5617451164,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.7227868805,48.5515885304,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.6962097321,48.5489018305,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.5931939919,48.6351975554,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.6037195173,48.6738570260,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.6238326378,48.7011171531,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.6861321829,48.7645790956,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>24.7209897927,48.8255825006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.1613932227,48.4355339167,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.1937482638,48.4342622104,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.1938012452,48.4335571430,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.2513440957,48.4243734597,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.2816343625,48.4097668003,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.3893530733,48.3594572611,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.4040885186,48.3423071726,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.4169741385,48.3259303129,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.4630217048,48.2891624010,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.4798155788,48.2808664198,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.5405262131,48.2509623845,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.5636445607,48.2395555527,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.6316163936,48.2008220137,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.6384973267,48.1901502478,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.6673353576,48.1704993649,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.8067001451,48.1297216259,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.8313476706,48.1174579647,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.8687002130,48.1145851890,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.0191065373,48.1347732941,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.0344417395,48.1333389746,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.0696479470,48.1321320858,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.1165982223,48.1414506022,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.1383396502,48.1504350364,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.1543125371,48.1657948315,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.1638609982,48.1934819262,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.1787026291,48.1948653365,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.1947254125,48.1928366793,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.2142814426,48.1903147321,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.2434742411,48.1865819592,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.2811076771,48.1753475819,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.2953506648,48.1638103199,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.3050167055,48.1568630429,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.3155939578,48.1517252977,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.3572661903,48.1307039053,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.3885772596,48.1160452930,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.4259185237,48.0927681498,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.5190495257,48.0431928414,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.4977954875,48.0545273944,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.5669125931,48.0176547481,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.4891875612,48.3678760029,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.5593421647,48.3855228180,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.7287847932,48.4343235422,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.7390098360,48.4447653056,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.7446783621,48.4508774424,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.7639059114,48.4634353451,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.8121314646,48.4816408811,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.8370964870,48.4892130970,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.8955942294,48.5332102039,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.9813538564,48.5512060871,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.0129898620,48.5536950868,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.0566804323,48.5684824189,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.2210748182,48.4536331180,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.2376454328,48.4901617040,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.2442702444,48.5103257851,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.2521351975,48.5289758430,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.2720676793,48.5618302142,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.2194261730,48.5788305053,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.1983951012,48.5683462174,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.3487028971,48.6547663002,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.3704320149,48.6651614212,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.4028669711,48.6850062308,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.4869413996,48.7355726284,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.4982666999,48.7703774656,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.4938914488,48.7878194122,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.4846990346,48.8020894890,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.4909929045,48.8161322586,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.4490397621,48.8722474895,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.4530658633,48.8909775917,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.4571636985,48.8947395738,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>22.4572257575,48.9239483113,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.9085720693,49.7156515315,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.9036242915,49.7000812948,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.8772074809,49.6592334555,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.8753241227,49.6131245114,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.9294581531,49.5304448082,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.9569218880,49.5094543156,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.9635807681,49.5000023232,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.9581450184,49.4719143925,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.9568558829,49.4527570045,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.9274201229,49.3663160516,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.8921608651,49.3192613562,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.8760348896,49.3009333704,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.8538744610,49.2709572714,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>26.2604780595,50.5574513494,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>26.2211940481,50.6585197203,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>26.2760657597,50.7017622599,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>26.3195295973,50.7175834000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>26.3262022657,50.7305692915,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>26.3952337993,50.7943152764,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>26.4243575763,50.8407925474,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>26.4473705575,50.8774141611,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.3881960959,45.2070406263,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.3607936306,45.2099106443,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.3608910784,45.2219675653,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.0672541856,46.9800660152,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.0125739316,47.0350159451,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>31.7609784914,47.1641808489,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>31.2493434882,47.2900941273,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.9096339437,47.1881544179,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.8344507469,47.1719451737,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.7794686858,47.0828767113,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.7501132509,47.0155038162,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.7241657220,46.9015665541,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.7612343595,46.8240099159,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.8449092544,46.7613119515,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.3580798747,46.1305452356,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.3462938038,46.1507556488,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.3442041985,46.1863960454,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.3237452340,46.1776407827,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.2720984877,46.1567265929,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.0756567879,46.1098662419,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>29.9307922711,46.0369116155,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>29.6852305710,46.0167009579,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>29.6163016575,46.0110244515,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>29.4540482151,45.9858603127,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>29.4308308756,45.9932538854,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>29.4151842612,45.9990272915,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>29.2657022230,46.1197024582,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>29.2120184837,46.2216123797,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>29.1958588445,46.2410466263,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>29.2220135424,45.8541416632,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>29.1623136698,45.7307359014,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.9664815433,45.6050276842,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.9331174733,45.5540519144,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.9197184267,45.4977747079,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.8790475186,45.4174413795,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.8734798176,45.4045412105,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.8584625883,45.3973875380,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.8557707287,45.3927407778,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.8783889788,45.3381562797,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.8347837775,45.3863274433,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.8164388943,45.3466227041,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.8200639039,45.3385868264,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.5208936408,46.2283943106,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.5205020203,46.2831772959,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.5319470484,46.3033751328,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.5894900004,46.3481137291,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.6538338740,46.4279632846,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.6438515116,46.4752925202,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.5504995990,46.5789348327,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.3808498950,46.6213789360,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.3371475454,46.6795007063,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.2805008444,46.7147129863,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.0984498099,46.8338897366,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.0570132991,46.8604000337,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.0514383091,46.8528742558,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.0498876582,46.9913590296,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.0677746923,47.0132183906,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.2960825674,47.0122326030,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.3588168601,46.9874827854,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.0045962492,47.1016135038,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>29.9542272961,47.2431091285,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>29.8924601022,47.3263512262,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>29.8056064425,47.4293747746,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>29.6134613564,47.6397598494,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>29.5689320964,47.6605565480,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>29.5437241467,47.7212170371,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.7838664954,50.4954857924,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.9020407387,50.5701090073,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.9404335969,50.5920220768,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>31.0260609841,50.6405517514,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>31.0573068284,50.6580910675,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>31.1159278416,50.6878028812,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>31.1495534917,50.6918864782,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>31.9498050217,51.0388775119,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.2814627370,51.2041923993,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.3718171413,51.1999052792,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.2409617312,51.1671759628,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.2650846035,51.1524130120,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.2773520040,51.1170845869,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.3222567926,51.1827502445,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.3439748755,51.1869695706,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.3681471598,51.2002462589,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.3138218136,51.0862682677,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.3603971660,51.0219992530,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.3918477749,51.0213582160,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.4090755880,51.0142734643,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.9340845069,50.8468471913,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.9609267934,50.8421961203,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.9903362917,50.8308874334,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.8927713482,50.8384839905,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.8619331521,50.7955794219,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.8523745181,50.7851381916,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.8614527574,50.7414134189,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.8804585425,50.6548814706,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.8532560273,49.9753895010,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.8429832060,49.9485762918,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.8974532746,49.9507186586,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.9586882390,49.9418000305,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.0367616457,49.9545141490,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.0706711449,49.9506166719,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.9731143902,50.0110235474,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.9526856721,50.0529280530,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.9492932187,50.1420510589,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.9518309078,50.1653458000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.9617966127,50.2014159014,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.9797528487,50.2428637742,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.9884736742,50.2684696777,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.9895914995,50.2801416006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.0689627033,49.9775650343,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.1004841413,49.9733586630,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.1015736933,49.9531831321,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.1294739408,50.1111916776,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.1343487521,50.1665237595,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.2367790129,49.9531169288,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.2541106599,49.9603201552,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.3933889811,49.9468355314,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.4217231363,49.9336105734,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.4291311021,49.8975553177,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.5016641735,49.8302701486,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.5553890879,49.8295669933,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.2414429589,49.8631116016,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.2436122256,49.8538610478,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.3043066148,49.7855353632,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.4481434302,49.6570804774,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.4213038382,49.6898161718,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.4910854994,49.6311965568,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.3722817032,48.8336502333,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.3882992915,48.8308900075,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.5022863902,48.8350716328,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.5256295474,48.6834403529,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.6089764084,48.5851456638,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.6567656535,48.5482744417,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.7117245218,48.5235068527,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.8220434560,48.4733725700,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.9013032231,48.4087982648,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>38.0451719375,48.3487548946,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>38.0472164693,48.3478941257,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>38.1070836768,48.3284964749,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>38.2875480644,48.3149534294,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>38.3510497985,48.3007659777,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>38.2660867244,48.0196779370,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>38.3818106029,48.0421375965,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>38.4624233606,48.0406958226,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>38.0132661888,47.8632239019,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>38.1490492461,47.9017596171,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.9102923582,47.9081813371,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.8983804416,47.9525760614,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.8654269454,47.9929338569,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.8796973003,48.0423547719,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.8900397021,48.0761603590,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.8863155899,48.1158360861,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.3132782433,48.9843624279,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.3270099125,48.9608796827,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.3530563387,48.9249316669,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.3455146809,48.9142217460,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.2918444273,48.8986690474,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.2178757956,48.8619932798,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.1302181117,48.6836995733,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.1980421588,48.5838839388,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>33.3817669789,48.5938413439,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.6342119104,48.7211618341,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.6915251557,48.5584688889,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.5091120686,50.2279766746,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.5031286636,50.2443580709,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.4469343684,50.2769777377,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.4328317257,50.2874429655,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.4082590415,50.3609143045,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.3723140131,50.4556578632,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.3765302845,50.4755854838,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.3652032254,50.5884643698,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.2887324469,50.6124711294,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.2149454278,50.6683134633,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.1932234197,50.7030093936,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.1269461144,50.7697563290,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>31.3540766607,51.4229331607,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>31.2048676849,51.6144619452,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>31.1860551768,51.6449384011,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>31.2420503887,51.5057535030,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>31.1974045703,51.4946811353,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>31.0901543507,51.5008571490,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.3187803726,50.4951702920,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.2456878536,50.5284358364,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.2234196137,50.5504219056,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.2095141065,50.5389993974,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.0837513566,50.5626830518,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.9219834449,50.8773952980,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.8684793463,50.8892585112,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.8315949161,50.9009065914,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.6559077587,50.9435810128,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.6803562184,51.0773155090,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.6905868201,51.0922741121,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.6966962737,51.1033038697,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.7019510762,51.1294625643,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.7120396486,51.1382667110,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.5945106909,50.9298782819,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.6016472136,50.9179453492,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.5773121448,50.8933911599,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.5867386552,50.8664841572,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.6016961824,50.8178136356,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.6241753450,50.6862929414,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.6378889165,50.6296017724,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.6572506191,50.5731717469,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.6737940983,50.4978674441,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.6794250808,50.4679175817,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.6822098490,50.4494229018,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.6810415347,50.4341231098,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.6926697607,50.3640252995,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.7354930013,50.2315184029,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>28.7361886062,50.2334417476,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>31.0426384357,48.1243519880,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.9410496507,48.1171372132,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.8951195029,48.0961542139,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.8696281507,48.0814928764,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.7879352653,48.1121764896,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.7085359502,48.1325044113,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.6629019592,48.1569359784,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.6191621236,48.1799251216,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.7219539881,48.1761138788,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.7371184762,48.2421239842,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.6098662002,48.3395564537,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.5831949140,48.3345227059,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.5369919256,48.3220673058,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.4768790228,48.3353791172,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.4019380768,48.3603347440,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.2380075189,48.3276936289,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.2324116842,48.3180847870,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>39.4099120356,48.6382397702,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>38.8919889475,48.5425290919,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>38.5552141260,48.3851701010,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>38.9406981781,48.5761917590,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>38.9281758238,48.5798417037,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>38.8754967083,48.5984759885,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>38.8400957191,48.6167810015,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>38.7798658309,48.6481853131,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>38.7640176225,48.6645198438,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>38.6641987405,48.6926311029,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>31.0527944108,50.3671068189,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>31.0931260885,50.3636665985,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>31.1461754340,50.3616993388,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.0971421015,50.1792173815,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.1438160899,50.1707245569,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>32.3877657261,50.1265092940,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.8743156349,49.1467424572,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>23.8731219630,49.0719311425,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>29.7535723606,48.4475755955,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>29.7717987311,48.4337865469,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>29.8011395422,48.3932023701,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>29.8151852135,48.3693942818,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>29.8283185226,48.3529142094,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>29.8423131509,48.3409395839,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>29.8676229651,48.3393928094,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>29.8888311178,48.3368671676,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>29.9560031028,48.3157363996,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.0098217508,48.2299965940,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.0114934427,48.2246453306,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.5946016106,49.5743143284,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.6002942991,49.5736307082,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.6026058637,49.5656890728,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.6172992433,49.5510272578,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.6170751754,49.5412082855,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.6199171689,49.5274259193,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.6244945998,49.5555344215,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.6746084617,49.5456594283,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.6013963701,49.5943336761,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.6176053459,49.6084325092,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.6177975057,49.6097951313,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.6195903828,49.6084000395,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.6370222566,49.6222901834,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.6709109162,49.6289393291,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.5298166579,49.6158127858,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.5152542321,49.5951843864,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.6084428936,49.4580312258,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.5123252262,49.3920227444,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.3968605329,49.3231333005,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>30.3902040041,48.3594344820,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.0881295496,48.3016422515,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.9429080478,48.3211306618,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.9825562704,48.2373697357,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.9145986026,48.5299392207,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.8797456707,48.5515486754,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.8635253593,48.5531620688,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.7829892945,48.5481159784,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.3949554782,48.6181341898,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.3282675525,48.6339686592,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.2687834961,48.6515732581,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.2490161981,48.6512492178,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.2399625852,48.6503014440,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.2277312689,48.6412158169,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.2199242454,48.6327388884,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.1894698407,48.6085133463,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.1370519789,48.5643648944,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.1511055723,48.4868484242,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.1456241567,48.4824890284,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.1236410354,48.4873388819,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.9568665336,48.4798226935,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.9491243139,48.4786497478,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.8485615929,48.4429778348,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.8179825456,48.4411399247,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.7735130059,48.4411574116,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.7235197067,48.4669481250,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.5659617268,48.4944759193,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.5181163109,48.5022055591,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>34.4714140950,48.5190119238,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.9071590559,47.5288592389,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>35.9954825506,47.5126867666,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.1173742941,47.4959296719,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.1860718207,47.4903315060,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.2159314755,47.4810049306,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.2870630368,47.4738145530,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.5616837127,47.3725833409,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.6039132729,47.3604162272,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.6020321696,47.3379209301,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.6531213245,47.3087296096,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>36.7151838501,47.3247085206,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.0477305686,47.3691935712,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.0682496853,47.3754108423,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.0869361037,47.3777162339,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.1051004602,47.3942397846,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.7183021393,48.0015826759,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.8848949225,48.1118842074,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.5911954639,47.1150705775,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.5870530156,47.1478903148,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.6164980364,47.3108660954,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.6536922113,47.3564773152,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.6573256012,47.4512800409,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.6821127088,47.9279810118,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.8960581992,48.1267276809,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.8684243582,48.2170018980,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.8506596460,48.2682750316,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.8445460452,48.2942409270,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.8403921890,48.3301204961,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.8358657746,48.3415382425,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.8329764283,48.3505742850,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.7944134381,48.3922888938,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.7785192374,48.4035532955,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ЖД переезд</name>
+<Point>
+<coordinates>37.7756246639,48.4608011010,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Iskusstvennaja nerovnost'</name>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4332548650,50.4656371493,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4333154179,50.4659041657,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4329660000,50.4678780000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4691150000,50.4864760000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>36.1193240000,49.8964650000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.6120830000,48.7606670000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.6126700000,49.0351000000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6170950000,50.4056410000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.6432000000,49.0083700000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.6217000000,49.0136000000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.6493300000,49.0089600000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.6487900000,49.0106500000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.6296400000,49.0054000000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.6303600000,49.0050500000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.6722000000,48.9954700000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.6710500000,48.9957600000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.6641000000,48.9975000000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.6618400000,48.9980500000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.6255100000,49.0113900000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.6401700000,49.0085100000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6279880000,50.4084580000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.6392100000,49.0140500000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.6374200000,49.0054200000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.6394400000,49.0050400000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.5161220000,50.4666410000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.5157360000,50.4664240000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4695770000,50.4865020000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>24.0555190000,49.8175064292,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.5178610000,48.9827130000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>34.6145680000,48.4916520000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.4038700000,49.0692020000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4789230000,50.4840046000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>29.0505361000,50.3120333000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>29.0774889000,50.3164833000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.5812660000,50.4950640000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.5820670000,50.4950640000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.5004917000,50.5123917000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4291333000,50.4610333000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6155972000,50.4620722000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6159417000,50.4624861000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6167167000,50.4635472000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6180472000,50.4652194000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6322694000,50.4379556000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6317056000,50.4378389000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.5719833333,48.7231000000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.5738000000,48.7224500000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.5892000000,48.7372333333,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.5912166667,48.7364833333,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.6026500000,48.7212166667,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.6003500000,48.7329833333,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.6150000000,48.7524000000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.3739600000,50.3850080000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6425711164,50.3952575800,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4282400334,50.3414083409,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4546800382,50.3492139291,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4590871818,50.3524416949,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4639437999,50.3562315675,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4772639696,50.4706607742,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.5115599419,50.4739095825,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.3960220353,50.4163285157,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.3966373177,50.4166591488,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.3983012119,50.4175906476,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4659415057,50.4704468592,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4501102834,50.4660987566,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4693832988,50.4705779634,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4699939162,50.4710884851,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4758541679,50.4708105200,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4782050675,50.4705131138,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4616742592,50.4651109798,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.5204089141,50.4666393774,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.5214999983,50.4665332381,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.5216139474,50.4659025262,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.5205733923,50.4659940482,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.5334594932,50.2967658884,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.5119703693,50.4418777414,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4481251841,50.4813010236,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.5883929952,50.4803333660,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.5853534278,50.4842569483,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.5853263762,50.4914563565,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6391964947,50.2605103353,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6434915692,50.2604479843,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4309226379,50.4598048792,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6162120209,50.4508861050,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6197394061,50.4540128398,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6212191778,50.4454036747,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6485697504,50.3951375637,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6186915802,50.4018253671,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6194676868,50.4019329464,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6268525716,50.4022471245,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.5337382465,50.2958549784,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6303830000,50.4329940000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.5922750000,50.4485720000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6201580000,50.4378910000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6392380000,50.4358830000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.5220970000,50.4265520000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.5224580000,50.4261220000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.5107190000,50.4393630000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6186830000,50.5073440000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.5205050000,50.4279940000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6213410000,50.4992410000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6208300000,50.4985050000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6244780000,50.4759420000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6206420000,50.4455970000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.3681200000,50.3946860000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.3658360000,50.3799790000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6193980000,50.4084340000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6137969922,50.4425345050,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6192026333,50.4406675042,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6359111000,50.4026111000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6352528000,50.4022972000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6550361000,50.4248806000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>38.0024380000,48.3108480000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>38.0064770000,48.3047830000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>38.0202870000,48.2987210000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>38.0287440000,48.2992060000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>38.1021690000,48.2950550000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>38.1051290000,48.2950360000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>32.2722770000,48.5052290000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>32.2674590000,48.5083610000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>32.2137180000,48.5051650000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>32.2156750000,48.5048560000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>32.2741240000,48.5341370000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>32.2651630000,48.5110740000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>32.2624810000,48.5146480000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>32.2624770000,48.5144880000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>32.2636370000,48.5159680000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>32.2799030000,48.5152470000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>32.2707820000,48.5060340000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>32.2707970000,48.5058050000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>32.1179350000,48.5278050000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>32.1220160000,48.5278580000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>32.1227600000,48.5278770000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>32.2660670000,48.4983740000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>32.2661740000,48.4982830000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.8946530000,47.9952580000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.8933680000,47.9951970000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.9027820000,47.9853830000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.9032970000,47.9847150000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.9226990000,47.9696010000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.9230500000,47.9703670000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.8036920000,47.9771420000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.8031350000,47.9774510000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.8164710000,48.0067210000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.8075830000,48.0146220000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.8118550000,48.0038680000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.8546180000,48.0066720000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.8799930000,47.9614260000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.8785320000,47.9622270000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.8861660000,48.0159570000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.7947770000,48.0192030000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.9121280000,47.9879150000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.8606450000,48.1266290000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.8648950000,48.1261900000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.8477670000,48.1238330000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.8466490000,48.1235160000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.8879660000,48.1299020000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.8892670000,48.1303670000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.8928340000,48.1351850000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.8931660000,48.1372340000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>34.6076010000,48.5164990000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>34.5698280000,48.5373040000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>34.5677410000,48.5374950000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>34.6152920000,48.4913140000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>35.0517900000,48.4365200000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>35.0264700000,48.4226700000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>35.0343700000,48.4236300000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>35.0504400000,48.4077100000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>35.0147800000,48.4213000000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.9991460000,48.5937000000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>38.0000380000,48.5916940000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>38.0037840000,48.5882490000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>38.0058860000,48.5832630000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.5562670000,49.0345990000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.5555990000,49.0351370000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.8682590000,48.3937190000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.8666610000,48.3935280000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.4047200000,47.9118690000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.4041210000,47.9119220000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.4021940000,47.9020460000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.3508640000,47.9037510000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.4082220000,47.9333760000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.4334290000,47.9425120000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.4751590000,48.0169140000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.4749720000,48.0169490000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.3474310000,47.9026520000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.4624170000,47.9007110000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.3639140000,47.9028960000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.4629860000,47.9656480000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.5549350000,48.1525720000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.5765720000,48.1404410000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.4462970000,47.9993440000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.4242320000,47.9459640000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.4821590000,48.0279660000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.3819540000,47.8847120000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.3851240000,47.9102750000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.3483890000,47.9122890000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.3492580000,47.9132120000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.4275780000,47.9319500000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.4529150000,47.9261020000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.4553030000,47.9258350000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.3489000000,47.8379210000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.4141160000,47.9636990000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.4244160000,47.9825170000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.7087900000,48.4039900000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.7070600000,48.4111900000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.4711070000,47.9230230000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.1633100000,47.6881830000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.2638590000,47.6832080000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.2704200000,47.6953810000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>35.2525790000,48.6322290000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.5378274063,50.4832178723,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.5182130000,50.4616540000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.5811290000,50.5119950000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6849650000,50.5594480000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6837480000,50.5589030000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>31.3088460000,51.4927820000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4505840000,50.3645210000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6383960000,50.3968720000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.4446180000,49.1072690000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.7623000000,48.0199700000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.4434470000,49.1070440000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>33.4048810000,49.0696260000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.7549700000,48.0275800000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.7551800000,48.0272800000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.7575700000,48.0199800000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.7848200000,48.0587000000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.7945800000,48.0568400000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.7973800000,48.0562700000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.7979300000,48.0561800000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.5906833333,48.7408000000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.5913500000,48.7416333333,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.6160000000,48.7595000000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.6125166667,48.7605333333,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4935685726,50.4530880487,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4938117865,50.4528640732,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4523671018,50.3668372641,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4521170263,50.3666779967,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4490127616,50.3646187803,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.5131416727,50.4052083744,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.5026488951,50.3948114419,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4440358846,50.4267328092,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.3869389452,50.4200738260,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.3863063008,50.4202946008,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.3848695322,50.4209138789,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.3842195504,50.4212661955,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>34.3469740000,47.5794340000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.5750400000,50.4978000000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>35.0532400000,48.4518500000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.8411180000,48.0110470000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.8600650000,48.0061000000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.8432880000,48.0110890000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.7586710000,48.0199810000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.8914490000,48.0679020000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.9003680000,48.0462150000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.9498180000,48.0480840000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.8373990000,47.9934010000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.5885160000,48.7441670000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.5866320000,48.7418330000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.9002840000,48.0704840000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.5876500000,48.7430990000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.5858350000,48.7407990000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.2740520000,46.9658660000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.5956150000,48.7271650000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.2738490000,46.9656980000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.2701840000,46.9553680000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.8373990000,47.9929660000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.5316510000,47.0942650000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.5392000000,47.0934830000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.5319820000,47.0942500000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.5462320000,50.4405780000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.5388490000,47.0935170000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.5276340000,47.0945320000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.5851520000,48.7398990000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6484240000,50.4241290000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6487500000,50.4242820000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.5272480000,47.0945660000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6475700000,50.4256130000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>38.4832833333,48.0433333333,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>38.4831833333,48.0425833333,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.8572833333,48.0137833333,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.8566833333,48.0167500000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4489793924,50.4819056031,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4484576687,50.4815319682,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.6204370419,50.4064471942,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4092380000,50.3364090000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4220010000,50.3393040000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4523450000,50.5272010000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4915600000,50.5260080000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.5543166667,47.0968666667,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>37.5557702280,47.0963380913,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4576550000,50.5665760000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4588160000,50.5666170000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4528870000,50.3671430000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Коп</name>
+<Point>
+<coordinates>30.4487180000,50.3643960000,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Znak "STOP"</name>
+<Placemark>
+<name>STOP</name>
+<Point>
+<coordinates>30.4818568926,50.4867599586,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>STOP</name>
+<Point>
+<coordinates>30.4235939446,50.4157290454,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>STOP</name>
+<Point>
+<coordinates>30.4238630200,50.4154868262,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>STOP</name>
+<Point>
+<coordinates>30.4336393599,50.4126840000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>STOP</name>
+<Point>
+<coordinates>30.4331574515,50.4125141665,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>STOP</name>
+<Point>
+<coordinates>30.4299846115,50.4082599205,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>STOP</name>
+<Point>
+<coordinates>30.4301923680,50.4080889356,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>STOP</name>
+<Point>
+<coordinates>27.4167700000,49.4299760000,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>STOP</name>
+<Point>
+<coordinates>30.4207387957,50.4588281950,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>STOP</name>
+<Point>
+<coordinates>30.6203559233,50.2600187676,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

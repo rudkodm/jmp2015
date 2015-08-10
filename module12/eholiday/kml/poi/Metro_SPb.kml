@@ -1,0 +1,701 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<name>Metro</name>
+<Folder><name>St.Petersburg</name>
+<Folder><name>Автово</name>
+<Placemark>
+<name>Автово</name>
+<Point>
+<coordinates>30.261095,59.867243</coordinates>
+</Point>
+<description>Кировско-Выборгская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Академическая</name>
+<Placemark>
+<name>Академическая</name>
+<Point>
+<coordinates>30.395888,60.012747</coordinates>
+</Point>
+<description>Кировско-Выборгская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Балтийская</name>
+<Placemark>
+<name>Балтийская</name>
+<Point>
+<coordinates>30.299023,59.907324</coordinates>
+</Point>
+<description>Кировско-Выборгская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Василеостровская</name>
+<Placemark>
+<name>Василеостровская</name>
+<Point>
+<coordinates>30.278267,59.942678</coordinates>
+</Point>
+<description>Невско-Василеостровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Владимирская</name>
+<Placemark>
+<name>Владимирская</name>
+<Point>
+<coordinates>30.347882,59.927584</coordinates>
+</Point>
+<description>Кировско-Выборгская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Выборгская</name>
+<Placemark>
+<name>Выборгская</name>
+<Point>
+<coordinates>30.347253,59.971099</coordinates>
+</Point>
+<description>Кировско-Выборгская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Горьковская</name>
+<Placemark>
+<name>Горьковская</name>
+<Point>
+<coordinates>30.318752,59.956292</coordinates>
+</Point>
+<description>Московско-Петроградская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Гостиный Двор</name>
+<Placemark>
+<name>Гостиный Двор</name>
+<Point>
+<coordinates>30.332715,59.934063</coordinates>
+</Point>
+<description>Невско-Василеостровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Гражданский проспект</name>
+<Placemark>
+<name>Гражданский проспект</name>
+<Point>
+<coordinates>30.418138,60.034911</coordinates>
+</Point>
+<description>Кировско-Выборгская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Девяткино</name>
+<Placemark>
+<name>Девяткино</name>
+<Point>
+<coordinates>30.442621,60.050331</coordinates>
+</Point>
+<description>Кировско-Выборгская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Достоевская</name>
+<Placemark>
+<name>Достоевская</name>
+<Point>
+<coordinates>30.346254,59.928149</coordinates>
+</Point>
+<description>Правобережная линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Елизаровская</name>
+<Placemark>
+<name>Елизаровская</name>
+<Point>
+<coordinates>30.423494,59.896626</coordinates>
+</Point>
+<description>Невско-Василеостровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Звездная</name>
+<Placemark>
+<name>Звездная</name>
+<Point>
+<coordinates>30.349325,59.833206</coordinates>
+</Point>
+<description>Московско-Петроградская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Кировский завод</name>
+<Placemark>
+<name>Кировский завод</name>
+<Point>
+<coordinates>30.261884,59.879657</coordinates>
+</Point>
+<description>Кировско-Выборгская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Крестовский Остров</name>
+<Placemark>
+<name>Крестовский Остров</name>
+<Point>
+<coordinates>30.259465,59.971657</coordinates>
+</Point>
+<description>Фрунзенско-Приморская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Купчино</name>
+<Placemark>
+<name>Купчино</name>
+<Point>
+<coordinates>30.374962,59.830042</coordinates>
+</Point>
+<description>Московско-Петроградская линия</description>
+</Placemark>
+<Placemark>
+<name>Купчино</name>
+<Point>
+<coordinates>30.376655,59.829747</coordinates>
+</Point>
+<description>Московско-Петроградская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Ладожская</name>
+<Placemark>
+<name>Ладожская</name>
+<Point>
+<coordinates>30.439043,59.933356</coordinates>
+</Point>
+<description>Правобережная линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Ленинский проспект</name>
+<Placemark>
+<name>Ленинский проспект</name>
+<Point>
+<coordinates>30.269416,59.851666</coordinates>
+</Point>
+<description>Кировско-Выборгская линия</description>
+</Placemark>
+<Placemark>
+<name>Ленинский проспект</name>
+<Point>
+<coordinates>30.26703,59.85164</coordinates>
+</Point>
+<description>Кировско-Выборгская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Лесная</name>
+<Placemark>
+<name>Лесная</name>
+<Point>
+<coordinates>30.344044,59.984856</coordinates>
+</Point>
+<description>Кировско-Выборгская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Лиговский проспект</name>
+<Placemark>
+<name>Лиговский проспект</name>
+<Point>
+<coordinates>30.354959,59.920602</coordinates>
+</Point>
+<description>Правобережная линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Ломоносовская</name>
+<Placemark>
+<name>Ломоносовская</name>
+<Point>
+<coordinates>30.441643,59.877268</coordinates>
+</Point>
+<description>Невско-Василеостровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Маяковская</name>
+<Placemark>
+<name>Маяковская</name>
+<Point>
+<coordinates>30.354977,59.9315</coordinates>
+</Point>
+<description>Невско-Василеостровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Московская</name>
+<Placemark>
+<name>Московская</name>
+<Point>
+<coordinates>30.321866,59.854544</coordinates>
+</Point>
+<description>Московско-Петроградская линия</description>
+</Placemark>
+<Placemark>
+<name>Московская</name>
+<Point>
+<coordinates>30.322114,59.84966</coordinates>
+</Point>
+<description>Московско-Петроградская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Московские Ворота</name>
+<Placemark>
+<name>Московские Ворота</name>
+<Point>
+<coordinates>30.317821,59.89162</coordinates>
+</Point>
+<description>Московско-Петроградская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Нарвская</name>
+<Placemark>
+<name>Нарвская</name>
+<Point>
+<coordinates>30.274933,59.901141</coordinates>
+</Point>
+<description>Кировско-Выборгская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Невский проспект</name>
+<Placemark>
+<name>Невский проспект</name>
+<Point>
+<coordinates>30.326854,59.935434</coordinates>
+</Point>
+<description>Московско-Петроградская линия</description>
+</Placemark>
+<Placemark>
+<name>Невский проспект</name>
+<Point>
+<coordinates>30.330514,59.934539</coordinates>
+</Point>
+<description>Московско-Петроградская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Новочеркасская</name>
+<Placemark>
+<name>Новочеркасская</name>
+<Point>
+<coordinates>30.410668,59.929202</coordinates>
+</Point>
+<description>Правобережная линия</description>
+</Placemark>
+<Placemark>
+<name>Новочеркасская</name>
+<Point>
+<coordinates>30.412911,59.928728</coordinates>
+</Point>
+<description>Правобережная линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Обухово</name>
+<Placemark>
+<name>Обухово</name>
+<Point>
+<coordinates>30.457568,59.848664</coordinates>
+</Point>
+<description>Невско-Василеостровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Озерки</name>
+<Placemark>
+<name>Озерки</name>
+<Point>
+<coordinates>30.321389,60.037132</coordinates>
+</Point>
+<description>Московско-Петроградская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Парк Победы</name>
+<Placemark>
+<name>Парк Победы</name>
+<Point>
+<coordinates>30.321733,59.866376</coordinates>
+</Point>
+<description>Московско-Петроградская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Петроградская</name>
+<Placemark>
+<name>Петроградская</name>
+<Point>
+<coordinates>30.311559,59.966196</coordinates>
+</Point>
+<description>Московско-Петроградская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Пионерская</name>
+<Placemark>
+<name>Пионерская</name>
+<Point>
+<coordinates>30.296346,60.002388</coordinates>
+</Point>
+<description>Московско-Петроградская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Площадь Александра Невского</name>
+<Placemark>
+<name>Площадь Александра Невского</name>
+<Point>
+<coordinates>30.384779,59.924339</coordinates>
+</Point>
+<description>Невско-Василеостровская линия</description>
+</Placemark>
+<Placemark>
+<name>Площадь Александра Невского</name>
+<Point>
+<coordinates>30.383325,59.923546</coordinates>
+</Point>
+<description>Правобережная линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Площадь Восстания</name>
+<Placemark>
+<name>Площадь Восстания</name>
+<Point>
+<coordinates>30.3605,59.931577</coordinates>
+</Point>
+<description>Кировско-Выборгская линия</description>
+</Placemark>
+<Placemark>
+<name>Площадь Восстания</name>
+<Point>
+<coordinates>30.360981,59.929899</coordinates>
+</Point>
+<description>Кировско-Выборгская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Площадь Ленина</name>
+<Placemark>
+<name>Площадь Ленина</name>
+<Point>
+<coordinates>30.354834,59.958657</coordinates>
+</Point>
+<description>Кировско-Выборгская линия</description>
+</Placemark>
+<Placemark>
+<name>Площадь Ленина</name>
+<Point>
+<coordinates>30.356211,59.955483</coordinates>
+</Point>
+<description>Кировско-Выборгская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Площадь Мужества</name>
+<Placemark>
+<name>Площадь Мужества</name>
+<Point>
+<coordinates>30.36601,59.99944</coordinates>
+</Point>
+<description>Кировско-Выборгская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Политехническая</name>
+<Placemark>
+<name>Политехническая</name>
+<Point>
+<coordinates>30.370824,60.008905</coordinates>
+</Point>
+<description>Кировско-Выборгская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Проспект Большевиков</name>
+<Placemark>
+<name>Проспект Большевиков</name>
+<Point>
+<coordinates>30.466699,59.919796</coordinates>
+</Point>
+<description>Правобережная линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Проспект Ветеранов</name>
+<Placemark>
+<name>Проспект Ветеранов</name>
+<Point>
+<coordinates>30.249393,59.842634</coordinates>
+</Point>
+<description>Кировско-Выборгская линия</description>
+</Placemark>
+<Placemark>
+<name>Проспект Ветеранов</name>
+<Point>
+<coordinates>30.254342,59.841779</coordinates>
+</Point>
+<description>Кировско-Выборгская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Проспект Просвещения</name>
+<Placemark>
+<name>Проспект Просвещения</name>
+<Point>
+<coordinates>30.33235,60.051404</coordinates>
+</Point>
+<description>Московско-Петроградская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Приморская</name>
+<Placemark>
+<name>Приморская</name>
+<Point>
+<coordinates>30.234443,59.948443</coordinates>
+</Point>
+<description>Невско-Василеостровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Пролетарская</name>
+<Placemark>
+<name>Пролетарская</name>
+<Point>
+<coordinates>30.470233,59.865194</coordinates>
+</Point>
+<description>Невско-Василеостровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Пушкинская</name>
+<Placemark>
+<name>Пушкинская</name>
+<Point>
+<coordinates>30.329694,59.920591</coordinates>
+</Point>
+<description>Кировско-Выборгская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Рыбацкое</name>
+<Placemark>
+<name>Рыбацкое</name>
+<Point>
+<coordinates>30.50022,59.830837</coordinates>
+</Point>
+<description>Невско-Василеостровская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Садовая</name>
+<Placemark>
+<name>Садовая</name>
+<Point>
+<coordinates>30.317672,59.926548</coordinates>
+</Point>
+<description>Фрунзенско-Приморская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Сенная площадь</name>
+<Placemark>
+<name>Сенная площадь</name>
+<Point>
+<coordinates>30.320327,59.92698</coordinates>
+</Point>
+<description>Московско-Петроградская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Спортивная</name>
+<Placemark>
+<name>Спортивная</name>
+<Point>
+<coordinates>30.290521,59.951951</coordinates>
+</Point>
+<description>Фрунзенско-Приморская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Старая Деревня</name>
+<Placemark>
+<name>Старая Деревня</name>
+<Point>
+<coordinates>30.25495,59.989581</coordinates>
+</Point>
+<description>Фрунзенско-Приморская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Технологический институт</name>
+<Placemark>
+<name>Технологический институт</name>
+<Point>
+<coordinates>30.318577,59.916506</coordinates>
+</Point>
+<description>Кировско-Выборгская и Московско-Петроградская линии</description>
+</Placemark>
+</Folder>
+<Folder><name>Удельная</name>
+<Placemark>
+<name>Удельная</name>
+<Point>
+<coordinates>30.315572,60.016645</coordinates>
+</Point>
+<description>Московско-Петроградская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Улица Дыбенко</name>
+<Placemark>
+<name>Улица Дыбенко</name>
+<Point>
+<coordinates>30.483285,59.907352</coordinates>
+</Point>
+<description>Правобережная линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Фрунзенская</name>
+<Placemark>
+<name>Фрунзенская</name>
+<Point>
+<coordinates>30.317666,59.906209</coordinates>
+</Point>
+<description>Московско-Петроградская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Черная Речка</name>
+<Placemark>
+<name>Черная Речка</name>
+<Point>
+<coordinates>30.300653,59.985336</coordinates>
+</Point>
+<description>Московско-Петроградская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Чернышевская</name>
+<Placemark>
+<name>Чернышевская</name>
+<Point>
+<coordinates>30.359741,59.944504</coordinates>
+</Point>
+<description>Кировско-Выборгская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Чкаловская</name>
+<Placemark>
+<name>Чкаловская</name>
+<Point>
+<coordinates>30.291765,59.960895</coordinates>
+</Point>
+<description>Фрунзенско-Приморская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Электросила</name>
+<Placemark>
+<name>Электросила</name>
+<Point>
+<coordinates>30.3187,59.879147</coordinates>
+</Point>
+<description>Московско-Петроградская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Театральная</name>
+<Placemark>
+<name>Театральная</name>
+<Point>
+<coordinates>***</coordinates>
+</Point>
+<description>Правобережная линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Спасская</name>
+<Placemark>
+<name>Спасская</name>
+<Point>
+<coordinates>30.319866,59.92649</coordinates>
+</Point>
+<description>Правобережная линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Парнас</name>
+<Placemark>
+<name>Парнас</name>
+<Point>
+<coordinates>30.33426,60.067298</coordinates>
+</Point>
+<description>Московско-Петроградская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Комендантский проспект</name>
+<Placemark>
+<name>Комендантский проспект</name>
+<Point>
+<coordinates>30.258923,60.00877</coordinates>
+</Point>
+<description>Фрунзенско-Приморская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Звенигородская</name>
+<Placemark>
+<name>Звенигородская</name>
+<Point>
+<coordinates>30.335631,59.922282</coordinates>
+</Point>
+<description>Фрунзенско-Приморская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Волковская</name>
+<Placemark>
+<name>Волковская</name>
+<Point>
+<coordinates>30.35754,59.896022</coordinates>
+</Point>
+<description>Фрунзенско-Приморская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Бухарестская</name>
+<Placemark>
+<name>Бухарестская</name>
+<Point>
+<coordinates>***</coordinates>
+</Point>
+<description>Фрунзенско-Приморская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Международная</name>
+<Placemark>
+<name>Международная</name>
+<Point>
+<coordinates>***</coordinates>
+</Point>
+<description>Фрунзенско-Приморская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Проспект Славы</name>
+<Placemark>
+<name>Проспект Славы</name>
+<Point>
+<coordinates>***</coordinates>
+</Point>
+<description>Фрунзенско-Приморская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Дунайская</name>
+<Placemark>
+<name>Дунайская</name>
+<Point>
+<coordinates>***</coordinates>
+</Point>
+<description>Фрунзенско-Приморская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Южная</name>
+<Placemark>
+<name>Южная</name>
+<Point>
+<coordinates>***</coordinates>
+</Point>
+<description>Фрунзенско-Приморская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Народная</name>
+<Placemark>
+<name>Народная</name>
+<Point>
+<coordinates>***</coordinates>
+</Point>
+<description>Правобережная линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Обводный канал</name>
+<Placemark>
+<name>Обводный канал</name>
+<Point>
+<coordinates>30.349636,59.914583</coordinates>
+</Point>
+<description>Фрунзенско-Приморская линия</description>
+</Placemark>
+</Folder>
+<Folder><name>Адмиралтейская</name>
+<Placemark>
+<name>Адмиралтейская</name>
+<Point>
+<coordinates>***</coordinates>
+</Point>
+<description>Фрунзенско-Приморская и Невско-Василеостровская линии</description>
+</Placemark>
+</Folder>
+</Folder>
+</Document>
+</kml>

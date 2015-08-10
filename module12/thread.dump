@@ -1,0 +1,1860 @@
+2015-08-07 09:59:35
+Full thread dump Java HotSpot(TM) 64-Bit Server VM (20.45-b01 mixed mode):
+
+"Attach Listener" daemon prio=10 tid=0x00007ff8380bb800 nid=0x75d4 runnable [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+"ajp-/10.27.24.50:8009-140" daemon prio=10 tid=0x00007ff854310800 nid=0x349f runnable [0x00007ff823dbc000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-139" daemon prio=10 tid=0x00007ff85430e800 nid=0x349e runnable [0x00007ff823ebd000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-138" daemon prio=10 tid=0x00007ff854241000 nid=0x349d runnable [0x00007ff823fbe000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-137" daemon prio=10 tid=0x00007ff85423f800 nid=0x349c runnable [0x00007ff8240bf000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-136" daemon prio=10 tid=0x00007ff85423e000 nid=0x349b runnable [0x00007ff8241c0000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-135" daemon prio=10 tid=0x00007ff85423d000 nid=0x349a runnable [0x00007ff8242c1000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-134" daemon prio=10 tid=0x00007ff85423b800 nid=0x5d2f in Object.wait() [0x00007ff8244c3000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Object.java:485)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.await(JIoEndpoint.java:875)
+	- locked <0x0000000786764b48> (a org.apache.tomcat.util.net.JIoEndpoint$Worker)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:901)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-133" daemon prio=10 tid=0x00007ff85423a000 nid=0x5d2e runnable [0x00007ff8245c4000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-132" daemon prio=10 tid=0x00007ff854238800 nid=0x5d26 runnable [0x00007ff8246c5000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-131" daemon prio=10 tid=0x00007ff8540d6800 nid=0x543f runnable [0x00007ff8247c6000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-130" daemon prio=10 tid=0x00007ff8540d5000 nid=0x543e runnable [0x00007ff8248c7000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-129" daemon prio=10 tid=0x00007ff8540d3800 nid=0x543d runnable [0x00007ff8249c8000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-128" daemon prio=10 tid=0x00007ff8540d2000 nid=0x543c runnable [0x00007ff824ac9000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-127" daemon prio=10 tid=0x00007ff8540d0800 nid=0x5434 runnable [0x00007ff824bca000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-126" daemon prio=10 tid=0x00007ff8540cf000 nid=0x5433 runnable [0x00007ff824ccb000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-125" daemon prio=10 tid=0x00007ff8540cd800 nid=0x5432 runnable [0x00007ff824dcc000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-124" daemon prio=10 tid=0x00007ff8540e2000 nid=0x5431 runnable [0x00007ff824ecd000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-123" daemon prio=10 tid=0x00007ff8540e0800 nid=0x5430 runnable [0x00007ff824fce000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-122" daemon prio=10 tid=0x00007ff8540df000 nid=0x5423 in Object.wait() [0x00007ff8250cf000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Object.java:485)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.await(JIoEndpoint.java:875)
+	- locked <0x000000078676b938> (a org.apache.tomcat.util.net.JIoEndpoint$Worker)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:901)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-121" daemon prio=10 tid=0x00007ff8540dd800 nid=0x5422 runnable [0x00007ff8251d0000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-120" daemon prio=10 tid=0x00007ff8540db800 nid=0x5421 runnable [0x00007ff8252d1000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-119" daemon prio=10 tid=0x00007ff8540d9800 nid=0x5420 runnable [0x00007ff8253d2000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-118" daemon prio=10 tid=0x00007ff8540d8000 nid=0x541f runnable [0x00007ff8254d3000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-117" daemon prio=10 tid=0x00007ff854511800 nid=0x541e runnable [0x00007ff8255d4000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-116" daemon prio=10 tid=0x00007ff85450f800 nid=0x541d in Object.wait() [0x00007ff8256d5000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Object.java:485)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.await(JIoEndpoint.java:875)
+	- locked <0x000000078676bea0> (a org.apache.tomcat.util.net.JIoEndpoint$Worker)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:901)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-115" daemon prio=10 tid=0x00007ff85450e000 nid=0x541c runnable [0x00007ff8257d6000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-114" daemon prio=10 tid=0x00007ff85450c800 nid=0x541b in Object.wait() [0x00007ff8258d7000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Object.java:485)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.await(JIoEndpoint.java:875)
+	- locked <0x000000078676c028> (a org.apache.tomcat.util.net.JIoEndpoint$Worker)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:901)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-113" daemon prio=10 tid=0x00007ff85450b000 nid=0x53fe runnable [0x00007ff8259d8000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-112" daemon prio=10 tid=0x00007ff854509800 nid=0x53fd in Object.wait() [0x00007ff825ad9000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Object.java:485)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.await(JIoEndpoint.java:875)
+	- locked <0x000000078676c1b0> (a org.apache.tomcat.util.net.JIoEndpoint$Worker)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:901)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-111" daemon prio=10 tid=0x00007ff854508800 nid=0x53fc runnable [0x00007ff825bda000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-110" daemon prio=10 tid=0x00007ff854388000 nid=0x53fb runnable [0x00007ff825cdb000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-109" daemon prio=10 tid=0x00007ff854386800 nid=0x53fa in Object.wait() [0x00007ff825ddc000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Object.java:485)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.await(JIoEndpoint.java:875)
+	- locked <0x0000000786770600> (a org.apache.tomcat.util.net.JIoEndpoint$Worker)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:901)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-108" daemon prio=10 tid=0x00007ff854385000 nid=0x53f9 runnable [0x00007ff825edd000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-107" daemon prio=10 tid=0x00007ff854383800 nid=0x53f8 in Object.wait() [0x00007ff825fde000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Object.java:485)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.await(JIoEndpoint.java:875)
+	- locked <0x0000000786772870> (a org.apache.tomcat.util.net.JIoEndpoint$Worker)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:901)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-106" daemon prio=10 tid=0x00007ff854382000 nid=0x53f0 runnable [0x00007ff8260df000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-105" daemon prio=10 tid=0x00007ff854380800 nid=0x51f7 runnable [0x00007ff8261e0000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-104" daemon prio=10 tid=0x00007ff85437f000 nid=0x51f6 runnable [0x00007ff8262e1000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-103" daemon prio=10 tid=0x00007ff8544f5800 nid=0x51f5 runnable [0x00007ff8263e2000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-102" daemon prio=10 tid=0x00007ff8544f3800 nid=0x51d8 runnable [0x00007ff8264e3000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-101" daemon prio=10 tid=0x00007ff8544f1800 nid=0x51d7 runnable [0x00007ff8265e4000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-100" daemon prio=10 tid=0x00007ff8544f0000 nid=0x51d6 runnable [0x00007ff8266e5000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-99" daemon prio=10 tid=0x00007ff8544ee800 nid=0x51d5 runnable [0x00007ff8267e6000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-98" daemon prio=10 tid=0x00007ff8544ed000 nid=0x51c8 runnable [0x00007ff8268e7000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-97" daemon prio=10 tid=0x00007ff85417a000 nid=0x51c7 runnable [0x00007ff8269e8000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-96" daemon prio=10 tid=0x00007ff854178800 nid=0x51c6 in Object.wait() [0x00007ff826ae9000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Object.java:485)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.await(JIoEndpoint.java:875)
+	- locked <0x0000000792f939f0> (a org.apache.tomcat.util.net.JIoEndpoint$Worker)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:901)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-95" daemon prio=10 tid=0x00007ff854177000 nid=0x51c4 runnable [0x00007ff826bea000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-94" daemon prio=10 tid=0x00007ff854175800 nid=0x51c3 runnable [0x00007ff826ceb000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-93" daemon prio=10 tid=0x00007ff854174000 nid=0x51c2 in Object.wait() [0x00007ff826dec000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Object.java:485)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.await(JIoEndpoint.java:875)
+	- locked <0x0000000792f95cf0> (a org.apache.tomcat.util.net.JIoEndpoint$Worker)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:901)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-92" daemon prio=10 tid=0x00007ff854172000 nid=0x51c1 runnable [0x00007ff826eed000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-91" daemon prio=10 tid=0x00007ff854170000 nid=0x51c0 runnable [0x00007ff826fee000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-90" daemon prio=10 tid=0x00007ff854285800 nid=0x51bf runnable [0x00007ff8270ef000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-89" daemon prio=10 tid=0x00007ff854283800 nid=0x51be runnable [0x00007ff8271f0000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-88" daemon prio=10 tid=0x00007ff854281800 nid=0x51bd runnable [0x00007ff8272f1000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-87" daemon prio=10 tid=0x00007ff85427f800 nid=0x51b5 runnable [0x00007ff8273f2000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-86" daemon prio=10 tid=0x00007ff85427d800 nid=0x51b4 runnable [0x00007ff8274f3000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-85" daemon prio=10 tid=0x00007ff8542b3000 nid=0x51b3 runnable [0x00007ff8275f4000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-84" daemon prio=10 tid=0x00007ff8542b1000 nid=0x51b2 runnable [0x00007ff8276f5000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-83" daemon prio=10 tid=0x00007ff8542af000 nid=0x51b1 runnable [0x00007ff8277f6000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-82" daemon prio=10 tid=0x00007ff8542ad000 nid=0x51a9 runnable [0x00007ff8278f7000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-81" daemon prio=10 tid=0x00007ff8542ab000 nid=0x51a8 runnable [0x00007ff8279f8000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-80" daemon prio=10 tid=0x00007ff8542a9800 nid=0x51a7 runnable [0x00007ff827af9000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-79" daemon prio=10 tid=0x00007ff8542d5000 nid=0x51a6 runnable [0x00007ff827bfa000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-78" daemon prio=10 tid=0x00007ff8542d3000 nid=0x51a5 runnable [0x00007ff827cfb000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-77" daemon prio=10 tid=0x00007ff8542d1000 nid=0x51a4 in Object.wait() [0x00007ff827dfc000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Object.java:485)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.await(JIoEndpoint.java:875)
+	- locked <0x0000000792fab108> (a org.apache.tomcat.util.net.JIoEndpoint$Worker)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:901)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-76" daemon prio=10 tid=0x00007ff8542cf000 nid=0x51a3 runnable [0x00007ff827efd000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-75" daemon prio=10 tid=0x00007ff8542cd000 nid=0x51a2 runnable [0x00007ff827ffe000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-74" daemon prio=10 tid=0x00007ff8542f6800 nid=0x51a1 runnable [0x00007ff82c107000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-73" daemon prio=10 tid=0x00007ff8542f4800 nid=0x5199 runnable [0x00007ff82c208000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-72" daemon prio=10 tid=0x00007ff8542f2800 nid=0x5198 runnable [0x00007ff82c309000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-71" daemon prio=10 tid=0x00007ff8542f0800 nid=0x5197 runnable [0x00007ff82c40a000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-70" daemon prio=10 tid=0x00007ff8542ee800 nid=0x5196 runnable [0x00007ff82c50b000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-69" daemon prio=10 tid=0x00007ff85430d000 nid=0x5195 runnable [0x00007ff82c60c000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-68" daemon prio=10 tid=0x00007ff85430b000 nid=0x5194 runnable [0x00007ff82c70d000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-67" daemon prio=10 tid=0x00007ff854309000 nid=0x518c runnable [0x00007ff82c80e000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-66" daemon prio=10 tid=0x00007ff854307000 nid=0x518b runnable [0x00007ff82c90f000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-65" daemon prio=10 tid=0x00007ff854305000 nid=0x518a runnable [0x00007ff82ca10000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-64" daemon prio=10 tid=0x00007ff854303000 nid=0x5189 runnable [0x00007ff82cb11000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-63" daemon prio=10 tid=0x00007ff85433f800 nid=0x5188 runnable [0x00007ff82cc12000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-62" daemon prio=10 tid=0x00007ff85433d800 nid=0x5187 runnable [0x00007ff82cd13000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-61" daemon prio=10 tid=0x00007ff85433b800 nid=0x5186 runnable [0x00007ff82ce14000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-60" daemon prio=10 tid=0x00007ff854339800 nid=0x517e runnable [0x00007ff82cf15000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-59" daemon prio=10 tid=0x00007ff854338000 nid=0x517d runnable [0x00007ff82d016000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-58" daemon prio=10 tid=0x00007ff854371800 nid=0x517c in Object.wait() [0x00007ff82d117000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Object.java:485)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.await(JIoEndpoint.java:875)
+	- locked <0x0000000792fcceb0> (a org.apache.tomcat.util.net.JIoEndpoint$Worker)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:901)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-57" daemon prio=10 tid=0x00007ff854370800 nid=0x517b runnable [0x00007ff82d218000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-56" daemon prio=10 tid=0x00007ff85436f800 nid=0x517a runnable [0x00007ff82d319000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-55" daemon prio=10 tid=0x00007ff85436e000 nid=0x5179 runnable [0x00007ff82d41a000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-54" daemon prio=10 tid=0x00007ff85436c800 nid=0x5178 runnable [0x00007ff82d51b000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-53" daemon prio=10 tid=0x00007ff85436b000 nid=0x5170 runnable [0x00007ff82d61c000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-52" daemon prio=10 tid=0x00007ff854369800 nid=0x516f runnable [0x00007ff82d71d000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-51" daemon prio=10 tid=0x00007ff854368000 nid=0x516e runnable [0x00007ff82d81e000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-50" daemon prio=10 tid=0x00007ff854542000 nid=0x516d runnable [0x00007ff82d91f000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-49" daemon prio=10 tid=0x00007ff854540800 nid=0x516c runnable [0x00007ff82da20000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-48" daemon prio=10 tid=0x00007ff85453f000 nid=0x516b runnable [0x00007ff82e83e000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-47" daemon prio=10 tid=0x00007ff85453d800 nid=0x516a runnable [0x00007ff82f4f3000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-46" daemon prio=10 tid=0x00007ff85453c800 nid=0x5169 runnable [0x00007ff82f9f8000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-45" daemon prio=10 tid=0x00007ff85453b800 nid=0x5161 runnable [0x00007ff82fbfa000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-44" daemon prio=10 tid=0x00007ff854467800 nid=0x5160 runnable [0x00007ff82fdfc000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-43" daemon prio=10 tid=0x00007ff854466000 nid=0x515f runnable [0x00007ff82fefd000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-42" daemon prio=10 tid=0x00007ff854464800 nid=0x515e in Object.wait() [0x00007ff82f6f5000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Object.java:485)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.await(JIoEndpoint.java:875)
+	- locked <0x0000000792fe8720> (a org.apache.tomcat.util.net.JIoEndpoint$Worker)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:901)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-41" daemon prio=10 tid=0x00007ff854463000 nid=0x515d runnable [0x00007ff82fcfb000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-40" daemon prio=10 tid=0x00007ff854462000 nid=0x5155 runnable [0x00007ff82faf9000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-39" daemon prio=10 tid=0x00007ff854461800 nid=0x5154 runnable [0x00007ff82f5f4000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-38" daemon prio=10 tid=0x00007ff854460800 nid=0x5153 runnable [0x00007ff83d4d2000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-37" daemon prio=10 tid=0x00007ff8541f6800 nid=0x5152 in Object.wait() [0x00007ff82f8f7000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Object.java:485)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.await(JIoEndpoint.java:875)
+	- locked <0x0000000792ff3080> (a org.apache.tomcat.util.net.JIoEndpoint$Worker)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:901)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-36" daemon prio=10 tid=0x00007ff8541f5800 nid=0x5151 in Object.wait() [0x00007ff83cbf3000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Object.java:485)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.await(JIoEndpoint.java:875)
+	- locked <0x0000000792ff5260> (a org.apache.tomcat.util.net.JIoEndpoint$Worker)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:901)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-35" daemon prio=10 tid=0x00007ff8541f4800 nid=0x5124 runnable [0x00007ff83caf2000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-34" daemon prio=10 tid=0x00007ff8541f3800 nid=0x5123 runnable [0x00007ff82f7f6000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-33" daemon prio=10 tid=0x00007ff8541f2800 nid=0x5122 runnable [0x00007ff82fffe000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-32" daemon prio=10 tid=0x00007ff8541f1000 nid=0x5121 runnable [0x00007ff83d8ea000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-31" daemon prio=10 tid=0x00007ff8541ef800 nid=0x5120 runnable [0x00007ff83de6a000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-30" daemon prio=10 tid=0x00007ff854529800 nid=0x5056 runnable [0x00007ff83e16d000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-29" daemon prio=10 tid=0x00007ff854528000 nid=0x5055 runnable [0x00007ff8504f4000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-28" daemon prio=10 tid=0x00007ff854527000 nid=0x5044 runnable [0x00007ff83dc68000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-27" daemon prio=10 tid=0x00007ff854525800 nid=0x5043 runnable [0x00007ff8503f3000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-26" daemon prio=10 tid=0x00007ff854524000 nid=0x5042 runnable [0x00007ff83cfca000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-25" daemon prio=10 tid=0x00007ff854523000 nid=0x5041 runnable [0x00007ff8507f7000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-24" daemon prio=10 tid=0x00007ff85421b800 nid=0x5040 runnable [0x00007ff83d9eb000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-23" daemon prio=10 tid=0x00007ff85421a800 nid=0x5038 runnable [0x00007ff83ce9d000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"pool-5-thread-1" prio=10 tid=0x00007ff8489ae800 nid=0x5022 waiting on condition [0x00007ff83d5db000]
+   java.lang.Thread.State: WAITING (parking)
+	at sun.misc.Unsafe.park(Native Method)
+	- parking to wait for  <0x000000078eff2020> (a java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject)
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:156)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1987)
+	at java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:399)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:957)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:917)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-22" daemon prio=10 tid=0x00007ff85421a000 nid=0x5021 runnable [0x00007ff850dfd000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-21" daemon prio=10 tid=0x00007ff854218800 nid=0x5020 runnable [0x00007ff83df6b000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-20" daemon prio=10 tid=0x00007ff854217000 nid=0x501f in Object.wait() [0x00007ff8502f2000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Object.java:485)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.await(JIoEndpoint.java:875)
+	- locked <0x000000078eff85b0> (a org.apache.tomcat.util.net.JIoEndpoint$Worker)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:901)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-19" daemon prio=10 tid=0x00007ff854215800 nid=0x5009 runnable [0x00007ff83d1cc000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-18" daemon prio=10 tid=0x00007ff854065000 nid=0x5008 runnable [0x00007ff83d7e9000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-17" daemon prio=10 tid=0x00007ff854063800 nid=0x5007 in Object.wait() [0x00007ff8508f8000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Object.java:485)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.await(JIoEndpoint.java:875)
+	- locked <0x000000078effeb50> (a org.apache.tomcat.util.net.JIoEndpoint$Worker)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:901)
+	at java.lang.Thread.run(Thread.java:662)
+
+"persistence-thread-0" daemon prio=10 tid=0x00007ff844188800 nid=0x4fff waiting on condition [0x00007ff8501b3000]
+   java.lang.Thread.State: WAITING (parking)
+	at sun.misc.Unsafe.park(Native Method)
+	- parking to wait for  <0x000000078effebe0> (a java.util.concurrent.SynchronousQueue$TransferStack)
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:156)
+	at java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:422)
+	at java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:323)
+	at java.util.concurrent.SynchronousQueue.take(SynchronousQueue.java:857)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:957)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:917)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-16" daemon prio=10 tid=0x00007ff854060800 nid=0x4ffe runnable [0x00007ff82e53b000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-15" daemon prio=10 tid=0x00007ff854063000 nid=0x4ff4 runnable [0x00007ff8505f5000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"Scheduled-EvictionThread-0" daemon prio=10 tid=0x00007ff848608000 nid=0x4ff3 waiting on condition [0x00007ff83db67000]
+   java.lang.Thread.State: TIMED_WAITING (parking)
+	at sun.misc.Unsafe.park(Native Method)
+	- parking to wait for  <0x000000078f003050> (a java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject)
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:196)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2025)
+	at java.util.concurrent.DelayQueue.take(DelayQueue.java:164)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:609)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:602)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:957)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:917)
+	at java.lang.Thread.run(Thread.java:662)
+
+"AsyncStoreCoordinator-messages" daemon prio=10 tid=0x00007ff84841f800 nid=0x4ff2 waiting on condition [0x00007ff83d3d1000]
+   java.lang.Thread.State: WAITING (parking)
+	at sun.misc.Unsafe.park(Native Method)
+	- parking to wait for  <0x000000078f0031b8> (a org.infinispan.persistence.async.BufferLock$Available)
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:156)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:811)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer.doAcquireShared(AbstractQueuedSynchronizer.java:941)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireShared(AbstractQueuedSynchronizer.java:1261)
+	at org.infinispan.persistence.async.BufferLock.readLock(BufferLock.java:162)
+	at org.infinispan.persistence.async.AsyncCacheWriter$AsyncStoreCoordinator.run(AsyncCacheWriter.java:200)
+	at java.lang.Thread.run(Thread.java:662)
+
+"TxCleanupService,messages,local" daemon prio=10 tid=0x00007ff84841d000 nid=0x4ff1 waiting on condition [0x00007ff83d0cb000]
+   java.lang.Thread.State: TIMED_WAITING (parking)
+	at sun.misc.Unsafe.park(Native Method)
+	- parking to wait for  <0x000000078f0032d0> (a java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject)
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:196)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2025)
+	at java.util.concurrent.DelayQueue.take(DelayQueue.java:164)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:609)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:602)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:957)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:917)
+	at java.lang.Thread.run(Thread.java:662)
+
+"http-/10.27.24.50:8080-1" daemon prio=10 tid=0x00007ff84404b000 nid=0x4fef in Object.wait() [0x00007ff83d2cd000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Object.java:485)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.await(JIoEndpoint.java:875)
+	- locked <0x000000078f003438> (a org.apache.tomcat.util.net.JIoEndpoint$Worker)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:901)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-14" daemon prio=10 tid=0x00007ff854062000 nid=0x4fe0 runnable [0x00007ff83dd69000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-13" daemon prio=10 tid=0x00007ff854061000 nid=0x4fdf runnable [0x00007ff83e06c000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-12" daemon prio=10 tid=0x00007ff854227000 nid=0x4fde in Object.wait() [0x00007ff83c8f0000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Object.java:485)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.await(JIoEndpoint.java:875)
+	- locked <0x000000078e20a0a0> (a org.apache.tomcat.util.net.JIoEndpoint$Worker)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:901)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-11" daemon prio=10 tid=0x00007ff854226000 nid=0x4fdd runnable [0x00007ff8506f6000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-10" daemon prio=10 tid=0x00007ff854225000 nid=0x4fdc runnable [0x00007ff82e63c000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-9" daemon prio=10 tid=0x00007ff85405e000 nid=0x4fca runnable [0x00007ff82db21000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-8" daemon prio=10 tid=0x00007ff85411d800 nid=0x4fc9 runnable [0x00007ff82dc22000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-7" daemon prio=10 tid=0x00007ff85411c000 nid=0x4fc8 runnable [0x00007ff82dd23000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-6" daemon prio=10 tid=0x00007ff85411a800 nid=0x4fc7 runnable [0x00007ff82de24000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-5" daemon prio=10 tid=0x00007ff85411a000 nid=0x4fc6 runnable [0x00007ff850ffe000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-4" daemon prio=10 tid=0x00007ff854118000 nid=0x4fc2 runnable [0x00007ff82df25000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-3" daemon prio=10 tid=0x00007ff854116800 nid=0x4fc1 in Object.wait() [0x00007ff82e026000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Object.java:485)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.await(JIoEndpoint.java:875)
+	- locked <0x000000078aaaf208> (a org.apache.tomcat.util.net.JIoEndpoint$Worker)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:901)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-2" daemon prio=10 tid=0x00007ff854125800 nid=0x4fc0 runnable [0x00007ff82e127000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at org.apache.coyote.ajp.AjpProcessor.read(AjpProcessor.java:1114)
+	at org.apache.coyote.ajp.AjpProcessor.readMessage(AjpProcessor.java:1196)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:436)
+	at org.apache.coyote.ajp.AjpProtocol$AjpConnectionHandler.process(AjpProtocol.java:420)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:920)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-1" daemon prio=10 tid=0x00007ff854569000 nid=0x4fbf in Object.wait() [0x00007ff82e238000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Object.java:485)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.await(JIoEndpoint.java:875)
+	- locked <0x000000078aab35c8> (a org.apache.tomcat.util.net.JIoEndpoint$Worker)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:901)
+	at java.lang.Thread.run(Thread.java:662)
+
+"Transaction Reaper Worker 0" daemon prio=10 tid=0x00007ff83013a800 nid=0x4fbe in Object.wait() [0x00007ff82e339000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	- waiting on <0x000000078aab3660> (a java.util.LinkedList)
+	at java.lang.Object.wait(Object.java:485)
+	at com.arjuna.ats.arjuna.coordinator.TransactionReaper.waitForCancellations(TransactionReaper.java:321)
+	- locked <0x000000078aab3660> (a java.util.LinkedList)
+	at com.arjuna.ats.internal.arjuna.coordinator.ReaperWorkerThread.run(ReaperWorkerThread.java:65)
+
+"Transaction Reaper" daemon prio=10 tid=0x00007ff830139800 nid=0x4fbd in Object.wait() [0x00007ff82e43a000]
+   java.lang.Thread.State: TIMED_WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	- waiting on <0x000000078aab3678> (a com.arjuna.ats.arjuna.coordinator.TransactionReaper)
+	at com.arjuna.ats.internal.arjuna.coordinator.ReaperThread.run(ReaperThread.java:90)
+	- locked <0x000000078aab3678> (a com.arjuna.ats.arjuna.coordinator.TransactionReaper)
+
+"Periodic Recovery" prio=10 tid=0x00007ff830b54000 nid=0x4fb7 in Object.wait() [0x00007ff82e73d000]
+   java.lang.Thread.State: TIMED_WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	at com.arjuna.ats.internal.arjuna.recovery.PeriodicRecovery.doPeriodicWait(PeriodicRecovery.java:672)
+	at com.arjuna.ats.internal.arjuna.recovery.PeriodicRecovery.run(PeriodicRecovery.java:392)
+	- locked <0x000000078aab37d8> (a java.lang.Object)
+
+"Transaction Expired Entry Monitor" daemon prio=10 tid=0x00007ff83034f000 nid=0x4fb5 in Object.wait() [0x00007ff82e94e000]
+   java.lang.Thread.State: TIMED_WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	at com.arjuna.ats.internal.arjuna.recovery.ExpiredEntryMonitor.run(ExpiredEntryMonitor.java:190)
+	- locked <0x000000078aab37e8> (a com.arjuna.ats.internal.arjuna.recovery.ExpiredEntryMonitor)
+
+"ajp-/10.27.24.50:8009-Acceptor-0" daemon prio=10 tid=0x00007ff8307d9800 nid=0x4fb4 runnable [0x00007ff82ea4f000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.PlainSocketImpl.socketAccept(Native Method)
+	at java.net.PlainSocketImpl.accept(PlainSocketImpl.java:408)
+	- locked <0x000000078aab38e8> (a java.net.SocksSocketImpl)
+	at java.net.ServerSocket.implAccept(ServerSocket.java:462)
+	at java.net.ServerSocket.accept(ServerSocket.java:430)
+	at org.apache.tomcat.util.net.DefaultServerSocketFactory.acceptSocket(DefaultServerSocketFactory.java:61)
+	at org.apache.tomcat.util.net.JIoEndpoint$Acceptor.run(JIoEndpoint.java:309)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ajp-/10.27.24.50:8009-Poller" daemon prio=10 tid=0x00007ff830182000 nid=0x4fb3 in Object.wait() [0x00007ff82eb50000]
+   java.lang.Thread.State: TIMED_WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	at org.apache.tomcat.util.net.JIoEndpoint$Poller.run(JIoEndpoint.java:732)
+	- locked <0x000000078aab3a08> (a org.apache.tomcat.util.net.JIoEndpoint$Poller)
+	at java.lang.Thread.run(Thread.java:662)
+
+"http-/10.27.24.50:8080-Acceptor-0" daemon prio=10 tid=0x00007ff83017e000 nid=0x4fb2 runnable [0x00007ff82ec51000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.PlainSocketImpl.socketAccept(Native Method)
+	at java.net.PlainSocketImpl.accept(PlainSocketImpl.java:408)
+	- locked <0x000000078aab3ab8> (a java.net.SocksSocketImpl)
+	at java.net.ServerSocket.implAccept(ServerSocket.java:462)
+	at java.net.ServerSocket.accept(ServerSocket.java:430)
+	at org.apache.tomcat.util.net.DefaultServerSocketFactory.acceptSocket(DefaultServerSocketFactory.java:61)
+	at org.apache.tomcat.util.net.JIoEndpoint$Acceptor.run(JIoEndpoint.java:309)
+	at java.lang.Thread.run(Thread.java:662)
+
+"http-/10.27.24.50:8080-Poller" daemon prio=10 tid=0x00007ff83075a800 nid=0x4fb0 in Object.wait() [0x00007ff82ed52000]
+   java.lang.Thread.State: TIMED_WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	at org.apache.tomcat.util.net.JIoEndpoint$Poller.run(JIoEndpoint.java:732)
+	- locked <0x000000078aab3c70> (a org.apache.tomcat.util.net.JIoEndpoint$Poller)
+	at java.lang.Thread.run(Thread.java:662)
+
+"Timer-0" prio=10 tid=0x00007ff830a8c000 nid=0x4fae in Object.wait() [0x00007ff82ee53000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	- waiting on <0x000000078aab3d10> (a java.util.TaskQueue)
+	at java.lang.Object.wait(Object.java:485)
+	at java.util.TimerThread.mainLoop(Timer.java:483)
+	- locked <0x000000078aab3d10> (a java.util.TaskQueue)
+	at java.util.TimerThread.run(Timer.java:462)
+
+"ContainerBackgroundProcessor[StandardEngine[jboss.web]]" daemon prio=10 tid=0x00007ff834238800 nid=0x4fab waiting on condition [0x00007ff82efc7000]
+   java.lang.Thread.State: TIMED_WAITING (sleeping)
+	at java.lang.Thread.sleep(Native Method)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1563)
+	at java.lang.Thread.run(Thread.java:662)
+
+"ConnectionValidator" daemon prio=10 tid=0x00007ff834a0a800 nid=0x4fa8 waiting on condition [0x00007ff82f0ef000]
+   java.lang.Thread.State: TIMED_WAITING (parking)
+	at sun.misc.Unsafe.park(Native Method)
+	- parking to wait for  <0x000000078aab3e28> (a java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject)
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:196)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2116)
+	at org.jboss.jca.core.connectionmanager.pool.validator.ConnectionValidator$ConnectionValidatorRunner.run(ConnectionValidator.java:263)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
+	at java.lang.Thread.run(Thread.java:662)
+
+"IdleRemover" daemon prio=10 tid=0x00007ff83048c000 nid=0x4fa7 waiting on condition [0x00007ff82f1f0000]
+   java.lang.Thread.State: TIMED_WAITING (parking)
+	at sun.misc.Unsafe.park(Native Method)
+	- parking to wait for  <0x000000078aab3f80> (a java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject)
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:196)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2116)
+	at org.jboss.jca.core.connectionmanager.pool.idle.IdleRemover$IdleRemoverRunner.run(IdleRemover.java:261)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
+	at java.lang.Thread.run(Thread.java:662)
+
+"Remoting "dv-lx-webchk-01:dv-lx-webchk-01" write-1" prio=10 tid=0x00007ff830775800 nid=0x4fa2 runnable [0x00007ff82f2f1000]
+   java.lang.Thread.State: RUNNABLE
+	at sun.nio.ch.EPollArrayWrapper.epollWait(Native Method)
+	at sun.nio.ch.EPollArrayWrapper.poll(EPollArrayWrapper.java:210)
+	at sun.nio.ch.EPollSelectorImpl.doSelect(EPollSelectorImpl.java:65)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:69)
+	- locked <0x000000078aab4108> (a sun.nio.ch.Util$2)
+	- locked <0x000000078aab4118> (a java.util.Collections$UnmodifiableSet)
+	- locked <0x000000078aab40c0> (a sun.nio.ch.EPollSelectorImpl)
+	at sun.nio.ch.SelectorImpl.select(SelectorImpl.java:80)
+	at sun.nio.ch.SelectorImpl.select(SelectorImpl.java:84)
+	at org.xnio.nio.WorkerThread.run(WorkerThread.java:153)
+
+"Remoting "dv-lx-webchk-01:dv-lx-webchk-01" read-1" prio=10 tid=0x00007ff83005e000 nid=0x4fa1 runnable [0x00007ff82f3f2000]
+   java.lang.Thread.State: RUNNABLE
+	at sun.nio.ch.EPollArrayWrapper.epollWait(Native Method)
+	at sun.nio.ch.EPollArrayWrapper.poll(EPollArrayWrapper.java:210)
+	at sun.nio.ch.EPollSelectorImpl.doSelect(EPollSelectorImpl.java:65)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:69)
+	- locked <0x000000078aab4268> (a sun.nio.ch.Util$2)
+	- locked <0x000000078aab4278> (a java.util.Collections$UnmodifiableSet)
+	- locked <0x000000078aab4220> (a sun.nio.ch.EPollSelectorImpl)
+	at sun.nio.ch.SelectorImpl.select(SelectorImpl.java:80)
+	at sun.nio.ch.SelectorImpl.select(SelectorImpl.java:84)
+	at org.xnio.nio.WorkerThread.run(WorkerThread.java:153)
+
+"Remoting "dv-lx-webchk-01:dv-lx-webchk-01:MANAGEMENT" task-4" prio=10 tid=0x00007ff83807b800 nid=0x4f66 waiting on condition [0x00007ff8509f9000]
+   java.lang.Thread.State: WAITING (parking)
+	at sun.misc.Unsafe.park(Native Method)
+	- parking to wait for  <0x000000078aab4330> (a java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject)
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:156)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1987)
+	at java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:399)
+	at org.xnio.LimitedBlockingQueue.take(LimitedBlockingQueue.java:95)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:957)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:917)
+	at java.lang.Thread.run(Thread.java:662)
+
+"Remoting "dv-lx-webchk-01:dv-lx-webchk-01:MANAGEMENT" task-3" prio=10 tid=0x00007ff838079800 nid=0x4f64 waiting on condition [0x00007ff850afa000]
+   java.lang.Thread.State: WAITING (parking)
+	at sun.misc.Unsafe.park(Native Method)
+	- parking to wait for  <0x000000078aab4330> (a java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject)
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:156)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1987)
+	at java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:399)
+	at org.xnio.LimitedBlockingQueue.take(LimitedBlockingQueue.java:95)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:957)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:917)
+	at java.lang.Thread.run(Thread.java:662)
+
+"Remoting "dv-lx-webchk-01:dv-lx-webchk-01:MANAGEMENT" task-2" prio=10 tid=0x00007ff838076000 nid=0x4f63 waiting on condition [0x00007ff850bfb000]
+   java.lang.Thread.State: WAITING (parking)
+	at sun.misc.Unsafe.park(Native Method)
+	- parking to wait for  <0x000000078aab4330> (a java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject)
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:156)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1987)
+	at java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:399)
+	at org.xnio.LimitedBlockingQueue.take(LimitedBlockingQueue.java:95)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:957)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:917)
+	at java.lang.Thread.run(Thread.java:662)
+
+"Remoting "dv-lx-webchk-01:dv-lx-webchk-01:MANAGEMENT" task-1" prio=10 tid=0x00007ff838056000 nid=0x4f62 waiting on condition [0x00007ff850cfc000]
+   java.lang.Thread.State: WAITING (parking)
+	at sun.misc.Unsafe.park(Native Method)
+	- parking to wait for  <0x000000078aab4330> (a java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject)
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:156)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1987)
+	at java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:399)
+	at org.xnio.LimitedBlockingQueue.take(LimitedBlockingQueue.java:95)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:957)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:917)
+	at java.lang.Thread.run(Thread.java:662)
+
+"Remoting "dv-lx-webchk-01:dv-lx-webchk-01:MANAGEMENT" write-1" prio=10 tid=0x00007ff8309ba800 nid=0x4f5b runnable [0x00007ff858144000]
+   java.lang.Thread.State: RUNNABLE
+	at sun.nio.ch.EPollArrayWrapper.epollWait(Native Method)
+	at sun.nio.ch.EPollArrayWrapper.poll(EPollArrayWrapper.java:210)
+	at sun.nio.ch.EPollSelectorImpl.doSelect(EPollSelectorImpl.java:65)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:69)
+	- locked <0x000000078aab4720> (a sun.nio.ch.Util$2)
+	- locked <0x000000078aab4710> (a java.util.Collections$UnmodifiableSet)
+	- locked <0x000000078aab4730> (a sun.nio.ch.EPollSelectorImpl)
+	at sun.nio.ch.SelectorImpl.select(SelectorImpl.java:80)
+	at org.xnio.nio.WorkerThread.run(WorkerThread.java:157)
+
+"Remoting "dv-lx-webchk-01:dv-lx-webchk-01:MANAGEMENT" read-1" prio=10 tid=0x00007ff830802800 nid=0x4f5a runnable [0x00007ff858245000]
+   java.lang.Thread.State: RUNNABLE
+	at sun.nio.ch.EPollArrayWrapper.epollWait(Native Method)
+	at sun.nio.ch.EPollArrayWrapper.poll(EPollArrayWrapper.java:210)
+	at sun.nio.ch.EPollSelectorImpl.doSelect(EPollSelectorImpl.java:65)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:69)
+	- locked <0x000000078aab4880> (a sun.nio.ch.Util$2)
+	- locked <0x000000078aab4870> (a java.util.Collections$UnmodifiableSet)
+	- locked <0x000000078aab4890> (a sun.nio.ch.EPollSelectorImpl)
+	at sun.nio.ch.SelectorImpl.select(SelectorImpl.java:80)
+	at sun.nio.ch.SelectorImpl.select(SelectorImpl.java:84)
+	at org.xnio.nio.WorkerThread.run(WorkerThread.java:153)
+
+"MSC service thread 1-2" prio=10 tid=0x00007ff834b93000 nid=0x4f59 waiting on condition [0x00007ff85844e000]
+   java.lang.Thread.State: WAITING (parking)
+	at sun.misc.Unsafe.park(Native Method)
+	- parking to wait for  <0x000000078aab4b70> (a java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject)
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:156)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1987)
+	at java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:399)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:957)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:917)
+	at java.lang.Thread.run(Thread.java:662)
+
+"MSC service thread 1-1" prio=10 tid=0x00007ff854516000 nid=0x4f58 waiting on condition [0x00007ff85854f000]
+   java.lang.Thread.State: WAITING (parking)
+	at sun.misc.Unsafe.park(Native Method)
+	- parking to wait for  <0x000000078aab4b70> (a java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject)
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:156)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1987)
+	at java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:399)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:957)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:917)
+	at java.lang.Thread.run(Thread.java:662)
+
+"Reference Reaper" daemon prio=10 tid=0x00007ff854107000 nid=0x4f51 in Object.wait() [0x00007ff858e36000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	- waiting on <0x000000078aab4cc0> (a java.lang.ref.ReferenceQueue$Lock)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:118)
+	- locked <0x000000078aab4cc0> (a java.lang.ref.ReferenceQueue$Lock)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:134)
+	at org.jboss.modules.ref.References$ReaperThread.run(References.java:68)
+
+"Low Memory Detector" daemon prio=10 tid=0x00007ff8540b0000 nid=0x4f4f runnable [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+"C2 CompilerThread1" daemon prio=10 tid=0x00007ff8540ad800 nid=0x4f4e waiting on condition [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+"C2 CompilerThread0" daemon prio=10 tid=0x00007ff8540ab800 nid=0x4f4d waiting on condition [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+"Signal Dispatcher" daemon prio=10 tid=0x00007ff8540a9800 nid=0x4f4c runnable [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+"Finalizer" daemon prio=10 tid=0x00007ff85408d000 nid=0x4f4b in Object.wait() [0x00007ff85943c000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:118)
+	- locked <0x000000078aab4f28> (a java.lang.ref.ReferenceQueue$Lock)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:134)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:171)
+
+"Reference Handler" daemon prio=10 tid=0x00007ff85408b000 nid=0x4f4a in Object.wait() [0x00007ff85953d000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Object.java:485)
+	at java.lang.ref.Reference$ReferenceHandler.run(Reference.java:116)
+	- locked <0x000000078aab4988> (a java.lang.ref.Reference$Lock)
+
+"main" prio=10 tid=0x00007ff854008000 nid=0x4f48 runnable [0x00007ff85ab39000]
+   java.lang.Thread.State: RUNNABLE
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(FileInputStream.java:220)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:237)
+	- locked <0x000000078aab70a8> (a java.io.BufferedInputStream)
+	at org.jboss.as.process.protocol.StreamUtils.readUTFChar(StreamUtils.java:243)
+	at org.jboss.as.process.protocol.StreamUtils.readUTFZBytes(StreamUtils.java:234)
+	at org.jboss.as.server.DomainServerMain.main(DomainServerMain.java:128)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.jboss.modules.Module.run(Module.java:292)
+	at org.jboss.modules.Main.main(Main.java:455)
+
+"VM Thread" prio=10 tid=0x00007ff854084000 nid=0x4f49 runnable 
+
+"VM Periodic Task Thread" prio=10 tid=0x00007ff8540bb000 nid=0x4f50 waiting on condition 
+
+JNI global references: 1748
+

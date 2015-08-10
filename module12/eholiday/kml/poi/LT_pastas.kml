@@ -1,0 +1,2931 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<name>Post_Office</name>
+<Placemark>
+<name>Vydmantų paštas</name>
+<Point>
+<coordinates>21.1413332223892,55.900644659996</coordinates>
+</Point>
+<address>Mokyklos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kretingalės paštas</name>
+<Point>
+<coordinates>21.1934114694595,55.8337119817734</coordinates>
+</Point>
+<address>Klaipėdos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kretingos paštas</name>
+<Point>
+<coordinates>21.2418886423111,55.8882468938828</coordinates>
+</Point>
+<address>Rotušės aikšte</address>
+</Placemark>
+<Placemark>
+<name>Darbėnų paštas</name>
+<Point>
+<coordinates>21.2572923898697,56.0245689153671</coordinates>
+</Point>
+<address>Skuodo gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kurmaičių paštas</name>
+<Point>
+<coordinates>21.2663255929947,55.9301398992538</coordinates>
+</Point>
+<address>Akmenos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Lenkimų paštas</name>
+<Point>
+<coordinates>21.3151613473892,56.1916984319687</coordinates>
+</Point>
+<address>S. Daukanto gatvė</address>
+</Placemark>
+<Placemark>
+<name>Luknės paštas</name>
+<Point>
+<coordinates>21.4412447214127,56.2344459295273</coordinates>
+</Point>
+<address>Skuodo gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kartenos paštas</name>
+<Point>
+<coordinates>21.4752870798111,55.9201453924179</coordinates>
+</Point>
+<address>Mokyklos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kūlupėnų paštas</name>
+<Point>
+<coordinates>21.4771867990494,55.9610770940781</coordinates>
+</Point>
+<address>Mokyklos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Skuodo paštas</name>
+<Point>
+<coordinates>21.5290132761002,56.2701514959335</coordinates>
+</Point>
+<address>Gedimino gatvė</address>
+</Placemark>
+<Placemark>
+<name>Salantų paštas</name>
+<Point>
+<coordinates>21.5704256296158,56.0597022771835</coordinates>
+</Point>
+<address>M. Valančiaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Mosėdžio paštas</name>
+<Point>
+<coordinates>21.577322602272,56.1669410467148</coordinates>
+</Point>
+<address>Skuodo gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kulių paštas</name>
+<Point>
+<coordinates>21.6577135324478,55.8053992986679</coordinates>
+</Point>
+<address>Aušros gatvė</address>
+</Placemark>
+<Placemark>
+<name>Erslos paštas</name>
+<Point>
+<coordinates>21.6642290353775,56.1765159368515</coordinates>
+</Point>
+<address>Žemaičių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Aleksandrijos paštas</name>
+<Point>
+<coordinates>21.6933275461197,56.2891486883163</coordinates>
+</Point>
+<address>Liepų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kaukolikų paštas</name>
+<Point>
+<coordinates>21.7177492380142,56.2322562932968</coordinates>
+</Point>
+<address>M. Gimbutienės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Šatės paštas</name>
+<Point>
+<coordinates>21.7523180246353,56.166742682457</coordinates>
+</Point>
+<address>Dariaus ir Girėno gatvė</address>
+</Placemark>
+<Placemark>
+<name>Gėsalų paštas</name>
+<Point>
+<coordinates>21.7809816598892,56.3074516057968</coordinates>
+</Point>
+<address>Mokyklos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Platelių paštas</name>
+<Point>
+<coordinates>21.8161302804947,56.0427116155624</coordinates>
+</Point>
+<address>Didžioji gatvė</address>
+</Placemark>
+<Placemark>
+<name>Erkšvos paštas</name>
+<Point>
+<coordinates>21.8200441598892,56.2323554754257</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Plungės paštas</name>
+<Point>
+<coordinates>21.847830414772,55.9135154485703</coordinates>
+</Point>
+<address>Dariaus ir Girėno gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vižančių paštas</name>
+<Point>
+<coordinates>21.8517137765884,56.3382362127304</coordinates>
+</Point>
+<address>Tilto gatvė</address>
+</Placemark>
+<Placemark>
+<name>Lietuvos paštas</name>
+<Point>
+<coordinates>21.8555971384048,56.2782996892929</coordinates>
+</Point>
+<address>B. Jonušo gatvė</address>
+</Placemark>
+<Placemark>
+<name>Barstyčių paštas</name>
+<Point>
+<coordinates>21.870031952858,56.1614249944687</coordinates>
+</Point>
+<address>Skuodo gatvė</address>
+</Placemark>
+<Placemark>
+<name>Žemaičių Kalvarijos paštas</name>
+<Point>
+<coordinates>22.0121065378189,56.1091712713242</coordinates>
+</Point>
+<address>Gardų aikšte</address>
+</Placemark>
+<Placemark>
+<name>Alsėdžių paštas</name>
+<Point>
+<coordinates>22.0434938669205,56.0293830633163</coordinates>
+</Point>
+<address>Draugystės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Sedos paštas</name>
+<Point>
+<coordinates>22.0901705026627,56.1692527532578</coordinates>
+</Point>
+<address>V. Gadono gatvė</address>
+</Placemark>
+<Placemark>
+<name>Buožėnų paštas</name>
+<Point>
+<coordinates>22.1958223581314,56.0289481878281</coordinates>
+</Point>
+<address>Džiugo gatvė</address>
+</Placemark>
+<Placemark>
+<name>Žarėnų paštas</name>
+<Point>
+<coordinates>22.2082124948502,55.8391822576523</coordinates>
+</Point>
+<address>Varnių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Paštas</name>
+<Point>
+<coordinates>22.2424532175064,55.9804023504257</coordinates>
+</Point>
+<address>Pašto gatvė</address>
+</Placemark>
+<Placemark>
+<name>Telšių apskrities centrinis paštas</name>
+<Point>
+<coordinates>22.2489687204361,55.9863990545273</coordinates>
+</Point>
+<address>Sedos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Telšių m. 2-asis paštas</name>
+<Point>
+<coordinates>22.2623964548111,55.9757331609726</coordinates>
+</Point>
+<address>Masčio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Nevarėnų paštas</name>
+<Point>
+<coordinates>22.2898775339127,56.1063712835312</coordinates>
+</Point>
+<address>Liepų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Tirkšlių paštas</name>
+<Point>
+<coordinates>22.3032442331314,56.2624534368515</coordinates>
+</Point>
+<address>Dariaus ir Girėno gatvė</address>
+</Placemark>
+<Placemark>
+<name>Viešvėnų paštas</name>
+<Point>
+<coordinates>22.3189378976822,55.937380194664</coordinates>
+</Point>
+<address>Judros gatvė</address>
+</Placemark>
+<Placemark>
+<name>Mažeikių m. 2-asis paštas</name>
+<Point>
+<coordinates>22.3276735544205,56.3413490056992</coordinates>
+</Point>
+<address>Laisvės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Mažeikių m. 1-asis paštas</name>
+<Point>
+<coordinates>22.3279863595963,56.306894659996</coordinates>
+</Point>
+<address>Žemaitijos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Mažeikių paštas</name>
+<Point>
+<coordinates>22.3430010080338,56.3147224187851</coordinates>
+</Point>
+<address>Laisvės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Viekšnių paštas</name>
+<Point>
+<coordinates>22.5177217721939,56.2330192327499</coordinates>
+</Point>
+<address>Tilto gatvė</address>
+</Placemark>
+<Placemark>
+<name>Ventos paštas</name>
+<Point>
+<coordinates>22.6866289377213,56.1901344060898</coordinates>
+</Point>
+<address>Žemaičių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Akmenės paštas</name>
+<Point>
+<coordinates>22.7493578195572,56.2453254461288</coordinates>
+</Point>
+<address>K. Kasakausko gatvė</address>
+</Placemark>
+<Placemark>
+<name>Papilės paštas</name>
+<Point>
+<coordinates>22.791060090065,56.1508506536484</coordinates>
+</Point>
+<address>J. Basanavičiaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Naujosios Akmenės paštas</name>
+<Point>
+<coordinates>22.8809725046158,56.3221305608749</coordinates>
+</Point>
+<address>L. Petravičiaus aikšte</address>
+</Placemark>
+<Placemark>
+<name>Šaukėnų paštas</name>
+<Point>
+<coordinates>22.8854585886002,55.811403632164</coordinates>
+</Point>
+<address>Juodlės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kuršėnų paštas</name>
+<Point>
+<coordinates>22.9393755197525,56.0021384954453</coordinates>
+</Point>
+<address>Vilniaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kuršėnų 2-asis paštas</name>
+<Point>
+<coordinates>22.9572817087173,55.9849342107773</coordinates>
+</Point>
+<address>Daugėlių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Žarėnų paštas</name>
+<Point>
+<coordinates>23.0447603464127,56.1774467229843</coordinates>
+</Point>
+<address>Draugystės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Šakynos paštas</name>
+<Point>
+<coordinates>23.1279207468033,56.1796058416367</coordinates>
+</Point>
+<address>Klevų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Verbūnų paštas</name>
+<Point>
+<coordinates>23.1755892038345,56.0211967229843</coordinates>
+</Point>
+<address>Radvilų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Aukštelkės paštas</name>
+<Point>
+<coordinates>23.2117983102798,55.8773978948593</coordinates>
+</Point>
+<address>Poilsio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Šiaulių m. 6-asis paštas</name>
+<Point>
+<coordinates>23.253576874733,55.9073966741562</coordinates>
+</Point>
+<address>K. Korsako gatvė</address>
+</Placemark>
+<Placemark>
+<name>Žagarės paštas</name>
+<Point>
+<coordinates>23.2564913034439,56.3588126897812</coordinates>
+</Point>
+<address>Miesto aikšte</address>
+</Placemark>
+<Placemark>
+<name>Šiaulių m. 7-asis paštas</name>
+<Point>
+<coordinates>23.259451508522,55.9145530462265</coordinates>
+</Point>
+<address>Lyros gatvė</address>
+</Placemark>
+<Placemark>
+<name>Šiaulių m. 10-asis paštas</name>
+<Point>
+<coordinates>23.2643266916275,55.9069999456406</coordinates>
+</Point>
+<address>Sevastopolio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Šiaulių m. 14-asis paštas</name>
+<Point>
+<coordinates>23.2902742624283,55.9373649358749</coordinates>
+</Point>
+<address>Medelyno gatvė</address>
+</Placemark>
+<Placemark>
+<name>Šiaulių m. 1-asis paštas</name>
+<Point>
+<coordinates>23.3069902658463,55.9359229803085</coordinates>
+</Point>
+<address>Vilniaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Šiaulių m. 3-asis paštas</name>
+<Point>
+<coordinates>23.3108583688736,55.9293693304062</coordinates>
+</Point>
+<address>Tilžės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Šiaulių 2-asis paštas</name>
+<Point>
+<coordinates>23.3153520822525,55.9524558782578</coordinates>
+</Point>
+<address>J. Basanavičiaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Šiaulių apskrities centrinis paštas</name>
+<Point>
+<coordinates>23.3159548044205,55.9340690374374</coordinates>
+</Point>
+<address>Aušros alėja</address>
+</Placemark>
+<Placemark>
+<name>Šiaulių kurjeris</name>
+<Point>
+<coordinates>23.3196855783463,55.929453253746</coordinates>
+</Point>
+<address>Trakų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Šiaulių m. 8-asis paštas</name>
+<Point>
+<coordinates>23.3249803781509,55.9243568181992</coordinates>
+</Point>
+<address>Vytauto gatvė</address>
+</Placemark>
+<Placemark>
+<name>Šiaulių m. 13-asis paštas</name>
+<Point>
+<coordinates>23.3277193307877,55.9496940374374</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Šiaulių m. 5-asis paštas</name>
+<Point>
+<coordinates>23.3277574777603,55.8533271551132</coordinates>
+</Point>
+<address>Energetikų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Šiaulių m. 12-asis paštas</name>
+<Point>
+<coordinates>23.3362489938736,55.9246238470078</coordinates>
+</Point>
+<address>Vilniaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Šiaulių m. 4-asis paštas</name>
+<Point>
+<coordinates>23.35771048069,55.9128211736679</coordinates>
+</Point>
+<address>Radviliškio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Ginkūnų paštas</name>
+<Point>
+<coordinates>23.3587557077408,55.9533866643906</coordinates>
+</Point>
+<address>Žeimių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Skaistgirio paštas</name>
+<Point>
+<coordinates>23.39189016819,56.3087867498398</coordinates>
+</Point>
+<address>Aušros gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kairių paštas</name>
+<Point>
+<coordinates>23.4237962961197,55.9210456609726</coordinates>
+</Point>
+<address>Salduvės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Radviliškio paštas</name>
+<Point>
+<coordinates>23.5388475656509,55.8066810369492</coordinates>
+</Point>
+<address>Vasario 16-osios gatvė</address>
+</Placemark>
+<Placemark>
+<name>Joniškio paštas</name>
+<Point>
+<coordinates>23.6168657541275,56.2396644353867</coordinates>
+</Point>
+<address>Miesto aikšte</address>
+</Placemark>
+<Placemark>
+<name>Aukštelkų paštas</name>
+<Point>
+<coordinates>23.6344667673111,55.8470939397812</coordinates>
+</Point>
+<address>Taikos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Lygumų paštas</name>
+<Point>
+<coordinates>23.656164765358,56.0045112371445</coordinates>
+</Point>
+<address>Naujamiesčio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Pašvitinio paštas</name>
+<Point>
+<coordinates>23.8125673532486,56.1586402654648</coordinates>
+</Point>
+<address>Joniškio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kriukų paštas</name>
+<Point>
+<coordinates>23.8204332590103,56.2974113225937</coordinates>
+</Point>
+<address>K. Donelaičio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Neringos paštas</name>
+<Point>
+<coordinates>21.0025709867477,55.302552819252</coordinates>
+</Point>
+<address>Taikos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Klaipėdos m. 7-asis paštas</name>
+<Point>
+<coordinates>21.0912474393845,55.7381531000137</coordinates>
+</Point>
+<address>Molo gatvė</address>
+</Placemark>
+<Placemark>
+<name>Klaipėdos m. 5-asis paštas</name>
+<Point>
+<coordinates>21.0925139188766,55.7696930170059</coordinates>
+</Point>
+<address>Turistų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Klaipėdos m. 13-asis paštas</name>
+<Point>
+<coordinates>21.1156080961227,55.7219101190567</coordinates>
+</Point>
+<address>Sportininkų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Klaipėdos m. 9-asis paštas</name>
+<Point>
+<coordinates>21.1338728666306,55.7377868890762</coordinates>
+</Point>
+<address>Kretingos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Klaipėdos apskrities centrinis paštas</name>
+<Point>
+<coordinates>21.1352461576462,55.7125488519669</coordinates>
+</Point>
+<address>Liepų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Klaipėdos autobusų stoties siuntų tarnyba</name>
+<Point>
+<coordinates>21.1377333402634,55.7196518182755</coordinates>
+</Point>
+<address>Butkų Juzės gatvė</address>
+</Placemark>
+<Placemark>
+<name>EMS kurjerinio pašto skyrius</name>
+<Point>
+<coordinates>21.138000369072,55.7206054925919</coordinates>
+</Point>
+<address>Priestočio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Klaipėdos m. 2-asis paštas</name>
+<Point>
+<coordinates>21.1490172147751,55.6987701654434</coordinates>
+</Point>
+<address>Paryžiaus Komunos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Tauralaukio paštas</name>
+<Point>
+<coordinates>21.1539915800095,55.7505050897598</coordinates>
+</Point>
+<address>Jaunimo gatvė</address>
+</Placemark>
+<Placemark>
+<name>TNT</name>
+<Point>
+<coordinates>21.159858584404,55.7026687860489</coordinates>
+</Point>
+<address>Paryžiaus Komunos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Klaipėdos m. 12-asis paštas</name>
+<Point>
+<coordinates>21.1608198881149,55.7104278802872</coordinates>
+</Point>
+<address>Kražių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Klaipėdos m. 10-asis paštas</name>
+<Point>
+<coordinates>21.1677321195602,55.6783233880997</coordinates>
+</Point>
+<address>Taikos prospektas</address>
+</Placemark>
+<Placemark>
+<name>Paupių paštas</name>
+<Point>
+<coordinates>21.1707686185837,55.7261062860489</coordinates>
+</Point>
+<address>Jaunystės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Klaipėdos m. 15-asis paštas</name>
+<Point>
+<coordinates>21.1725081205368,55.6714035272598</coordinates>
+</Point>
+<address>Taikos prospektas</address>
+</Placemark>
+<Placemark>
+<name>Klaipėdos m. 11-asis paštas</name>
+<Point>
+<coordinates>21.1796034574509,55.6883865594864</coordinates>
+</Point>
+<address>Šilutės plentas</address>
+</Placemark>
+<Placemark>
+<name>Klaipėdos m. 14-asis paštas</name>
+<Point>
+<coordinates>21.1906660795212,55.6718841791153</coordinates>
+</Point>
+<address>Vingio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Rimkų paštas</name>
+<Point>
+<coordinates>21.219802737236,55.6640487909317</coordinates>
+</Point>
+<address>Rimkų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Plikių paštas</name>
+<Point>
+<coordinates>21.2870939970016,55.7929855585098</coordinates>
+</Point>
+<address>Klaipėdos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Priekulės paštas</name>
+<Point>
+<coordinates>21.3203810453415,55.5537887811661</coordinates>
+</Point>
+<address>Turgaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Rusnės paštas</name>
+<Point>
+<coordinates>21.3758238554001,55.2976013422012</coordinates>
+</Point>
+<address>Neringos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Agluonėnų paštas</name>
+<Point>
+<coordinates>21.3959959745407,55.5873199701309</coordinates>
+</Point>
+<address>Mokyklos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Gargždų paštas</name>
+<Point>
+<coordinates>21.4008940458298,55.7110840082169</coordinates>
+</Point>
+<address>Kvietinių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Lietuvos paštas</name>
+<Point>
+<coordinates>21.468078494072,55.3426605463028</coordinates>
+</Point>
+<address>Lietuvininkų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vėžaičių paštas</name>
+<Point>
+<coordinates>21.4768980741501,55.7180725336075</coordinates>
+</Point>
+<address>Gargždų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Juknaičių paštas</name>
+<Point>
+<coordinates>21.5771712064743,55.2867523431778</coordinates>
+</Point>
+<address>Šiloko gatvė</address>
+</Placemark>
+<Placemark>
+<name>Švėkšnos paštas</name>
+<Point>
+<coordinates>21.621284365654,55.5163818597794</coordinates>
+</Point>
+<address>Liepų aikšte</address>
+</Placemark>
+<Placemark>
+<name>Žemaičių Naumiesčio paštas</name>
+<Point>
+<coordinates>21.7045744657516,55.3593612909317</coordinates>
+</Point>
+<address>Klaipėdos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Endriejavo paštas</name>
+<Point>
+<coordinates>21.7204817533493,55.6964203119278</coordinates>
+</Point>
+<address>Mokyklos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Usėnų paštas</name>
+<Point>
+<coordinates>21.7225874662399,55.2307373285294</coordinates>
+</Point>
+<address>Nemuno gatvė</address>
+</Placemark>
+<Placemark>
+<name>Degučių paštas</name>
+<Point>
+<coordinates>21.7703703641891,55.3156524896622</coordinates>
+</Point>
+<address>Beržų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Judrėnų paštas</name>
+<Point>
+<coordinates>21.8024443387985,55.5855728387833</coordinates>
+</Point>
+<address>Mokyklos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vainuto paštas</name>
+<Point>
+<coordinates>21.8652724027634,55.3647476434708</coordinates>
+</Point>
+<address>A. Baranausko gatvė</address>
+</Placemark>
+<Placemark>
+<name>Rietavo paštas</name>
+<Point>
+<coordinates>21.9306486845016,55.7245956659317</coordinates>
+</Point>
+<address>Plungės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Šilalės paštas</name>
+<Point>
+<coordinates>22.1882094144821,55.4897323846817</coordinates>
+</Point>
+<address>J. Basanavičiaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Tauragės apskrities centrinis paštas</name>
+<Point>
+<coordinates>22.2855604887009,55.252015709877</coordinates>
+</Point>
+<address>Dariaus ir Girėno gatvė</address>
+</Placemark>
+<Placemark>
+<name>Tauragės m. 1-asis paštas</name>
+<Point>
+<coordinates>22.3022459745407,55.2553879022598</coordinates>
+</Point>
+<address>J. Tumo-Vaižganto gatvė</address>
+</Placemark>
+<Placemark>
+<name>Skaudvilės paštas</name>
+<Point>
+<coordinates>22.5859678983688,55.4063583612442</coordinates>
+</Point>
+<address>Vilniaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Užvenčio paštas</name>
+<Point>
+<coordinates>22.652892947197,55.7827392816544</coordinates>
+</Point>
+<address>Žemaitės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Nemakščių paštas</name>
+<Point>
+<coordinates>22.7734755277634,55.4294449090958</coordinates>
+</Point>
+<address>Laisvės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Viduklės paštas</name>
+<Point>
+<coordinates>22.9026259183884,55.3975540399551</coordinates>
+</Point>
+<address>Kęstučio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kelmės paštas</name>
+<Point>
+<coordinates>22.9362486600876,55.6312881708145</coordinates>
+</Point>
+<address>Vytauto Didžiojo gatvė</address>
+</Placemark>
+<Placemark>
+<name>Raseinių paštas</name>
+<Point>
+<coordinates>23.1174772977829,55.3808380365372</coordinates>
+</Point>
+<address>Maironio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Tytuvėnų paštas</name>
+<Point>
+<coordinates>23.198921084404,55.595895409584</coordinates>
+</Point>
+<address>Šiluvos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Girkalnio paštas</name>
+<Point>
+<coordinates>23.2014845609665,55.3089615106583</coordinates>
+</Point>
+<address>Šėtupio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Šiluvos paštas</name>
+<Point>
+<coordinates>23.2252959012985,55.5310913324356</coordinates>
+</Point>
+<address>Bukoto gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kaulakių paštas</name>
+<Point>
+<coordinates>23.2558363676071,55.43303835392</coordinates>
+</Point>
+<address>Dubysos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Tyrulių paštas</name>
+<Point>
+<coordinates>23.3444670438766,55.7732483148575</coordinates>
+</Point>
+<address>Liepų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Betygalos paštas</name>
+<Point>
+<coordinates>23.3660658597946,55.3625885248184</coordinates>
+</Point>
+<address>Sporto gatvė</address>
+</Placemark>
+<Placemark>
+<name>Šiaulėnų paštas</name>
+<Point>
+<coordinates>23.3999937772751,55.676805138588</coordinates>
+</Point>
+<address>Dvaro gatvė</address>
+</Placemark>
+<Placemark>
+<name>Šaukoto paštas</name>
+<Point>
+<coordinates>23.4163664579391,55.578805565834</coordinates>
+</Point>
+<address>Šiaulėnų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Ariogalos paštas</name>
+<Point>
+<coordinates>23.4693068265915,55.2640014886856</coordinates>
+</Point>
+<address>Vytauto gatvė</address>
+</Placemark>
+<Placemark>
+<name>Grinkiškio paštas</name>
+<Point>
+<coordinates>23.624214053154,55.5533767938614</coordinates>
+</Point>
+<address>Tilto gatvė</address>
+</Placemark>
+<Placemark>
+<name>Baisogalos paštas</name>
+<Point>
+<coordinates>23.7237166166306,55.6389175653458</coordinates>
+</Point>
+<address>Mokyklos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Krakių paštas</name>
+<Point>
+<coordinates>23.7335432767868,55.4092804193497</coordinates>
+</Point>
+<address>Vilniaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Šeduvos paštas</name>
+<Point>
+<coordinates>23.756652712822,55.7542816400528</coordinates>
+</Point>
+<address>Laisvės aikšte</address>
+</Placemark>
+<Placemark>
+<name>Gudžiūnų paštas</name>
+<Point>
+<coordinates>23.7727431058884,55.5110870599747</coordinates>
+</Point>
+<address>Dotnuvėlės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Pagėgių paštas</name>
+<Point>
+<coordinates>21.9095948934555,55.134529709816</coordinates>
+</Point>
+<address>Vilniaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Panemunės paštas</name>
+<Point>
+<coordinates>21.9098161458969,55.0870290994644</coordinates>
+</Point>
+<address>K. Donelaičio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vištyčio paštas</name>
+<Point>
+<coordinates>22.7115434408188,54.4543768167496</coordinates>
+</Point>
+<address>Taikos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kybartų paštas</name>
+<Point>
+<coordinates>22.7618058919907,54.6385961771011</coordinates>
+</Point>
+<address>J. Basanavičiaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Jurbarko paštas</name>
+<Point>
+<coordinates>22.7701905965805,55.077644944191</coordinates>
+</Point>
+<address>Dariaus ir Girėno gatvė</address>
+</Placemark>
+<Placemark>
+<name>Virbalio paštas</name>
+<Point>
+<coordinates>22.817675948143,54.6265188455582</coordinates>
+</Point>
+<address>Vilniaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kudirkos Naumiesčio paštas</name>
+<Point>
+<coordinates>22.8659166097641,54.7739416360855</coordinates>
+</Point>
+<address>Dariaus ir Girėno gatvė</address>
+</Placemark>
+<Placemark>
+<name>Gelgaudiškio paštas</name>
+<Point>
+<coordinates>22.9823564291,55.0703054666519</coordinates>
+</Point>
+<address>Taikos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilkaviškio paštas</name>
+<Point>
+<coordinates>23.034228682518,54.6507116556168</coordinates>
+</Point>
+<address>J. Basanavičiaus aikšte</address>
+</Placemark>
+<Placemark>
+<name>Lukšių paštas</name>
+<Point>
+<coordinates>23.1697801351547,54.9500280618668</coordinates>
+</Point>
+<address>A. Tatarės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Griškabūdžio paštas</name>
+<Point>
+<coordinates>23.1711305379868,54.8514944314957</coordinates>
+</Point>
+<address>J. Jablonskio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Pilviškių paštas</name>
+<Point>
+<coordinates>23.2218812704086,54.7188955545425</coordinates>
+</Point>
+<address>Vasario 16-osios gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kalvarijos paštas</name>
+<Point>
+<coordinates>23.2277253866196,54.4143453836441</coordinates>
+</Point>
+<address>Laisvės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Jungėnų paštas</name>
+<Point>
+<coordinates>23.2569917440414,54.4382330179214</coordinates>
+</Point>
+<address>Palmių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Antanavo paštas</name>
+<Point>
+<coordinates>23.3076432943344,54.7041479349136</coordinates>
+</Point>
+<address>Sūduvos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Marijampolės m. 4-asis paštas</name>
+<Point>
+<coordinates>23.3338807821274,54.5629354715347</coordinates>
+</Point>
+<address>Vilkaviškio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Gerdžiūnų paštas</name>
+<Point>
+<coordinates>23.3419221639633,55.026993393898</coordinates>
+</Point>
+<address>Liepų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Marijampolės apskrities centrinis paštas</name>
+<Point>
+<coordinates>23.3497422933578,54.556419968605</coordinates>
+</Point>
+<address>J. Basanavičiaus aikšte</address>
+</Placemark>
+<Placemark>
+<name>Liudvinavo paštas</name>
+<Point>
+<coordinates>23.3545182943344,54.481224656105</coordinates>
+</Point>
+<address>Liepų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Marijampolės m. 2-asis paštas</name>
+<Point>
+<coordinates>23.3647722005844,54.5680776834488</coordinates>
+</Point>
+<address>Sporto gatvė</address>
+</Placemark>
+<Placemark>
+<name>Šeštokų paštas</name>
+<Point>
+<coordinates>23.4434770345688,54.3569341897964</coordinates>
+</Point>
+<address>Dzūkų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Sasnavos paštas</name>
+<Point>
+<coordinates>23.4615281820297,54.6503759622574</coordinates>
+</Point>
+<address>Sūduvos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Lekėčių paštas</name>
+<Point>
+<coordinates>23.4988435506821,54.9853140115738</coordinates>
+</Point>
+<address>Draugystės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Lazdijų paštas</name>
+<Point>
+<coordinates>23.5207322835922,54.2336050271988</coordinates>
+</Point>
+<address>Vilniaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Čekiškės paštas</name>
+<Point>
+<coordinates>23.5211366415024,55.1578375101089</coordinates>
+</Point>
+<address>Amatininkų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilkijos paštas</name>
+<Point>
+<coordinates>23.5816377401352,55.0378195047379</coordinates>
+</Point>
+<address>Vytauto gatvė</address>
+</Placemark>
+<Placemark>
+<name>Ežerėlio paštas</name>
+<Point>
+<coordinates>23.5973771810532,54.8831487894058</coordinates>
+</Point>
+<address>Kauno gatvė</address>
+</Placemark>
+<Placemark>
+<name>Batniavos paštas</name>
+<Point>
+<coordinates>23.6345552206039,54.9909063577652</coordinates>
+</Point>
+<address>Parko gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kulautuvos paštas</name>
+<Point>
+<coordinates>23.6411012411118,54.9450079202652</coordinates>
+</Point>
+<address>S. Jasiūnaitės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Simno paštas</name>
+<Point>
+<coordinates>23.6477845907211,54.3819586038589</coordinates>
+</Point>
+<address>Vytauto gatvė</address>
+</Placemark>
+<Placemark>
+<name>Zapyškio paštas</name>
+<Point>
+<coordinates>23.6516984701157,54.9257742166519</coordinates>
+</Point>
+<address>Šviesos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Igliaukos paštas</name>
+<Point>
+<coordinates>23.6541856527328,54.5707479715347</coordinates>
+</Point>
+<address>Vytauto gatvė</address>
+</Placemark>
+<Placemark>
+<name>Skriaudžių paštas</name>
+<Point>
+<coordinates>23.6602510213852,54.7434469461441</coordinates>
+</Point>
+<address>Ramybės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Veisiejų paštas</name>
+<Point>
+<coordinates>23.6962617635727,54.1004110574722</coordinates>
+</Point>
+<address>J. Janonio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kačerginės paštas</name>
+<Point>
+<coordinates>23.7233003377914,54.9333807229996</coordinates>
+</Point>
+<address>Nemuno gatvė</address>
+</Placemark>
+<Placemark>
+<name>Veiverių paštas</name>
+<Point>
+<coordinates>23.7275804281235,54.7661749124527</coordinates>
+</Point>
+<address>Kauno gatvė</address>
+</Placemark>
+<Placemark>
+<name>Panevėžiuko paštas</name>
+<Point>
+<coordinates>23.7878602743149,55.1384588479996</coordinates>
+</Point>
+<address>Nevėžio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Babtų paštas</name>
+<Point>
+<coordinates>23.7964433431625,55.0860677957535</coordinates>
+</Point>
+<address>Kauno gatvė</address>
+</Placemark>
+<Placemark>
+<name>Seirijų paštas</name>
+<Point>
+<coordinates>23.8150285482407,54.2301489114761</coordinates>
+</Point>
+<address>Vytauto gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kauno m. 8-asis paštas</name>
+<Point>
+<coordinates>23.8210099935532,54.9302984476089</coordinates>
+</Point>
+<address>Chodkevičių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Linkuvos paštas</name>
+<Point>
+<coordinates>23.9658845663071,56.0893656015396</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Joniškėlio paštas</name>
+<Point>
+<coordinates>24.1694673299789,56.0240350961685</coordinates>
+</Point>
+<address>G. Petkevičaitės-Bitės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Paįstrio paštas</name>
+<Point>
+<coordinates>24.3356508016586,55.8442026376724</coordinates>
+</Point>
+<address>Gegužinės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Pumpėnų paštas</name>
+<Point>
+<coordinates>24.3421052694321,55.9357248544693</coordinates>
+</Point>
+<address>Ąžuolyno aikšte</address>
+</Placemark>
+<Placemark>
+<name>Pasvalio paštas</name>
+<Point>
+<coordinates>24.4011491537094,56.0615183115005</coordinates>
+</Point>
+<address>Vilniaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Saločių paštas</name>
+<Point>
+<coordinates>24.4134324789047,56.228243470192</coordinates>
+</Point>
+<address>Vytauto gatvė</address>
+</Placemark>
+<Placemark>
+<name>Krinčino paštas</name>
+<Point>
+<coordinates>24.5248063802719,56.0829874277115</coordinates>
+</Point>
+<address>Žalgirio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kirdonių paštas</name>
+<Point>
+<coordinates>24.5968507528305,56.171129822731</coordinates>
+</Point>
+<address>Plento gatvė</address>
+</Placemark>
+<Placemark>
+<name>Pabiržės paštas</name>
+<Point>
+<coordinates>24.6392472982407,56.1874338388443</coordinates>
+</Point>
+<address>Biržų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Biržų paštas</name>
+<Point>
+<coordinates>24.7568773031235,56.2014566659927</coordinates>
+</Point>
+<address>Vytauto gatvė</address>
+</Placemark>
+<Placemark>
+<name>Nemunėlio Radviliškio paštas</name>
+<Point>
+<coordinates>24.7713502645493,56.3971353769302</coordinates>
+</Point>
+<address>Biržų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Antašavos paštas</name>
+<Point>
+<coordinates>24.8017762899399,55.9058862924576</coordinates>
+</Point>
+<address>Pergalės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Medeikių paštas</name>
+<Point>
+<coordinates>24.8228486776352,56.2733331918716</coordinates>
+</Point>
+<address>Biržų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Obelaukių paštas</name>
+<Point>
+<coordinates>24.8364595174789,56.1906229257584</coordinates>
+</Point>
+<address>Draugystės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Salamiesčio paštas</name>
+<Point>
+<coordinates>24.8737519979477,55.942370057106</coordinates>
+</Point>
+<address>Biržų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kupiškio paštas</name>
+<Point>
+<coordinates>24.9769395589828,55.8383432626724</coordinates>
+</Point>
+<address>Gedimino gatvė</address>
+</Placemark>
+<Placemark>
+<name>Papilio paštas</name>
+<Point>
+<coordinates>25.0059922933578,56.117174744606</coordinates>
+</Point>
+<address>Rožių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Šepetos paštas</name>
+<Point>
+<coordinates>25.0367921590805,55.8050943613052</coordinates>
+</Point>
+<address>Liepų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Skapiškio paštas</name>
+<Point>
+<coordinates>25.2020295858383,55.8945261240005</coordinates>
+</Point>
+<address>Vilniaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Suvainiškių paštas</name>
+<Point>
+<coordinates>25.2827943563461,56.1550394296646</coordinates>
+</Point>
+<address>Liepų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kazliškio paštas</name>
+<Point>
+<coordinates>25.360400557518,55.9983392953873</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Salų paštas</name>
+<Point>
+<coordinates>25.3697694540024,55.8128229379654</coordinates>
+</Point>
+<address>Kaštonų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Panemunėlio gelež. st. paštas</name>
+<Point>
+<coordinates>25.3878282308578,55.906466126442</coordinates>
+</Point>
+<address>Stoties gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kamajų paštas</name>
+<Point>
+<coordinates>25.5064424276352,55.8198877573013</coordinates>
+</Point>
+<address>Vilniaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Rokiškio paštas</name>
+<Point>
+<coordinates>25.5874131917953,55.9553018808365</coordinates>
+</Point>
+<address>Respublikos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Juodupės paštas</name>
+<Point>
+<coordinates>25.6092408895493,56.0883737802505</coordinates>
+</Point>
+<address>Taikos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Obelių paštas</name>
+<Point>
+<coordinates>25.7959016561508,55.9395090341568</coordinates>
+</Point>
+<address>Vytauto gatvė</address>
+</Placemark>
+<Placemark>
+<name>Akademijos paštas</name>
+<Point>
+<coordinates>23.8582221269608,55.3948913812637</coordinates>
+</Point>
+<address>Instituto alėja</address>
+</Placemark>
+<Placemark>
+<name>Dotnuvos paštas</name>
+<Point>
+<coordinates>23.8885947465897,55.364564538002</coordinates>
+</Point>
+<address>Vytauto gatvė</address>
+</Placemark>
+<Placemark>
+<name>Labūnavos paštas</name>
+<Point>
+<coordinates>23.9070655107498,55.1906982660294</coordinates>
+</Point>
+<address>Barupės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Šlapaberžės paštas</name>
+<Point>
+<coordinates>23.9256049394608,55.4273010492325</coordinates>
+</Point>
+<address>Šlapaberžės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Sidabravo paštas</name>
+<Point>
+<coordinates>23.9297248125076,55.6974197626114</coordinates>
+</Point>
+<address>Pergalės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Pelėdnagių paštas</name>
+<Point>
+<coordinates>23.9614173173904,55.251023888588</coordinates>
+</Point>
+<address>V. Koncevičiaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kėdainių m. 1-asis paštas</name>
+<Point>
+<coordinates>23.9632788896561,55.2797256708145</coordinates>
+</Point>
+<address>J. Basanavičiaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Žibartonių paštas</name>
+<Point>
+<coordinates>23.9639426469803,55.534844994545</coordinates>
+</Point>
+<address>Žibartonių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kėdainių paštas</name>
+<Point>
+<coordinates>23.9734565019608,55.2863632440567</coordinates>
+</Point>
+<address>J. Basanavičiaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilainių paštas</name>
+<Point>
+<coordinates>23.9990836381912,55.2996994256973</coordinates>
+</Point>
+<address>Parko gatvė</address>
+</Placemark>
+<Placemark>
+<name>Smilgių paštas</name>
+<Point>
+<coordinates>24.0152503252029,55.803414940834</coordinates>
+</Point>
+<address>Panevėžio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kuigalių paštas</name>
+<Point>
+<coordinates>24.0895301103592,55.1841369867325</coordinates>
+</Point>
+<address>Žeimių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Krekenavos paštas</name>
+<Point>
+<coordinates>24.0971747636795,55.5433136224747</coordinates>
+</Point>
+<address>Birutės aikšte</address>
+</Placemark>
+<Placemark>
+<name>Lančiūnavos paštas</name>
+<Point>
+<coordinates>24.153319478035,55.3491989374161</coordinates>
+</Point>
+<address>Liepų alėja</address>
+</Placemark>
+<Placemark>
+<name>Naujamiesčio paštas</name>
+<Point>
+<coordinates>24.1542273759842,55.6885010004044</coordinates>
+</Point>
+<address>S. Nėries gatvė</address>
+</Placemark>
+<Placemark>
+<name>Upytės paštas</name>
+<Point>
+<coordinates>24.2263938188553,55.6502472162247</coordinates>
+</Point>
+<address>Ėriškių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Berčiūnų paštas</name>
+<Point>
+<coordinates>24.2333670854568,55.7355057001114</coordinates>
+</Point>
+<address>Nevėžio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Šėtos paštas</name>
+<Point>
+<coordinates>24.2501517534256,55.280709862709</coordinates>
+</Point>
+<address>Kėdainių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Ėriškių paštas</name>
+<Point>
+<coordinates>24.2636252641678,55.5797592401505</coordinates>
+</Point>
+<address>Ėriškių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Bernatonių paštas</name>
+<Point>
+<coordinates>24.2898169755936,55.7809768915176</coordinates>
+</Point>
+<address>Draugystės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Ramygalos paštas</name>
+<Point>
+<coordinates>24.3040152788162,55.5095916986465</coordinates>
+</Point>
+<address>Vadoklių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Panevėžio m. 4-asis paštas</name>
+<Point>
+<coordinates>24.3263999223709,55.7308670282364</coordinates>
+</Point>
+<address>Dariaus ir Girėno gatvė</address>
+</Placemark>
+<Placemark>
+<name>Panevėžio m. 5-asis paštas</name>
+<Point>
+<coordinates>24.3311988115311,55.7265716791153</coordinates>
+</Point>
+<address>Kniaudiškių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Panevėžio apskrities centrinis paštas</name>
+<Point>
+<coordinates>24.3580695390701,55.7346206903458</coordinates>
+</Point>
+<address>Respublikos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilpostus Panevėžio skyrius</name>
+<Point>
+<coordinates>24.3585044145584,55.7351623773575</coordinates>
+</Point>
+<address>Anykščių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Piniavos paštas</name>
+<Point>
+<coordinates>24.3608084917068,55.7834640741348</coordinates>
+</Point>
+<address>Sodžiaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Uliūnų paštas</name>
+<Point>
+<coordinates>24.3637915849686,55.6223846673965</coordinates>
+</Point>
+<address>Žalioji gatvė</address>
+</Placemark>
+<Placemark>
+<name>Panevėžio m. 6-asis paštas</name>
+<Point>
+<coordinates>24.364142537117,55.7493988275528</coordinates>
+</Point>
+<address>Rožių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Panevėžio m. 2-asis paštas</name>
+<Point>
+<coordinates>24.3658362627029,55.7213913202286</coordinates>
+</Point>
+<address>Aukštaičių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Panevėžio m. 3-asis paštas</name>
+<Point>
+<coordinates>24.3683005571365,55.7257019281387</coordinates>
+</Point>
+<address>Vilniaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Panevėžio apskrities centrinio pašto transporto skyrius</name>
+<Point>
+<coordinates>24.3807364702225,55.7479110956192</coordinates>
+</Point>
+<address>Paliūniškio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Panevėžio m. 1-asis paštas</name>
+<Point>
+<coordinates>24.3817816972733,55.7239013910294</coordinates>
+</Point>
+<address>Žemaičių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Jotainių paštas</name>
+<Point>
+<coordinates>24.410285115242,55.5501648187637</coordinates>
+</Point>
+<address>Naujasodės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Velžio paštas</name>
+<Point>
+<coordinates>24.4270545244217,55.6925140619278</coordinates>
+</Point>
+<address>Žemdirbių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Panoterių paštas</name>
+<Point>
+<coordinates>24.4324790239334,55.196580529213</coordinates>
+</Point>
+<address>P. Vaičiūno gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vadoklių paštas</name>
+<Point>
+<coordinates>24.4725791215897,55.4959045648575</coordinates>
+</Point>
+<address>Ramygalos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Trakiškio paštas</name>
+<Point>
+<coordinates>24.5075522661209,55.7330719232559</coordinates>
+</Point>
+<address>Pergalės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Miežiškių paštas</name>
+<Point>
+<coordinates>24.5409842729568,55.6766067743301</coordinates>
+</Point>
+<address>Taikos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Nevėžio paštas</name>
+<Point>
+<coordinates>24.5902930498123,55.6441284418106</coordinates>
+</Point>
+<address>Draugystės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Raguvos paštas</name>
+<Point>
+<coordinates>24.6242896318436,55.5644928216934</coordinates>
+</Point>
+<address>Laisvės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Deltuvos paštas</name>
+<Point>
+<coordinates>24.6677314043045,55.2389541864395</coordinates>
+</Point>
+<address>Vytauto gatvė</address>
+</Placemark>
+<Placemark>
+<name>Subačiaus paštas</name>
+<Point>
+<coordinates>24.7450553178787,55.7699905633926</coordinates>
+</Point>
+<address>Biržų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Ukmergės paštas</name>
+<Point>
+<coordinates>24.7596350908279,55.2478042840958</coordinates>
+</Point>
+<address>Kauno gatvė</address>
+</Placemark>
+<Placemark>
+<name>Taujėnų paštas</name>
+<Point>
+<coordinates>24.7614432573318,55.3875824213028</coordinates>
+</Point>
+<address>Ukmergės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Ukmergės m. 4-asis paštas</name>
+<Point>
+<coordinates>24.7820655107498,55.2601715326309</coordinates>
+</Point>
+<address>Anykščių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Ukmergės m. 5-asis paštas</name>
+<Point>
+<coordinates>24.7903891801834,55.2141891717911</coordinates>
+</Point>
+<address>Pašilės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Troškūnų paštas</name>
+<Point>
+<coordinates>24.8709326982498,55.5877929925919</coordinates>
+</Point>
+<address>K. Inčiuros gatvė</address>
+</Placemark>
+<Placemark>
+<name>Noriūnų paštas</name>
+<Point>
+<coordinates>24.894301533699,55.80120241642</coordinates>
+</Point>
+<address>Sodų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Rudilių paštas</name>
+<Point>
+<coordinates>24.8992758989334,55.7602249383926</coordinates>
+</Point>
+<address>Morkūniškio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kavarsko paštas</name>
+<Point>
+<coordinates>24.9258795976639,55.4339309930801</coordinates>
+</Point>
+<address>Respublikos aikšte</address>
+</Placemark>
+<Placemark>
+<name>Kurklių paštas</name>
+<Point>
+<coordinates>25.0616294145584,55.4133545160294</coordinates>
+</Point>
+<address>Kavarsko gatvė</address>
+</Placemark>
+<Placemark>
+<name>Anykščių paštas</name>
+<Point>
+<coordinates>25.106574177742,55.526055932045</coordinates>
+</Point>
+<address>J. Biliūno gatvė</address>
+</Placemark>
+<Placemark>
+<name>Šimonių paštas</name>
+<Point>
+<coordinates>25.1424399614334,55.7386413812637</coordinates>
+</Point>
+<address>Skapiškio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Alantos paštas</name>
+<Point>
+<coordinates>25.2947226762772,55.351380944252</coordinates>
+</Point>
+<address>Turgaus aikšte</address>
+</Placemark>
+<Placemark>
+<name>Adomynės paštas</name>
+<Point>
+<coordinates>25.3044806718826,55.7490249872208</coordinates>
+</Point>
+<address>A. Vilėniškio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Debeikių paštas</name>
+<Point>
+<coordinates>25.3275519609451,55.583314538002</coordinates>
+</Point>
+<address>J. Biliūno gatvė</address>
+</Placemark>
+<Placemark>
+<name>Leliūnų paštas</name>
+<Point>
+<coordinates>25.3981848955154,55.4743896722794</coordinates>
+</Point>
+<address>Kauno gatvė</address>
+</Placemark>
+<Placemark>
+<name>Molėtų paštas</name>
+<Point>
+<coordinates>25.4190818071365,55.232125878334</coordinates>
+</Point>
+<address>Vilniaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Pakalnių paštas</name>
+<Point>
+<coordinates>25.4694358110428,55.4354110956192</coordinates>
+</Point>
+<address>Taikos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vyžuonų paštas</name>
+<Point>
+<coordinates>25.49829018116,55.5875107049942</coordinates>
+</Point>
+<address>Šilo gatvė</address>
+</Placemark>
+<Placemark>
+<name>Užpalių paštas</name>
+<Point>
+<coordinates>25.5813208818436,55.6378494501114</coordinates>
+</Point>
+<address>J. Basanavičiaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Utenos m. 2-asis paštas</name>
+<Point>
+<coordinates>25.5852881669998,55.5095154047012</coordinates>
+</Point>
+<address>Taikos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Utenos apskrities centrinis paštas</name>
+<Point>
+<coordinates>25.6023474931717,55.4983841180801</coordinates>
+</Point>
+<address>J. Basanavičiaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Jūžintų paštas</name>
+<Point>
+<coordinates>25.6751090288162,55.7729507684708</coordinates>
+</Point>
+<address>J. O. Širvydo gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kuktiškių paštas</name>
+<Point>
+<coordinates>25.6772300004959,55.3939377069473</coordinates>
+</Point>
+<address>Aukštaičių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Sudeikių paštas</name>
+<Point>
+<coordinates>25.6843024492264,55.58489382267</coordinates>
+</Point>
+<address>Aukštaičių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Saldutiškio paštas</name>
+<Point>
+<coordinates>25.8119651079178,55.3472763299942</coordinates>
+</Point>
+<address>Laisvės aikšte</address>
+</Placemark>
+<Placemark>
+<name>Tauragnų paštas</name>
+<Point>
+<coordinates>25.8162451982498,55.4426513910294</coordinates>
+</Point>
+<address>A. Musteikio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Dusetų paštas</name>
+<Point>
+<coordinates>25.8380118608475,55.7454544305801</coordinates>
+</Point>
+<address>K. Būgos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kaltanėnų paštas</name>
+<Point>
+<coordinates>25.9927741289139,55.2511001825333</coordinates>
+</Point>
+<address>Švenčionėlių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Salako paštas</name>
+<Point>
+<coordinates>26.134162068367,55.5796676874161</coordinates>
+</Point>
+<address>Laisvoji aikšte</address>
+</Placemark>
+<Placemark>
+<name>Vidiškių paštas</name>
+<Point>
+<coordinates>26.2045661211014,55.3731170892715</coordinates>
+</Point>
+<address>Melioratorių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Zarasų paštas</name>
+<Point>
+<coordinates>26.2438575029373,55.7323318719864</coordinates>
+</Point>
+<address>Sėlių aikšte</address>
+</Placemark>
+<Placemark>
+<name>Dūkšto paštas</name>
+<Point>
+<coordinates>26.319106221199,55.5202575922012</coordinates>
+</Point>
+<address>Aušros gatvė</address>
+</Placemark>
+<Placemark>
+<name>Visagino paštas</name>
+<Point>
+<coordinates>26.4247199296951,55.5978561639786</coordinates>
+</Point>
+<address>Parko gatvė</address>
+</Placemark>
+<Placemark>
+<name>Turmanto paštas</name>
+<Point>
+<coordinates>26.4604026079178,55.6937195062637</coordinates>
+</Point>
+<address>Zarasų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Akademijos paštas</name>
+<Point>
+<coordinates>23.8354653120041,54.8939443826675</coordinates>
+</Point>
+<address>Studentų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kauno m. 21-asis paštas</name>
+<Point>
+<coordinates>23.8367775678635,54.9160696268082</coordinates>
+</Point>
+<address>Raudondvario plentas</address>
+</Placemark>
+<Placemark>
+<name>Mastaičių paštas</name>
+<Point>
+<coordinates>23.8437203168869,54.8232809305191</coordinates>
+</Point>
+<address>Žiedo gatvė</address>
+</Placemark>
+<Placemark>
+<name>Garliavos paštas</name>
+<Point>
+<coordinates>23.8741310834885,54.8224111795425</coordinates>
+</Point>
+<address>Vytauto gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kauno m. 22-asis paštas</name>
+<Point>
+<coordinates>23.8796929121017,54.9083257913589</coordinates>
+</Point>
+<address>Tilžės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kauno m. 32-asis paštas</name>
+<Point>
+<coordinates>23.8812950849533,54.9451833963394</coordinates>
+</Point>
+<address>Vandžiogalos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kauno m. 33-iasis paštas</name>
+<Point>
+<coordinates>23.8878487348557,54.8971410989761</coordinates>
+</Point>
+<address>Rotušės aikšte</address>
+</Placemark>
+<Placemark>
+<name>Kauno m. 26-asis paštas</name>
+<Point>
+<coordinates>23.8942040205002,54.9148107767105</coordinates>
+</Point>
+<address>Varnių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kauno m. 40-asis paštas</name>
+<Point>
+<coordinates>23.8983467817307,54.9312216043472</coordinates>
+</Point>
+<address>Vėtrungės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kauno apskrities centrinio pašto filatelijos parduotuvė</name>
+<Point>
+<coordinates>23.9044350385666,54.8980413675308</coordinates>
+</Point>
+<address>Laisvės alėja</address>
+</Placemark>
+<Placemark>
+<name>Kauno apskrities centrinis paštas</name>
+<Point>
+<coordinates>23.9044350385666,54.8980413675308</coordinates>
+</Point>
+<address>Laisvės alėja</address>
+</Placemark>
+<Placemark>
+<name>Vilpostus kauno skyrius</name>
+<Point>
+<coordinates>23.9110649824142,54.8962866067886</coordinates>
+</Point>
+<address>Kęstučio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kauno m. 6-asis paštas</name>
+<Point>
+<coordinates>23.9125527143478,54.8988882303238</coordinates>
+</Point>
+<address>K. Donelaičio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Interposta</name>
+<Point>
+<coordinates>23.9165352582932,54.9039922952652</coordinates>
+</Point>
+<address>Savanorių prospektas</address>
+</Placemark>
+<Placemark>
+<name>Kauno m. 4-asis paštas</name>
+<Point>
+<coordinates>23.9196709394455,54.8953329324722</coordinates>
+</Point>
+<address>Kęstučio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kauno m. 7-asis paštas</name>
+<Point>
+<coordinates>23.9211357831955,54.9184499979019</coordinates>
+</Point>
+<address>Eivenių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kauno m. 5-asis paštas</name>
+<Point>
+<coordinates>23.9225777387619,54.9067922830582</coordinates>
+</Point>
+<address>Savanorių prospektas</address>
+</Placemark>
+<Placemark>
+<name>Domeikavos paštas</name>
+<Point>
+<coordinates>23.9241036176682,54.967064499855</coordinates>
+</Point>
+<address>Taikos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kauno m. 1-asis paštas</name>
+<Point>
+<coordinates>23.9273384809494,54.8888403177261</coordinates>
+</Point>
+<address>Vytauto prospektas</address>
+</Placemark>
+<Placemark>
+<name>Kauno m. 2-asis paštas</name>
+<Point>
+<coordinates>23.9409645795822,54.8730093240738</coordinates>
+</Point>
+<address>Drobės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kauno m. 10-asis paštas</name>
+<Point>
+<coordinates>23.942009806633,54.8409353494644</coordinates>
+</Point>
+<address>J. Borutos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Prienų paštas</name>
+<Point>
+<coordinates>23.946030497551,54.6383978128433</coordinates>
+</Point>
+<address>J. Brundzos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kauno m. 28-asis paštas</name>
+<Point>
+<coordinates>23.9478005170822,54.9039999246597</coordinates>
+</Point>
+<address>Vydūno alėja</address>
+</Placemark>
+<Placemark>
+<name>Kauno m. 43-iasis paštas</name>
+<Point>
+<coordinates>23.9489220380783,54.9268041849136</coordinates>
+</Point>
+<address>P. Lukšio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kauno m. 35-asis paštas</name>
+<Point>
+<coordinates>23.9533776044846,54.8921743631363</coordinates>
+</Point>
+<address>Prancūzų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vandžiogalos paštas</name>
+<Point>
+<coordinates>23.9566277265549,55.1168142557144</coordinates>
+</Point>
+<address>Parko gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kauno m. 42-asis paštas</name>
+<Point>
+<coordinates>23.9643334150314,54.9255071878433</coordinates>
+</Point>
+<address>Savanorių prospektas</address>
+</Placemark>
+<Placemark>
+<name>Kauno m. 16-asis paštas</name>
+<Point>
+<coordinates>23.9661034345627,54.8648535013199</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kauno m. 36-asis paštas</name>
+<Point>
+<coordinates>23.9804238080978,54.9160543680191</coordinates>
+</Point>
+<address>Taikos prospektas</address>
+</Placemark>
+<Placemark>
+<name>Kauno m. 14-asis paštas</name>
+<Point>
+<coordinates>23.9898537397385,54.894539475441</coordinates>
+</Point>
+<address>R. Kalantos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Lapių paštas</name>
+<Point>
+<coordinates>24.0054787397385,54.974503159523</coordinates>
+</Point>
+<address>A. Merkio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Birštono paštas</name>
+<Point>
+<coordinates>24.0303810834885,54.6042257547379</coordinates>
+</Point>
+<address>S. Dariaus ir S. Girėno gatvė</address>
+</Placemark>
+<Placemark>
+<name>Pakuonio paštas</name>
+<Point>
+<coordinates>24.0531243085861,54.7252203226089</coordinates>
+</Point>
+<address>Sodų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kauno m. 23-iasis paštas</name>
+<Point>
+<coordinates>24.0641640424728,54.9130712747574</coordinates>
+</Point>
+<address>Pašto gatvė</address>
+</Placemark>
+<Placemark>
+<name>Karmėlavos paštas</name>
+<Point>
+<coordinates>24.0650643110275,54.9697729349136</coordinates>
+</Point>
+<address>Vilniaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>DHL Lietuva</name>
+<Point>
+<coordinates>24.0662926435471,54.9670950174332</coordinates>
+</Point>
+<address>Pievų gatvė</address>
+</Placemark>
+<Placemark>
+<name>TNT</name>
+<Point>
+<coordinates>24.0662926435471,54.9670950174332</coordinates>
+</Point>
+<address>Pievų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Neveronių paštas</name>
+<Point>
+<coordinates>24.0993431806564,54.9305044412613</coordinates>
+</Point>
+<address>Šiltnamių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Piliuonos paštas</name>
+<Point>
+<coordinates>24.1230400800705,54.7777563333511</coordinates>
+</Point>
+<address>T. Masiulio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Jiezno paštas</name>
+<Point>
+<coordinates>24.1673744916916,54.6006780862808</coordinates>
+</Point>
+<address>Vytauto gatvė</address>
+</Placemark>
+<Placemark>
+<name>Pravieniškių paštas</name>
+<Point>
+<coordinates>24.2124260663986,54.9186102151871</coordinates>
+</Point>
+<address>Pravieniškių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Žeimių paštas</name>
+<Point>
+<coordinates>24.2196358442307,55.1785589456558</coordinates>
+</Point>
+<address>Kauno gatvė</address>
+</Placemark>
+<Placemark>
+<name>Rumšiškių paštas</name>
+<Point>
+<coordinates>24.2212837934494,54.866837143898</coordinates>
+</Point>
+<address>J. Aisčio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kruonio paštas</name>
+<Point>
+<coordinates>24.2408074140549,54.7558752298355</coordinates>
+</Point>
+<address>Darsūniškio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Šveicarijos paštas</name>
+<Point>
+<coordinates>24.2582100629807,55.0451360940933</coordinates>
+</Point>
+<address>Pergalės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Jonavos m. 4-asis paštas</name>
+<Point>
+<coordinates>24.2602471113205,55.0747534036636</coordinates>
+</Point>
+<address>Chemikų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Jonavos paštas</name>
+<Point>
+<coordinates>24.2753990888596,55.0737005472183</coordinates>
+</Point>
+<address>Žeimių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Stakliškių paštas</name>
+<Point>
+<coordinates>24.32348716259,54.5910192728043</coordinates>
+</Point>
+<address>Vilniaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Šilų paštas</name>
+<Point>
+<coordinates>24.3323448896408,55.1229177713394</coordinates>
+</Point>
+<address>Beržų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Antakalnio paštas</name>
+<Point>
+<coordinates>24.3413780927658,54.8508154153824</coordinates>
+</Point>
+<address>Antakalnio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Žiežmarių paštas</name>
+<Point>
+<coordinates>24.4439018964767,54.8049322366714</coordinates>
+</Point>
+<address>Žaslių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kaišiadorių paštas</name>
+<Point>
+<coordinates>24.4570244550705,54.8621832132339</coordinates>
+</Point>
+<address>Gedimino gatvė</address>
+</Placemark>
+<Placemark>
+<name>Palomenės paštas</name>
+<Point>
+<coordinates>24.459702372551,54.9359823465347</coordinates>
+</Point>
+<address>Medinų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Aukštadvario paštas</name>
+<Point>
+<coordinates>24.5337151288986,54.5793462991714</coordinates>
+</Point>
+<address>Vilniaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Upninkų paštas</name>
+<Point>
+<coordinates>24.5360802412033,55.0830007791519</coordinates>
+</Point>
+<address>Jaunystės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Veprių paštas</name>
+<Point>
+<coordinates>24.5744289159775,55.1503102779388</coordinates>
+</Point>
+<address>Pergalės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Žaslių paštas</name>
+<Point>
+<coordinates>24.5889095067978,54.8653371334076</coordinates>
+</Point>
+<address>Vilniaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Elektrėnų paštas</name>
+<Point>
+<coordinates>24.6582835912704,54.7847020626068</coordinates>
+</Point>
+<address>Rungos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Semeliškių paštas</name>
+<Point>
+<coordinates>24.6630367040634,54.6642491817474</coordinates>
+</Point>
+<address>Trakų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vievio paštas</name>
+<Point>
+<coordinates>24.8151668310165,54.7712819576263</coordinates>
+</Point>
+<address>Vilniaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Trakų paštas</name>
+<Point>
+<coordinates>24.9331020116806,54.6424596309662</coordinates>
+</Point>
+<address>Vytauto gatvė</address>
+</Placemark>
+<Placemark>
+<name>Širvintų paštas</name>
+<Point>
+<coordinates>24.958111166954,55.0394856929779</coordinates>
+</Point>
+<address>I. Šeiniaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Dūkštų paštas</name>
+<Point>
+<coordinates>24.9718745946884,54.8237950801849</coordinates>
+</Point>
+<address>Mokyklos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Senųjų Trakų paštas</name>
+<Point>
+<coordinates>24.9775813817978,54.613231420517</coordinates>
+</Point>
+<address>Trakų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Lentvario paštas</name>
+<Point>
+<coordinates>25.0458110570908,54.6441075801849</coordinates>
+</Point>
+<address>Geležinkelio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Maišiagalos paštas</name>
+<Point>
+<coordinates>25.0595592260361,54.8703496456146</coordinates>
+</Point>
+<address>Kiemelių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Grigiškių paštas</name>
+<Point>
+<coordinates>25.0833781957626,54.6771504878998</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sudervės paštas</name>
+<Point>
+<coordinates>25.0861705541611,54.7788579463959</coordinates>
+</Point>
+<address>Vilniaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Trakų Vokės paštas</name>
+<Point>
+<coordinates>25.1104472875595,54.6286809444427</coordinates>
+</Point>
+<address>J. Tiškevičiaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 28-asis paštas</name>
+<Point>
+<coordinates>25.1752208471298,54.6278340816498</coordinates>
+</Point>
+<address>Pašto gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 3-asis paštas</name>
+<Point>
+<coordinates>25.1837733983994,54.7068364620209</coordinates>
+</Point>
+<address>Vydūno gatvė</address>
+</Placemark>
+<Placemark>
+<name>Avižienių paštas</name>
+<Point>
+<coordinates>25.1890605688095,54.7632787227631</coordinates>
+</Point>
+<address>Sudervės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Buivydiškių paštas</name>
+<Point>
+<coordinates>25.1934551000595,54.7168462276459</coordinates>
+</Point>
+<address>Parko gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 53-asis paštas</name>
+<Point>
+<coordinates>25.2050060033798,54.6425588130951</coordinates>
+</Point>
+<address>Valkininkų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 50-asis paštas</name>
+<Point>
+<coordinates>25.2050365209579,54.6848714351654</coordinates>
+</Point>
+<address>L. Asanavičiūtės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 49-asis paštas</name>
+<Point>
+<coordinates>25.2128947973251,54.6835896968842</coordinates>
+</Point>
+<address>Architektų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 43-asis paštas</name>
+<Point>
+<coordinates>25.2135432958603,54.6736333370209</coordinates>
+</Point>
+<address>Architektų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 17-asis paštas</name>
+<Point>
+<coordinates>25.2205394506454,54.7181432247162</coordinates>
+</Point>
+<address>Justiniškių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 56-asis paštas</name>
+<Point>
+<coordinates>25.2242473363876,54.7080190181732</coordinates>
+</Point>
+<address>Viršuliškių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Paberžės paštas</name>
+<Point>
+<coordinates>25.2360805273056,54.9425466060638</coordinates>
+</Point>
+<address>Vilniaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 35-asis paštas</name>
+<Point>
+<coordinates>25.2423061132431,54.7362706661224</coordinates>
+</Point>
+<address>L. Giros gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 10-asis paštas</name>
+<Point>
+<coordinates>25.2447856664658,54.715282201767</coordinates>
+</Point>
+<address>Šeškinės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 29-asis paštas</name>
+<Point>
+<coordinates>25.2488521337509,54.7222325801849</coordinates>
+</Point>
+<address>Fabijoniškių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Riešės paštas</name>
+<Point>
+<coordinates>25.2569822072983,54.8044888973236</coordinates>
+</Point>
+<address>Molėtų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 4-asis paštas</name>
+<Point>
+<coordinates>25.260583281517,54.696182012558</coordinates>
+</Point>
+<address>Studentų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 2-asis paštas</name>
+<Point>
+<coordinates>25.2617276906967,54.6910855770111</coordinates>
+</Point>
+<address>Gedimino prospektas</address>
+</Placemark>
+<Placemark>
+<name>Juodšilių paštas</name>
+<Point>
+<coordinates>25.2618573904037,54.5792768001556</coordinates>
+</Point>
+<address>Mokyklos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 9-asis paštas</name>
+<Point>
+<coordinates>25.263253569603,54.6806561946869</coordinates>
+</Point>
+<address>Vytenio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Valčiūnų paštas</name>
+<Point>
+<coordinates>25.2641004323959,54.5642850399017</coordinates>
+</Point>
+<address>Geležinkeliečių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Lietuvos paštas</name>
+<Point>
+<coordinates>25.2648328542709,54.6790616512299</coordinates>
+</Point>
+<address>A. Vivulskio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 6-asis paštas</name>
+<Point>
+<coordinates>25.2708829641342,54.6771695613861</coordinates>
+</Point>
+<address>Algirdo gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 57-asis paštas</name>
+<Point>
+<coordinates>25.2715467214584,54.7286908626556</coordinates>
+</Point>
+<address>Didlaukio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 38-asis paštas</name>
+<Point>
+<coordinates>25.2739270925522,54.663467168808</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 21-asis paštas</name>
+<Point>
+<coordinates>25.2764295339584,54.7428510189056</coordinates>
+</Point>
+<address>Jeruzalės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 25-asis paštas</name>
+<Point>
+<coordinates>25.2782605886459,54.6879346370697</coordinates>
+</Point>
+<address>Gedimino prospektas</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 39-asis paštas</name>
+<Point>
+<coordinates>25.2803128957748,54.6896436214447</coordinates>
+</Point>
+<address>Gedimino prospektas</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 5-asis paštas</name>
+<Point>
+<coordinates>25.2818464040756,54.6959836483002</coordinates>
+</Point>
+<address>Kalvarijų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus apskrities centrinis paštas</name>
+<Point>
+<coordinates>25.2828534841537,54.6866681575775</coordinates>
+</Point>
+<address>Gedimino prospektas</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 13-asis paštas</name>
+<Point>
+<coordinates>25.2829602956772,54.6702344417572</coordinates>
+</Point>
+<address>Geležinkelio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 1-asis paštas</name>
+<Point>
+<coordinates>25.284753203392,54.6790540218353</coordinates>
+</Point>
+<address>Vokiečių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 42-asis paštas</name>
+<Point>
+<coordinates>25.2861264944077,54.7090985774994</coordinates>
+</Point>
+<address>Kalvarijų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 30-asis paštas</name>
+<Point>
+<coordinates>25.2892774343491,54.6700208187103</coordinates>
+</Point>
+<address>Tyzenhauzų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 51-asis paštas</name>
+<Point>
+<coordinates>25.2988065481186,54.6971433162689</coordinates>
+</Point>
+<address>Žirmūnų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 7-asis paštas</name>
+<Point>
+<coordinates>25.3002561330795,54.6822049617767</coordinates>
+</Point>
+<address>Krivių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 12-asis paštas</name>
+<Point>
+<coordinates>25.3059476613998,54.7165524959564</coordinates>
+</Point>
+<address>Žirmūnų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 55-asis paštas</name>
+<Point>
+<coordinates>25.310143828392,54.7046353816986</coordinates>
+</Point>
+<address>Antakalnio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 40-asis paštas</name>
+<Point>
+<coordinates>25.3161634206772,54.7146604061127</coordinates>
+</Point>
+<address>Antakalnio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 14-asis paštas</name>
+<Point>
+<coordinates>25.3181928396225,54.6753079891205</coordinates>
+</Point>
+<address>Subačiaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 16-asis paštas</name>
+<Point>
+<coordinates>25.3368772268295,54.7341840267181</coordinates>
+</Point>
+<address>Nemenčinės plentas</address>
+</Placemark>
+<Placemark>
+<name>Rudaminos paštas</name>
+<Point>
+<coordinates>25.3411878347397,54.5929868221283</coordinates>
+</Point>
+<address>Gamyklos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Nemėžio paštas</name>
+<Point>
+<coordinates>25.3564313650131,54.6376416683197</coordinates>
+</Point>
+<address>V. Sirokomlės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 20-asis paštas</name>
+<Point>
+<coordinates>25.3601545095444,54.672515630722</coordinates>
+</Point>
+<address>Vandens gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 46-asis paštas</name>
+<Point>
+<coordinates>25.3979352712631,54.7954709529877</coordinates>
+</Point>
+<address>Antavilių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 48-asis paštas</name>
+<Point>
+<coordinates>25.4009336233139,54.6941068172455</coordinates>
+</Point>
+<address>A. V. Kojelavičiaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Galgių paštas</name>
+<Point>
+<coordinates>25.411935210228,54.719863653183</coordinates>
+</Point>
+<address>Centrinė gatvė</address>
+</Placemark>
+<Placemark>
+<name>Vilniaus m. 41-asis paštas</name>
+<Point>
+<coordinates>25.4229520559311,54.6903913021088</coordinates>
+</Point>
+<address>Gerovės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Nemenčinės paštas</name>
+<Point>
+<coordinates>25.4647077322006,54.8469693660736</coordinates>
+</Point>
+<address>Švenčionių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Sužionių paštas</name>
+<Point>
+<coordinates>25.5061811208725,54.991119146347</coordinates>
+</Point>
+<address>Kalvinės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Rukainių paštas</name>
+<Point>
+<coordinates>25.5138257741928,54.6116940975189</coordinates>
+</Point>
+<address>Pašto gatvė</address>
+</Placemark>
+<Placemark>
+<name>Bezdonių paštas</name>
+<Point>
+<coordinates>25.5154813528061,54.8048169612885</coordinates>
+</Point>
+<address>Statybininkų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Lavoriškių paštas</name>
+<Point>
+<coordinates>25.64033639431,54.7106320858002</coordinates>
+</Point>
+<address>Liepos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Mostiškių paštas</name>
+<Point>
+<coordinates>25.667794585228,54.7708737850189</coordinates>
+</Point>
+<address>Baltarusijos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Kalvelių paštas</name>
+<Point>
+<coordinates>25.6893705129623,54.63503241539</coordinates>
+</Point>
+<address>Mokyklos gatvė</address>
+</Placemark>
+<Placemark>
+<name>Šumsko paštas</name>
+<Point>
+<coordinates>25.7244275808334,54.6064984798431</coordinates>
+</Point>
+<address>Vilniaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Pabradės paštas</name>
+<Point>
+<coordinates>25.774484038353,54.9828870296478</coordinates>
+</Point>
+<address>Pašto gatvė</address>
+</Placemark>
+<Placemark>
+<name>Švenčionėlių paštas</name>
+<Point>
+<coordinates>25.9981244802475,55.1644818782806</coordinates>
+</Point>
+<address>Švenčionių gatvė</address>
+</Placemark>
+<Placemark>
+<name>Švenčionių paštas</name>
+<Point>
+<coordinates>26.1555341482162,55.1316068172455</coordinates>
+</Point>
+<address>Vilniaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Leipalingio paštas</name>
+<Point>
+<coordinates>23.8614317178726,54.091935634613</coordinates>
+</Point>
+<address>Merkinės gatvė</address>
+</Placemark>
+<Placemark>
+<name>Balbieriškio paštas</name>
+<Point>
+<coordinates>23.8882566690445,54.5175261497498</coordinates>
+</Point>
+<address>Vilniaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Lietuvos paštas</name>
+<Point>
+<coordinates>23.9765211343765,54.0167937278748</coordinates>
+</Point>
+<address>I. Fonbergo gatvė</address>
+</Placemark>
+<Placemark>
+<name>Alytaus m. 4-asis paštas</name>
+<Point>
+<coordinates>24.0190092325211,54.4072279930115</coordinates>
+</Point>
+<address>Naujoji gatvė</address>
+</Placemark>
+<Placemark>
+<name>Alytaus apskrities centrinis paštas</name>
+<Point>
+<coordinates>24.0458418130875,54.3965926170349</coordinates>
+</Point>
+<address>Pulko gatvė</address>
+</Placemark>
+<Placemark>
+<name>Merkinės paštas</name>
+<Point>
+<coordinates>24.1809812784195,54.1639113426208</coordinates>
+</Point>
+<address>Nemunaičio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Butrimonių paštas</name>
+<Point>
+<coordinates>24.249706864357,54.5017867088318</coordinates>
+</Point>
+<address>Margirio gatvė</address>
+</Placemark>
+<Placemark>
+<name>Senosios Varėnos paštas</name>
+<Point>
+<coordinates>24.5496717691422,54.2494139671326</coordinates>
+</Point>
+<address>Vytauto gatvė</address>
+</Placemark>
+<Placemark>
+<name>Onuškio paštas</name>
+<Point>
+<coordinates>24.5884519815445,54.4822783470154</coordinates>
+</Point>
+<address>Daugų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Matuizų paštas</name>
+<Point>
+<coordinates>24.676594376564,54.2758803367615</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Eišiškių paštas</name>
+<Point>
+<coordinates>24.9945188760757,54.1683821678162</coordinates>
+</Point>
+<address>Gegužės aikšte</address>
+</Placemark>
+<Placemark>
+<name>Baltosios Vokės paštas</name>
+<Point>
+<coordinates>25.1250120401382,54.4547057151794</coordinates>
+</Point>
+<address>Vilniaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Jašiūnų paštas</name>
+<Point>
+<coordinates>25.3120695352554,54.4389967918396</coordinates>
+</Point>
+<address>Saulėtoji gatvė</address>
+</Placemark>
+<Placemark>
+<name>Naudžių paštas</name>
+<Point>
+<coordinates>25.3242841959,54.5330748558044</coordinates>
+</Point>
+<address>Liepų gatvė</address>
+</Placemark>
+<Placemark>
+<name>Šalčininkų paštas</name>
+<Point>
+<coordinates>25.3842741250992,54.3074049949646</coordinates>
+</Point>
+<address>Vilniaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Turgelių paštas</name>
+<Point>
+<coordinates>25.5067182779312,54.4551558494568</coordinates>
+</Point>
+<address>Ilgoji gatvė</address>
+</Placemark>
+<Placemark>
+<name>Dieveniškių paštas</name>
+<Point>
+<coordinates>25.6249357461929,54.1939330101013</coordinates>
+</Point>
+<address>Vilniaus gatvė</address>
+</Placemark>
+<Placemark>
+<name>Medininkų paštas</name>
+<Point>
+<coordinates>25.6514631509781,54.5360426902771</coordinates>
+</Point>
+<address>Medaus gatvė</address>
+</Placemark>
+</Document>
+</kml>
