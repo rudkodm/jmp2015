@@ -1,4 +1,4 @@
-package by.rudko.oop.model.movements;
+package by.rudko.oop.model.context;
 
 /**
  * Created by rudkodm on 9/7/15.

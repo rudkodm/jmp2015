@@ -9,12 +9,10 @@ import by.rudko.oop.model.ApplicationContext;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import java.io.PrintStream;
 import java.util.Scanner;
 
 public class Application {
     private static final Logger LOG = LogManager.getLogger(Application.class);
-    private static final PrintStream OUT = System.out;
 
     public static void main(String[] args) throws Exception {
 

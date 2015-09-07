@@ -1,7 +1,7 @@
 package by.rudko.oop.menu.control.command;
 
 import by.rudko.oop.model.ApplicationContext;
-import by.rudko.oop.model.movements.WalkDirection;
+import by.rudko.oop.model.context.WalkDirection;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -38,7 +38,21 @@ public enum DuckControlCommandType implements Command<ApplicationContext> {
         }
     },
 
-    BACK("q") {
+    FLY("q") {
+        @Override
+        public void apply(ApplicationContext commandContext) {
+            commandContext.getDuck().fly();
+        }
+    },
+
+    SWIM("e") {
+        @Override
+        public void apply(ApplicationContext commandContext) {
+            commandContext.getDuck().swim();
+        }
+    },
+
+    BACK("b") {
         @Override
         public void apply(ApplicationContext commandContext) {
             //NON

@@ -11,7 +11,9 @@ public class DuckControlMenuView extends ConsoleView{
         builder.append("s - down;\r\n");
         builder.append("a - left;\r\n");
         builder.append("d - right;\r\n");
-        builder.append("q - back;\r\n");
+        builder.append("q - fly;\r\n");
+        builder.append("e - swim;\r\n");
+        builder.append("b - back;\r\n");
         return builder.toString();
     }
 }

@@ -3,6 +3,7 @@ package by.rudko.oop.menu.control.command;
 import by.rudko.oop.model.ApplicationContext;
 import by.rudko.oop.model.duck.DuckyDuck;
 import by.rudko.oop.model.duck.ToyDuck;
+import by.rudko.oop.utils.Constants;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -14,7 +15,7 @@ public enum MainMenuCommandType implements Command<ApplicationContext> {
     CREATE_TOY_DUCK("1") {
         @Override
         public void apply(ApplicationContext commandContext) {
-            commandContext.setDuck(new ToyDuck());
+            commandContext.setDuck(new ToyDuck(Constants.DEFAULT_DUCK_ENERGY_CAPACITY));
             LOG.info("New ToyDuck created");
         }
     },
@@ -22,7 +23,7 @@ public enum MainMenuCommandType implements Command<ApplicationContext> {
     CREATE_REAL_DUCK("2") {
         @Override
         public void apply(ApplicationContext commandContext) {
-            commandContext.setDuck(new DuckyDuck());
+            commandContext.setDuck(new DuckyDuck(Constants.DEFAULT_DUCK_ENERGY_CAPACITY));
             LOG.info("New DuckyDuck created");
         }
     },
@@ -30,7 +31,7 @@ public enum MainMenuCommandType implements Command<ApplicationContext> {
     EXIT("q") {
         @Override
         public void apply(ApplicationContext commandContext) {
-            System.exit(0);
+            System.exit(Constants.EXIT_CODE);
         }
     },
 

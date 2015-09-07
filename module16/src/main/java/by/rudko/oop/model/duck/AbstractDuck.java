@@ -1,6 +1,6 @@
 package by.rudko.oop.model.duck;
 
-import by.rudko.oop.model.movements.WalkDirection;
+import by.rudko.oop.model.context.WalkDirection;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -9,16 +9,40 @@ import org.apache.logging.log4j.Logger;
  */
 public abstract class AbstractDuck {
     private static final Logger LOG = LogManager.getLogger(AbstractDuck.class);
+
     private String clazzName = this.getClass().getSimpleName();
 
-    public void  walk(WalkDirection direction) {
+    protected int energyCapacity;
+    protected int energyRemaining;
+
+    protected DuckState state = DuckState.WALKING;
+
+    public void walk(WalkDirection direction) {
+        state = DuckState.WALKING;
+        doEnergyRequiredAction();
         LOG.info("{} is walking {}", clazzName, direction);
-    };
-    public void  swim() {
+    }
+
+    public void swim() {
+        state = DuckState.SWIMING;
+        doEnergyRequiredAction();
         LOG.info("{} is swimming", clazzName);
-    };
-    public void  quack() {
+    }
+
+    public void quack() {
         LOG.info("{} is quacks", clazzName);
+    }
+
+    protected final void doEnergyRequiredAction(){
+        energyRemaining--;
+        if(energyRemaining == 0){
+            recreateEnergy();
+            energyRemaining = energyCapacity;
+        }
     };
-    public abstract void  fly();
+
+    public abstract void fly();
+
+    protected abstract void recreateEnergy();
+
 }
