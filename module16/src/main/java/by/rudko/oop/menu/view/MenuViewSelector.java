@@ -22,9 +22,9 @@ public class MenuViewSelector {
         CONFIGURATION.put(ApplicationState.DUCK_CHOSEN_STATE, new DuckControlMenuView());
     }
 
-    public ConsoleView getView(ApplicationState state){
+    public ConsoleView getView(ApplicationState state) {
         ConsoleView view = CONFIGURATION.get(state);
-        if(view != null) {
+        if (view != null) {
             return view;
         } else {
             LOG.warn("No view for state: {}", state);

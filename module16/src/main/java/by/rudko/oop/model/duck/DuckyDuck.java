@@ -15,11 +15,11 @@ public class DuckyDuck extends AbstractDuck {
         this.energyRemaining = capacity;
     }
 
-    public void drink(){
+    public void drink() {
         LOG.info("DuckyDuck is drinking");
     }
 
-    public void eat(){
+    public void eat() {
         LOG.info("DuckyDuck is eating");
     }
 
@@ -32,7 +32,7 @@ public class DuckyDuck extends AbstractDuck {
 
     @Override
     protected void recreateEnergy() {
-        if(state == DuckState.SWIMING){
+        if (state == DuckState.SWIMING) {
             drink();
         } else {
             eat();

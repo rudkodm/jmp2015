@@ -8,8 +8,8 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 /**
-* Created by rudkodm on 9/7/15.
-*/
+ * Created by rudkodm on 9/7/15.
+ */
 public enum MainMenuCommandType implements Command<ApplicationContext> {
 
     CREATE_TOY_DUCK("1") {
@@ -38,13 +38,14 @@ public enum MainMenuCommandType implements Command<ApplicationContext> {
     NULL(null) {
         @Override
         public void apply(ApplicationContext commandContext) {
-           // NON
+            // NON
         }
     };
 
     private static final Logger LOG = LogManager.getLogger(MainMenuCommandType.class);
 
     private String value;
+
     MainMenuCommandType(String value) {
         this.value = value;
     }

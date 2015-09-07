@@ -9,13 +9,10 @@ import org.apache.logging.log4j.Logger;
  */
 public abstract class AbstractDuck {
     private static final Logger LOG = LogManager.getLogger(AbstractDuck.class);
-
-    private String clazzName = this.getClass().getSimpleName();
-
     protected int energyCapacity;
     protected int energyRemaining;
-
     protected DuckState state = DuckState.WALKING;
+    private String clazzName = this.getClass().getSimpleName();
 
     public void walk(WalkDirection direction) {
         state = DuckState.WALKING;
@@ -33,13 +30,15 @@ public abstract class AbstractDuck {
         LOG.info("{} is quacks", clazzName);
     }
 
-    protected final void doEnergyRequiredAction(){
+    protected final void doEnergyRequiredAction() {
         energyRemaining--;
-        if(energyRemaining == 0){
+        if (energyRemaining == 0) {
             recreateEnergy();
             energyRemaining = energyCapacity;
         }
-    };
+    }
+
+    ;
 
     public abstract void fly();
 

@@ -2,7 +2,7 @@ package by.rudko.oop.menu.state;
 
 import by.rudko.oop.menu.control.command.Command;
 
-import static by.rudko.oop.menu.control.command.DuckControlCommandType.*;
+import static by.rudko.oop.menu.control.command.DuckControlCommandType.BACK;
 import static by.rudko.oop.menu.control.command.MainMenuCommandType.CREATE_REAL_DUCK;
 import static by.rudko.oop.menu.control.command.MainMenuCommandType.CREATE_TOY_DUCK;
 

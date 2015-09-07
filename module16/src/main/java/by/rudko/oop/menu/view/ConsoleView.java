@@ -6,7 +6,7 @@ package by.rudko.oop.menu.view;
 public abstract class ConsoleView {
     protected abstract String getStringRepresentation();
 
-    public void print(){
+    public void print() {
         String s = this.getStringRepresentation();
         System.out.print(s);
     }

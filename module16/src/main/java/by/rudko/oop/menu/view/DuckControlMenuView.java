@@ -3,7 +3,7 @@ package by.rudko.oop.menu.view;
 /**
  * Created by rudkodm on 9/7/15.
  */
-public class DuckControlMenuView extends ConsoleView{
+public class DuckControlMenuView extends ConsoleView {
     @Override
     protected String getStringRepresentation() {
         StringBuilder builder = new StringBuilder();

@@ -22,9 +22,9 @@ public class CommandFactorySelector {
         CONFIGURATION.put(ApplicationState.DUCK_CHOSEN_STATE, new DuckControlCommandFactory());
     }
 
-    public CommandFactory getFactory(ApplicationState state){
+    public CommandFactory getFactory(ApplicationState state) {
         CommandFactory factory = CONFIGURATION.get(state);
-        if(factory!= null) {
+        if (factory != null) {
             return factory;
         } else {
             LOG.warn("No factory for state: {}", state);

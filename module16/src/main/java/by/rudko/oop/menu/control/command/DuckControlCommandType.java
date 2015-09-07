@@ -6,8 +6,8 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 /**
-* Created by rudkodm on 9/7/15.
-*/
+ * Created by rudkodm on 9/7/15.
+ */
 public enum DuckControlCommandType implements Command<ApplicationContext> {
 
     UP("w") {
@@ -70,6 +70,7 @@ public enum DuckControlCommandType implements Command<ApplicationContext> {
     private static final Logger LOG = LogManager.getLogger(DuckControlCommandType.class);
 
     private String value;
+
     DuckControlCommandType(String value) {
         this.value = value;
     }
