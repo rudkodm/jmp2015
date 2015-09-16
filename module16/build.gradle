@@ -1,0 +1,25 @@
+apply plugin:'application'
+apply plugin: 'java'
+
+sourceCompatibility = '1.8'
+targetCompatibility = '1.8'
+
+group = 'by.rudko.oop'
+version = '1.0'
+
+applicationName = rootProject.name;
+mainClassName = 'by.rudko.oop.Application'
+
+jar.archiveName = "${project.name}.jar"
+
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'org.apache.logging.log4j:log4j-core:2.1'
+}
+
+applicationDefaultJvmArgs = []
+
